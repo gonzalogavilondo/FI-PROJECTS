@@ -1,0 +1,15 @@
+Calcule el promedio de las notas del primer parcial de Programación
+Estructurada sabiendo que, como recompensa se les agrega un 20% de
+nota a aquellos que tengan nota mayor o igual a 7.
+
+Entrada: 20% alumnos con nota >= 7
+
+20%nota = si 100%----10
+	      20%  nota = (20*10)/100 = 2= 20%nota
+
+si alumno >= 7 --> nota final = (nota+2)
+
+
+
+Salida: Promedio_notas
+	

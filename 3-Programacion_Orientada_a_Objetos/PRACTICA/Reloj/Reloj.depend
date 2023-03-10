@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636665077 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\reloj\main.cpp
+	"Reloj.h"
+
+1636665067 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\reloj\src\reloj.cpp
+	"Reloj.h"
+
+1636665053 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\reloj\include\reloj.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<sstream>
+	<string>
+

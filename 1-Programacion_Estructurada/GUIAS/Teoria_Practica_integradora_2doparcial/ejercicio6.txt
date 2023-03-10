@@ -1,0 +1,14 @@
+----- Menu de opciones -----
+
+
+S = Suma los números
+
+R = Resta el primer valor del segundo
+
+M = Multiplica los números
+
+A = Calcula el valor absoluto del complejo
+
+
+
+Q = Sale del programa

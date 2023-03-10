@@ -1,0 +1,234 @@
+# depslib dependency file v1.0
+1524064929 source:c:\users\anibal\workspace\c\estructurada\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"../menu_generico/menu.h"
+
+1524064146 source:c:\users\anibal\workspace\c\estructurada\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1523555854 c:\users\anibal\workspace\c\estructurada\menu_generico\entrada_salida.h
+
+1524064911 source:c:\users\anibal\workspace\c\estructurada\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524064925 c:\users\anibal\workspace\c\estructurada\menu_generico\menu.h
+
+1523562262 c:\users\anibal\workspace\c\estructurada\ejemplo2018\operaciones.h
+
+1524050680 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\menu_generico\entrada_salida.h
+
+1524515736 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\menu_generico\menu.h
+
+1524516696 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516696 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+
+1524516752 c:\users\juansito\desktop\cosas codeblocks\cosa suelta\anibalnuevo\estructurada-master\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524050680 source:i:\programación estructurada\esta bien!!\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 i:\programación estructurada\esta bien!!\menu_generico\entrada_salida.h
+
+1524515736 source:i:\programación estructurada\esta bien!!\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 i:\programación estructurada\esta bien!!\menu_generico\menu.h
+
+1524516696 source:i:\programación estructurada\esta bien!!\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516752 i:\programación estructurada\esta bien!!\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524617221 source:i:\programación estructurada\esta bien!!\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+
+1524050680 source:f:\programación estructurada\esta bien!!\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 f:\programación estructurada\esta bien!!\menu_generico\entrada_salida.h
+
+1524515736 source:f:\programación estructurada\esta bien!!\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 f:\programación estructurada\esta bien!!\menu_generico\menu.h
+
+1524516696 source:f:\programación estructurada\esta bien!!\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516752 f:\programación estructurada\esta bien!!\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524617221 source:f:\programación estructurada\esta bien!!\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+
+1524050680 source:e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.h
+
+1524515738 source:e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.h
+
+1524516698 source:e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516754 e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524617222 source:e:\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+
+1524050680 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.h
+
+1524515738 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.h
+
+1524516698 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516754 c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524617222 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+
+1524050680 source:d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.h
+
+1524515738 source:d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.h
+
+1524516698 source:d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516754 d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524617222 source:d:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+
+1524050680 source:g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.c
+	<stdio.h>
+	<stdlib.h>
+	"entrada_salida.h"
+
+1524050680 g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\entrada_salida.h
+
+1524515738 source:g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"entrada_salida.h"
+
+1524050680 g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\menu_generico\menu.h
+
+1524516698 source:g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"header_opsMatrices.h"
+	"../menu_generico/menu.h"
+
+1524516754 g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\header_opsmatrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524617222 source:g:\facultad\programacion_estructurada\pruebas_importantes\ejemplo_anibal_completo\ejemplo2018\source_opsmatrices.c
+	"header_opsMatrices.h"
+

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1357014093 source:c:\users\gonza\desktop\ej7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357014092 c:\users\gonza\desktop\ej7\declaraciones_menu.h
+
+1357014100 source:c:\users\gonza\desktop\ej7\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357014110 source:c:\users\gonza\desktop\ej7\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1357011388 source:d:\facultad\programacion_estructurada\guias\guia_3\ej7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357014092 d:\facultad\programacion_estructurada\guias\guia_3\ej7\declaraciones_menu.h
+
+1357011388 source:d:\facultad\programacion_estructurada\guias\guia_3\ej7\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011423 source:d:\facultad\programacion_estructurada\guias\guia_3\ej7\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1357011423 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej7\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1357014092 c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej7\declaraciones_menu.h
+
+1556659640 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\guias\guia_3\ej7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357014092 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\guias\guia_3\ej7\declaraciones_menu.h
+
+1556659640 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\guias\guia_3\ej7\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011423 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\guias\guia_3\ej7\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

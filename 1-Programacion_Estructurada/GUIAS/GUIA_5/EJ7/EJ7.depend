@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524800156 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1524800206 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

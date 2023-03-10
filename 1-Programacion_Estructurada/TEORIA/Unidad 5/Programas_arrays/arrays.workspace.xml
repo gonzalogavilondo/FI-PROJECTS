@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Ej1_vector/Ej1_vector.cbp" />
+		<Project filename="Ej2_vector_memoria/Ej2_vector_memoria.cbp" />
+		<Project filename="Ej3_vector_ingreso/Ej3_vector_ingreso.cbp" />
+		<Project filename="Ej4_matriz/Ej4_matriz.cbp" />
+		<Project filename="Ej5_matriz_invade/Ej5_matriz_invade.cbp" />
+		<Project filename="Ej6_matriz_3d/Ej6_matriz_3d.cbp" />
+		<Project filename="Ej7a_vector_parametro/Ej7a_vector_parametro.cbp" />
+		<Project filename="Ej7b_vector_parametro/Ej7b_vector_parametro.cbp" />
+		<Project filename="Ej8_vector_const/Ej8_vector_const.cbp" />
+		<Project filename="Ej9_matriz_parametro/Ej9_matriz_parametro.cbp" />
+		<Project filename="Ej10_matriz3d_parametro/Ej10_matriz3d_parametro.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

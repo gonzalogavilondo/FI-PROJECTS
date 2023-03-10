@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1554148533 source:c:\users\gonza\desktop\recorrer_mostrar_matriz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148321 c:\users\gonza\desktop\recorrer_mostrar_matriz\declaracion_funciones.h
+
+1554148457 source:c:\users\gonza\desktop\recorrer_mostrar_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148533 source:d:\facultad\programacion_estructurada\funciones\recorrer_mostrar_matriz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148321 d:\facultad\programacion_estructurada\funciones\recorrer_mostrar_matriz\declaracion_funciones.h
+
+1357012822 source:d:\facultad\programacion_estructurada\funciones\recorrer_mostrar_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148533 source:f:\programacion_estructurada\funciones\recorrer_mostrar_matriz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148321 f:\programacion_estructurada\funciones\recorrer_mostrar_matriz\declaracion_funciones.h
+
+1554414731 source:f:\programacion_estructurada\funciones\recorrer_mostrar_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148533 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\funciones\recorrer_imprimir_matriz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+
+1554148321 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\funciones\recorrer_imprimir_matriz\declaracion_funciones.h
+
+1357012822 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\funciones\recorrer_imprimir_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaracion_funciones.h"
+

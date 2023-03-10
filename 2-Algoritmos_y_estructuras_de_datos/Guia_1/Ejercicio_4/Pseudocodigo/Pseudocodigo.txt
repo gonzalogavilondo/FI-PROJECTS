@@ -1,0 +1,15 @@
+Algoritmo Nota
+	Definir n Como Real
+	Escribir 'Ingrese la nota de la asignatura'
+	Leer n
+	Mientras (n<0) O (n>10) Hacer
+		Escribir 'ERROR: Nota incorrecta'
+		Escribir 'Ingrese la nota de la asignatura: '
+		Leer n
+	FinMientras
+	Si n>=5 Entonces
+		Escribir 'APROBADO'
+	SiNo
+		Escribir 'SUSPENDIDO'
+	FinSi
+FinAlgoritmo

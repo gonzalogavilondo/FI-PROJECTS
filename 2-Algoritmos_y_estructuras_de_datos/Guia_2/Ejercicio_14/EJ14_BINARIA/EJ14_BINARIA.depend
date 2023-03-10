@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617567554 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14_binaria\main.c
+	"declaraciones.h"
+
+1617565387 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14_binaria\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617567470 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14_binaria\funciones.c
+	"declaraciones.h"
+

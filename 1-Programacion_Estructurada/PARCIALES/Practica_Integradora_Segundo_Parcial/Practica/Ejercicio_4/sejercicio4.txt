@@ -1,0 +1,5 @@
+1º Distancia = 5.00
+2º Distancia = 2.24
+3º Distancia = 18.03
+4º Distancia = 9.22
+5º Distancia = 16.12

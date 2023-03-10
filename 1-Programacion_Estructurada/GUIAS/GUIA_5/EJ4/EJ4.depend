@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1524778466 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1556051765 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej4\main.c
+	<stdio.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+
+1556052059 c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej4\declaraciones_funciones.h
+
+1556052130 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej4\funciones.c
+	<stdio.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+

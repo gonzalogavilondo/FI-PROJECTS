@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1560365319 source:g:\facultad\programacion_estructurada\preguntas_clase\practica_archivos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1560363597 g:\facultad\programacion_estructurada\preguntas_clase\practica_archivos\declaraciones.h
+	<stdint.h>
+
+1560363011 source:g:\facultad\programacion_estructurada\preguntas_clase\practica_archivos\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561061742 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\practica_archivos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1560969682 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\practica_archivos\declaraciones.h
+	<stdint.h>
+
+1560969796 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\practica_archivos\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones.h"
+

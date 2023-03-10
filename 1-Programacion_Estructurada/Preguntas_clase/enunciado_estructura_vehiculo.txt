@@ -1,0 +1,23 @@
+vehiculo -> tipo(n ruedas, potencia, capacidad_pasajeros, peso)
+         -> modelo(fecha_fab)
+	 -> nombre(propietario)
+ 	 -> color
+         -> n patente(n patente, fecha_ult_transferencia)
+	 
+
+1)  Crear la estructura y desde el main invocar a ingreso_datos
+ e impresion_datos y otra que sea modificar_datos, donde modificar
+datos tendria que pasar por parametro la estructura y el campo
+que deseo modificar.
+
+Luego un puntero a esa estructura y trabajar todo con punteros
+Primero todo estatico, despues todo dinamico.
+Se le va a pedir al usuario la cantidad de vehiculos
+que tiene y en funcion de eso reservar memoria.
+
+
+2 letras (patente nueva)
+
+
+
+//tarea: pasar a punteros (vehiculo sea un puntero)

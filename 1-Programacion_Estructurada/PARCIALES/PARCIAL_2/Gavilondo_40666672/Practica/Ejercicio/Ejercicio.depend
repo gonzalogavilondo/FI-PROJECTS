@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1561127996 source:d:\gavilondo_40666672\practica\ejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1561127904 d:\gavilondo_40666672\practica\ejercicio\declaraciones.h
+
+1561127962 source:d:\gavilondo_40666672\practica\ejercicio\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1561499844 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\gavilondo_40666672\practica\ejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1561500066 c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\gavilondo_40666672\practica\ejercicio\declaraciones.h
+
+1561501189 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\gavilondo_40666672\practica\ejercicio\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1561552528 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_2\gavilondo_40666672\practica\ejercicio\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+
+1561500066 c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_2\gavilondo_40666672\practica\ejercicio\declaraciones.h
+
+1561499844 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_2\gavilondo_40666672\practica\ejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones.h"
+

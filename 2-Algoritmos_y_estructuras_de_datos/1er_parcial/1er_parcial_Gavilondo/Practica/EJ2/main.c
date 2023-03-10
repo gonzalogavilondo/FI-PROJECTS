@@ -1,0 +1,183 @@
+#include "declaraciones.h"
+
+int main()
+{
+    ///La matriz ya esta definida de forma estatica, es de 7x7
+    char matriz[FILS][COLS] = {{'0', '0', '0', '0', '0', '0', '0'},
+                               {'7', '0', '0', '0', '0', '0', '0'},
+                               {'.', '{', '0', '0', '0', '0', '0'},
+                               {'8', '+', '[', '0', '0', '0', '0'},
+                               {'(', '9', '-', '2', '0', '0', '0'},
+                               {')', '.', '(', '5', '+', '0', '0'},
+                               {'2', '+', '6', ')', ']', '}', '0'}};
+
+   /*char matriz[FILS][COLS] = {{'0', '0', '0','0', '0', '0', '0'},
+                               {'(', '0', '0', '0', '0', '0', '0'},
+                               {'5', '+', '0', '0', '0', '0', '0'},
+                               {'6', '+', '3', '0', '0', '0', '0'},
+                               {')', '.', '{', '(', '0', '0', '0'},
+                               {'5', '.', '[', '2', '+', '0', '0'},
+                               {'3', ')', ']', '/', '2', '}', '0'}};*/
+
+   /*char matriz[FILS][COLS] = {{'0', '0', '0', '0', '0', '0', '0'},
+                               {'{', '0', '0', '0', '0', '0', '0'},
+                               {'{', '(', '0', '0', '0', '0', '0'},
+                               {'8', '+', '3', '0', '0', '0', '0'},
+                               {')', '.', '(', '1', '0', '0', '0'},
+                               {'+', '6', ')', '.', '(', '0', '0'},
+                               {'5', '+', '8', '+', '2', ')', '0'}};*/
+
+    ///Declaraciones de variables a utilizar
+    char vector[MAX] = {'0'}; //Donde voy a guardar el mapeo de la matriz.
+    int vectop [7] = {0}; //Donde voy a guardar los operandos de la expresion.
+    int vectord [7] = {0}; //Donde voy a guardar los elementos ordenados por couting
+    PILA pila; //Declaracion de la pila.
+    LISTA lista; //Declaracion de la lista
+    int codificar; //Voy a utilizar esta variable para verificar si la expresion esta correctamente balanceada.
+    int max; //Maximo de los operandos que se encuentran en vectop.
+    int pos_max; //Posicion del maximo de los operandos que se encuentra en vectop.
+    int min; //Minimo de los operandos que se encuentran en vectop.
+    int pos_min;//Posicion del minimo de los operandos que se encuentra en vectop.
+
+    ///Inicializamos la pila
+    inicializar_pila(&pila);
+
+    ///Mostramos la matriz original
+    printf("-MATRIZ ORIGINAL-\n");
+    imprimir_matriz(matriz);
+
+    ///Mapeamos
+    printf("-VECTOR-\n");
+    mapear_matriz(matriz, vector);
+
+    ///Mostramos como queda el vector
+    imprimir_vector_char(vector);
+
+    ///Luego de mapear la matriz, debemos verificar si la expresion esta correctamente balanceada
+    codificar = codificacion(vector);
+    comprobar(codificar);
+
+    ///Ahora tenemos que guardar los operandos en vectop
+    char_a_entero(vector, vectop);
+    printf("\n-VECTOP-\n");
+    imprimir_vector_int(vectop);
+
+    ///Maximo de los operandos que se encuentran en vectop
+    max = maximo(vectop, 0, 6);
+
+    ///Buscamos la posicion del maximo con una busqueda  secuencial
+    pos_max = busqueda_secuencial(vectop, max, sizeof(vectop)/sizeof(int));
+    printf("El maximo de vectop es: %d y se encuentra en la posicion: %d", max, pos_max+1);
+
+    ///Minimo de los operandos que se encuentran en vectop
+    min = minimo(vectop, 0, 6);
+
+    ///Buscamos la posicion del minimo con una busqueda  secuencial
+    pos_min = busqueda_secuencial(vectop, min, sizeof(vectop)/sizeof(int));
+    printf("\nEl minimo de vectop es: %d y se encuentra en la posicion: %d\n\n", min, pos_min+1);
+    //Nota: Cuando buscamos con busqueda secuencial un numero que se encuentre repetido, toma la posicion el último que encontró.
+
+    ///Ordenamiento Couting
+    couting(vectord, vectop, min, max);
+    printf("-VECTORD-\n");
+    imprimir_vector_int(vectord);
+
+    ///Cargamos vectop en una lista
+    inicializar_lista(&lista);
+    cargar_lista(vectop, &lista);
+    printf("-LISTA ORIGINAL-\n");
+    imprimir_lista(&lista);
+
+    ///Insertamos el 7 en la posicion anterior a la del maximo y el 2 en la posicion siguiente a la del minimo
+    insert(7, pos_max, &lista); //Le paso directamente pos_max, ya que si le paso "pos_max - 1" se inserta en una posicion antes, pero el que estaba en esa posicion, se corre a la siguiente posicion. Entonces quedaria el numero insertado en una posicion anterior a la que se pide.
+    printf("-LISTA DESPUES DE INSERTAR UN 7 EN LA POSICION ANTERIOR AL MAXIMO-\n");
+    imprimir_lista(&lista);
+
+    ///Tenemos que actualizar la posicion del minimo, ya que luego de hacer el insert anterior, la posicion va a estar corrida
+    pos_min = posmin_lista(&lista); //Refrezco la posicion minima despues de insertar el "7"
+    insert(2, pos_min + 1, &lista);
+    printf("-LISTA DESPUES DE INSERTAR UN 2 EN LA POSICION POSTERIOR AL MINIMO-\n");
+    imprimir_lista(&lista);
+
+    return 0;
+}
+
+/************************************************************************************************************
+-RAZONAMIENTO PARA CADA INCISO-
+
+INCISO A)
+MATRIZ TRIANGULAR SUPERIOR
+                                  j
+                               i  0 1 2 3 4 5
+                               0| a 0 0 0 0 0 |
+                               1| b c 0 0 0 0 |
+                               2| d e f 0 0 0 |
+                               3| g h i j 0 0 |
+                               4| k l m n o 0 |
+                               5| o p q r s t |
+
+Luego, para declarar el vector:
+
+En general, si la matriz es de nxn, se requieren n2 posiciones de memoria para guardar la matriz completa,
+pero solamente 1+2+3+...+n = n(n+1)/2 posiciones para guardar los datos de la matriz triangular -> 6*(6+1)/2 = 20/2 = 21 lugares.
+Por eso, LONGMAX = 21.
+
+
+INCISO B)
+Para decir si los corchetes, parentesis y llaves estan bien balanceados, tenemos que pensar lo siguiente:
+¿Como seria una expresion correcta?
+Bueno, si yo abro una llave "{" despues un corchete "[" y por ultimo un parentesis "(", lo primero que se
+tiene que cerrar, es lo último que entró (Como pasa en una pila), es decir, el parentesis y asi seguir.
+Entonces, la expresion correcta quedaria: {[()]}.
+¿Que pasa si yo pusheo cuando hay caracteres de apertura y popeo cuando hay caracteres de cierre?
+Bueno, antes de popear me fijo si el caracter anterior (el ultimo que quedo en la pila) es de la misma naturaleza
+que el que estoy a punto de popear, es decir, hago un peek del ultimo que ingreso y me fijo si es de la misma naturaleza que el caracter
+de cierre. Si es asi, entonces popeo. -> ¿Que va a pasar con esa pila?¿Cuando va a estar correcta la expresion?
+Lo que va a pasar con la pila, es que si esta balanceada la expresion, se va a ir vaciando y va a estar correcta
+la expresion cuando la pila quede totalmente vacia.
+
+Ejemplo:
+{[()()]} Lo que deberia pasar es lo siguiente:
+Cuando tengo elementos de apertura pusheo en la pila, luego me encuentro con un caracter de cierre, cuando pasa eso
+tengo que ver en la pila, hacer un peek (Me fijo el ultimo caracter que hay) si es del mismo tipo que el que quiero popear
+Si es asi, entonces popeo, en este caso va a pasar lo siguiente:
+push, push, push -> En la pila tengo almacenados los caracteres de apertura, luego me encuentro con uno de cierre
+-> peek (Me fijo el ultimo de la pila y comparo si es de la misma naturaleza) -> pop
+Sigo... push, peek, pop, pop, pop -> La pila queda vacia -> La expresion se encuentra balanceada correctamente.
+
+INCISO C Y D)
+Tengo que almacenar los operandos del vector en un nuevo vector como entero para luego hallar el maximo y minimo con su respectiva
+posicion.
+
+INCISO E)
+Me pide un algoritmo de ordenamiento que tenga como argumentos el intervalo donde se encuentran los datos a ordenar,
+ese intervalo es el minimo y el maximo de los incisos anteriores.
+Es decir que este nuevo algoritmo de ordenamiento tiene como intervalo inferior: 2 y como intervalo superior: 9.
+Basicamente este tipo de ordenamiento ya existe y se llama COUTING.
+El metodo couting encuentra el valor minimo y el maximo de un vector (ya lo tenemos de incisos anteriores)
+y tengo un vector entonces entre esos dos valores (entre el minimo y el maximo), luego cuenta las ocurrencias, no tiene
+ningun problema con contar con repeticiones de valores. Entonces cuenta para cada valor del vector la cantidad de veces
+que se encuentra repetido en dicho vector y luego va recorriendo el vector de menor a mayor o de mayor a menor y pone el numero
+la cantidad de veces que esta repetido.
+
+Por ejemplo: Tengo el vector [4 3 1 5 2 6 8 2]
+Maximo: 8
+Minimo: 1
+
+Numero   Cnt repeticiones
+1          1
+2          2
+3          1
+4          1
+5          1
+6          1
+7          0
+8          1
+
+-> El vector resultante ordenado de mayor a menor es: [8 6 5 4 3 2 2 1]
+Es lo mismo que me pide en este inciso.
+El problema que tiene este tipo de ordenamiento es que si el valor maximo en vez de "8" fuese "9999" por
+dar un numero grande, entonces desde el "6" al "9999" tengo que poner 9993 ceros en cantidad de repeticiones.
+
+
+******************************************************************************************************************************************/

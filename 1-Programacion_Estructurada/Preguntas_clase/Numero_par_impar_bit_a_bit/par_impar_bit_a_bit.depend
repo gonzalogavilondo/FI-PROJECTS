@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553196298 source:c:\users\gonza\desktop\par_impar_bit_a_bit\main.c
+	<stdio.h>
+	<stdlib.h>
+

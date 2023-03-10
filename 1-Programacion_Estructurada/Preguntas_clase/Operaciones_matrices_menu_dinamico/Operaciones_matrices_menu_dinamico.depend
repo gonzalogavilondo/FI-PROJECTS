@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1558040844 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040921 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones_reales.h
+
+1558036581 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040844 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_menu.h
+
+1558040844 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558038375 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones.h
+
+1558040844 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+
+1558041568 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\main.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558099079 source:f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+
+1558040921 f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones_reales.h
+
+1558038375 f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones.h
+
+1558040844 source:f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558036581 source:f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040844 f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_menu.h
+
+1558095296 source:f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\main.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558095296 source:f:\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040844 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040921 c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones_reales.h
+
+1558036581 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040844 c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_menu.h
+
+1558095296 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558038375 c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones.h
+
+1559152431 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+
+1558188539 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\main.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1559152431 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+
+1558040921 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones_reales.h
+
+1558038375 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones.h
+
+1558040844 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558188539 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\main.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040844 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_menu.h
+
+1558036581 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558095296 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1559152431 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+
+1558040921 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones_reales.h
+
+1558038375 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones.h
+
+1558040844 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558188539 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\main.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558040844 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_menu.h
+
+1558036581 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558095296 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

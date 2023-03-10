@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1620426548 source:c:\users\gonza\desktop\alumno_4\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620426451 c:\users\gonza\desktop\alumno_4\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620427163 source:c:\users\gonza\desktop\alumno_4\practica\ej2\main.c
+	"declaraciones.h"
+
+1620425088 source:c:\users\gonza\desktop\alumno_4\practica\ej2\fila.c
+	"declaraciones.h"
+
+1620425088 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\1er_parcial\practica\ej2\fila.c
+	"declaraciones.h"
+
+1620426451 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\1er_parcial\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620427224 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\1er_parcial\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620425088 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\practica\ej2\fila.c
+	"declaraciones.h"
+
+1620836020 c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620836172 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620838171 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\practica\ej2\main.c
+	"declaraciones.h"
+
+1620765755 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\practica\ej2\pila.c
+	"declaraciones.h"
+
+1620832210 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\practica\ej2\listas.c
+	"declaraciones.h"
+
+1620836172 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial_gavilondo\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620836020 c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial_gavilondo\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620832210 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial_gavilondo\practica\ej2\listas.c
+	"declaraciones.h"
+
+1620765755 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial_gavilondo\practica\ej2\pila.c
+	"declaraciones.h"
+
+1620838325 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial_gavilondo\practica\ej2\main.c
+	"declaraciones.h"
+
+1620836172 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620836020 c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620832210 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\listas.c
+	"declaraciones.h"
+
+1620765755 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\pila.c
+	"declaraciones.h"
+
+1620836172 source:c:\users\gonza\desktop\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620836020 c:\users\gonza\desktop\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620832210 source:c:\users\gonza\desktop\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\listas.c
+	"declaraciones.h"
+
+1621015953 source:c:\users\gonza\desktop\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\main.c
+	"declaraciones.h"
+
+1620765755 source:c:\users\gonza\desktop\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\pila.c
+	"declaraciones.h"
+
+1620821772 source:g:\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\funciones.c
+	"declaraciones.h"
+
+1620821620 g:\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620817810 source:g:\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\listas.c
+	"declaraciones.h"
+
+1621001552 source:g:\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\main.c
+	"declaraciones.h"
+
+1620751354 source:g:\facultad\3_anio\1er_cuatrimestre\ayed\1er_parcial\1er_parcial_gavilondo\practica\ej2\pila.c
+	"declaraciones.h"
+

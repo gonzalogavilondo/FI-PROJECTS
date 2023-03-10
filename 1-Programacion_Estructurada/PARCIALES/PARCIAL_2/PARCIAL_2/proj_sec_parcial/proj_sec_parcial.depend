@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1529680098 source:d:\gutierrez 11863\segundo_parcial\proj_sec_parcial\implementaciones.c
+	"cabeceras.h"
+
+1529680594 d:\gutierrez 11863\segundo_parcial\proj_sec_parcial\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1529679351 source:d:\gutierrez 11863\segundo_parcial\proj_sec_parcial\main.c
+	"cabeceras.h"
+
+1529979379 source:c:\users\pablo\documents\facultad\pe\2018\segundo parcial\entregas\gutierrez 11863\segundo_parcial\proj_sec_parcial\implementaciones.c
+	"cabeceras.h"
+
+1529977489 c:\users\pablo\documents\facultad\pe\2018\segundo parcial\entregas\gutierrez 11863\segundo_parcial\proj_sec_parcial\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1529976662 source:c:\users\pablo\documents\facultad\pe\2018\segundo parcial\entregas\gutierrez 11863\segundo_parcial\proj_sec_parcial\main.c
+	"cabeceras.h"
+
+1529979379 source:e:\programacion_estructurada\pablitou\gutierrez 11863\segundo_parcial\proj_sec_parcial\implementaciones.c
+	"cabeceras.h"
+
+1529977489 e:\programacion_estructurada\pablitou\gutierrez 11863\segundo_parcial\proj_sec_parcial\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1529976662 source:e:\programacion_estructurada\pablitou\gutierrez 11863\segundo_parcial\proj_sec_parcial\main.c
+	"cabeceras.h"
+
+1529979379 source:c:\users\juansito\desktop\facultad\2do año\1er cuatrimestre\programacion_estructurada\parciales\parcial_2\proj_sec_parcial\implementaciones.c
+	"cabeceras.h"
+
+1529977489 c:\users\juansito\desktop\facultad\2do año\1er cuatrimestre\programacion_estructurada\parciales\parcial_2\proj_sec_parcial\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1530709749 source:c:\users\juansito\desktop\facultad\2do año\1er cuatrimestre\programacion_estructurada\parciales\parcial_2\proj_sec_parcial\main.c
+	"cabeceras.h"
+
+1529979379 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\parcial_2\proj_sec_parcial\implementaciones.c
+	"cabeceras.h"
+
+1529977489 c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\parcial_2\proj_sec_parcial\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1530709749 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\parcial_2\proj_sec_parcial\main.c
+	"cabeceras.h"
+

@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1558098950 source:f:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\funciones.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557496595 f:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\\declaraciones_funciones.h
+
+1557860107 source:f:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\main.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557588123 source:d:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\funciones.c
+	<declaraciones_funciones.h>
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557588116 d:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\\declaraciones_funciones.h
+
+1557588148 source:d:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\main.c
+	<declaraciones_funciones.h>
+	<declaraciones_funciones_reales.h>
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557588116 source:d:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\funciones_reales.c
+	<declaraciones_funciones_reales.h>
+	<stdio.h>
+
+1557588116 d:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\\declaraciones_funciones_reales.h
+
+1557945895 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\funciones_reales.c
+	<declaraciones_funciones_reales.h>
+	<stdio.h>
+
+1558036351 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\funciones.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557757852 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\declaraciones_funciones.h
+
+1557860107 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\main.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557757852 f:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\declaraciones_funciones.h
+
+1557945895 source:f:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\funciones_reales.c
+	<declaraciones_funciones_reales.h>
+	<stdio.h>
+
+1557588116 f:\facultad\programacion_estructurada\preguntas_clase\suma_matrices_dinamico\\declaraciones_funciones_reales.h
+
+1558099005 source:f:\facultad\programacion_estructurada\guias\guia_6\ej5_dinamico\funciones.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557757852 f:\facultad\programacion_estructurada\guias\guia_6\ej5_dinamico\declaraciones_funciones.h
+
+1557945895 source:f:\facultad\programacion_estructurada\guias\guia_6\ej5_dinamico\funciones_reales.c
+	<declaraciones_funciones_reales.h>
+	<stdio.h>
+
+1557860107 source:f:\facultad\programacion_estructurada\guias\guia_6\ej5_dinamico\main.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557945895 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej5\funciones_reales.c
+	<declaraciones_funciones_reales.h>
+	<stdio.h>
+
+1560950466 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej5\main.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1560950460 c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej5\declaraciones_funciones.h
+
+1560950460 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej5\funciones.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1560936060 source:f:\fi\2_anio\1er_cuatrimestre\programacion_estructurada\guias\guia_6\ej5\funciones.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1560936060 f:\fi\2_anio\1er_cuatrimestre\programacion_estructurada\guias\guia_6\ej5\declaraciones_funciones.h
+
+1677072602 source:f:\fi\2_anio\1er_cuatrimestre\programacion_estructurada\guias\guia_6\ej5\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+
+1560936098 source:f:\fi\2_anio\1er_cuatrimestre\programacion_estructurada\guias\guia_6\ej5\main.c
+	"declaraciones_funciones.h"
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1557573716 f:\fi\2_anio\1er_cuatrimestre\programacion_estructurada\guias\guia_6\ej5\declaraciones_funciones_reales.h
+

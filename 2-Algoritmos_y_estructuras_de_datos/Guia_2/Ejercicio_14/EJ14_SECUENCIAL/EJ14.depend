@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1617563518 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14\main.c
+	"declaraciones.h"
+
+1617561986 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617563424 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14\funciones.c
+	"declaraciones.h"
+
+1617565689 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14_secuencial\funciones.c
+	"declaraciones.h"
+
+1617565689 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14_secuencial\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617567666 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_14\ej14_secuencial\main.c
+	"declaraciones.h"
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1561489125 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561488807 c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_1\declaraciones.h
+
+1561490588 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_1\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1560953350 source:c:\users\gonza\desktop\ejercicio_1\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1560953285 c:\users\gonza\desktop\ejercicio_1\declaraciones.h
+
+1560953285 source:c:\users\gonza\desktop\ejercicio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561490588 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_1\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561488807 c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_1\declaraciones.h
+
+1561489125 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561490588 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\practica_integradora_segundo_parcial\practica\ejercicio_1\implementaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561488807 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\practica_integradora_segundo_parcial\practica\ejercicio_1\declaraciones.h
+
+1561489125 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\practica_integradora_segundo_parcial\practica\ejercicio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+

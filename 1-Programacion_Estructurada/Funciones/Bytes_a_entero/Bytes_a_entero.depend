@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556126709 source:c:\users\gonza\desktop\programacion_estructurada\funciones\bytes_a_entero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+
+1556126709 c:\users\gonza\desktop\programacion_estructurada\funciones\bytes_a_entero\declaraciones_funciones.h
+
+1556126709 source:c:\users\gonza\desktop\programacion_estructurada\funciones\bytes_a_entero\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556126709 source:g:\facultad\programacion_estructurada\funciones\bytes_a_entero\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556126709 g:\facultad\programacion_estructurada\funciones\bytes_a_entero\declaraciones_funciones.h
+
+1556126709 source:g:\facultad\programacion_estructurada\funciones\bytes_a_entero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+

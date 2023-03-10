@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525992561 source:c:\users\juansito\desktop\ej6_con_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1525992774 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej6_con_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+

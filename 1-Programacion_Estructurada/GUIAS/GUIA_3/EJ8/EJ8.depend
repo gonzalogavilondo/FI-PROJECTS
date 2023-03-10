@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523142074 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 3\ej8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1552601459 source:f:\programacion_estructurada\guias\guia_3\ej8\main.c
+	<header.h>
+
+1552601459 source:f:\programacion_estructurada\guias\guia_3\ej8\source.c
+
+1552601459 f:\programacion_estructurada\guias\guia_3\ej8\\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552601459 source:c:\users\gonza\music\programacion_estructurada\guias\guia_3\ej8\main.c
+	<header.h>
+
+1552601459 source:c:\users\gonza\music\programacion_estructurada\guias\guia_3\ej8\source.c
+

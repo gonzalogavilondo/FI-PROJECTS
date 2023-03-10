@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1633103238 source:c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\polinomio1erparcial\src\ctermino.cpp
+	"CTermino.h"
+
+1633094902 c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\polinomio1erparcial\include\ctermino.h
+	<iostream>
+
+1633103348 source:c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\polinomio1erparcial\main.cpp
+	<iostream>
+	"polinomio.h"
+	"CTermino.h"
+
+1633103024 c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\polinomio1erparcial\polinomio.h
+	<iostream>
+	<vector>
+	"CTermino.h"
+
+1633103412 source:c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\polinomio1erparcial\polinomio.cpp
+	<iostream>
+	<cmath>
+	"polinomio.h"
+
+1633103412 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\carneiro\polinomio1erparcial\polinomio.cpp
+	<iostream>
+	<cmath>
+	"polinomio.h"
+
+1633103024 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\carneiro\polinomio1erparcial\polinomio.h
+	<iostream>
+	<vector>
+	"CTermino.h"
+
+1633094902 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\carneiro\polinomio1erparcial\include\ctermino.h
+	<iostream>
+
+1633103478 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\carneiro\polinomio1erparcial\src\ctermino.cpp
+	"CTermino.h"
+

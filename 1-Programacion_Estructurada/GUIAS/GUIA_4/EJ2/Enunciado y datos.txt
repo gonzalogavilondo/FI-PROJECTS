@@ -1,0 +1,30 @@
+Dado como datos la matrícula de un alumno, el semestre en el que está inscrito, y
+promedio, determine si el mismo es apto para pertenecer alguna de las profesiones
+que tiene la universidad. Si el alumno es aceptado teniendo en cuenta las
+especificaciones que se listan abajo se debe imprimir su matrícula, carrera y la
+palabra “Aceptado”.
+
+Datos entrada:
+
+Matricula alumno
+Semestre que esta inscrito
+Promedio
+
+Condiciones:
+
+Si el semestre es mayor a 6 y el promedio es mayor o igual a 8.8 puede
+estudiar INGENIERÍA.
+
+Si el semestre es mayor o igual a 6 y el promedio mayor que 8.5 puede
+estudiar MEDICINA.
+
+Si el semestre es mayor que 5 y el promedio mayor o igual que 8.3 puede
+estudiar LICENCIATURA.
+
+Si el semestre es mayor o igual a 3 y el promedio mayor o igual a 7.8 puede
+estudiar TECNICO.
+
+
+Salida:
+
+Matricula, carrera y la palabra "Aceptado"

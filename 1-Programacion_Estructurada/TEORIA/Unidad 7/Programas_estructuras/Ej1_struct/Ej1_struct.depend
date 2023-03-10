@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462370035 source:c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej1_struct\main.c
+	"prototipos.h"
+
+1430916060 c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej1_struct\prototipos.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1494265902 source:c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej1_struct\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1494265633 c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej1_struct\prototipos.h
+
+1494267514 source:c:\users\gonza\desktop\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej1_struct\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1494265632 c:\users\gonza\desktop\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej1_struct\prototipos.h
+

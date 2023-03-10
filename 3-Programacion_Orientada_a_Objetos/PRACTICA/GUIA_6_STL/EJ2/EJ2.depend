@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636054245 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej2\main.cpp
+	<utility>
+	<iostream>
+	<map>
+
+1636053142 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej2\codigoascii.cpp
+	<utility>
+	<iostream>
+	<map>
+
+1636054129 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej2\codigo_ascii.cpp
+	"codigo_ascii.h"
+
+1636054210 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej2\codigo_ascii.h
+	<utility>
+	<iostream>
+	<map>
+

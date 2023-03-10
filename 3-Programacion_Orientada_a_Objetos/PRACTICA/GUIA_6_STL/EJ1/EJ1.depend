@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636049595 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej1\main.cpp
+	<iostream>
+	<string>
+	<list>
+
+1636049517 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej1\template_functions.h
+	<iostream>
+	<string>
+	<list>
+

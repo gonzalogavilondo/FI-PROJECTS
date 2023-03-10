@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1616597797 source:c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_9\codigo_c\ej9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616599664 c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_9\codigo_c\ej9\declaraciones.h
+
+1616601460 source:c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_9\codigo_c\ej9\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616880364 source:c:\users\gonza\desktop\facultad\3_año\ayed\guia_1\ejercicio_9\codigo_c\ej9\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616880364 c:\users\gonza\desktop\facultad\3_año\ayed\guia_1\ejercicio_9\codigo_c\ej9\declaraciones.h
+
+1616880369 source:c:\users\gonza\desktop\facultad\3_año\ayed\guia_1\ejercicio_9\codigo_c\ej9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616880364 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_1\ejercicio_9\codigo_c\ej9\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616880364 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_1\ejercicio_9\codigo_c\ej9\declaraciones.h
+
+1616880369 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_1\ejercicio_9\codigo_c\ej9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+

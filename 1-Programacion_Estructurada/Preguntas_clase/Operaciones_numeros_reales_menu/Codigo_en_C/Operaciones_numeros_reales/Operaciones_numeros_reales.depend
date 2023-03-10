@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1357012431 source:d:\facultad\programacion_estructurada\preguntas_clase\operaciones_numeros_reales\codigo_en_c\operaciones_numeros_reales\funciones.c
+	"declaraciones_funciones_reales.h"
+
+1357012431 d:\facultad\programacion_estructurada\preguntas_clase\operaciones_numeros_reales\codigo_en_c\operaciones_numeros_reales\declaraciones_funciones_reales.h
+
+1357012431 source:d:\facultad\programacion_estructurada\preguntas_clase\operaciones_numeros_reales\codigo_en_c\operaciones_numeros_reales\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012453 d:\facultad\programacion_estructurada\preguntas_clase\operaciones_numeros_reales\codigo_en_c\operaciones_numeros_reales\declaraciones_menu.h
+
+1357012471 source:d:\facultad\programacion_estructurada\preguntas_clase\operaciones_numeros_reales\codigo_en_c\operaciones_numeros_reales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357012530 source:d:\facultad\programacion_estructurada\preguntas_clase\operaciones_numeros_reales\codigo_en_c\operaciones_numeros_reales\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012431 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_numeros_reales_menu\codigo_en_c\operaciones_numeros_reales\funciones.c
+	"declaraciones_funciones_reales.h"
+
+1357012431 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_numeros_reales_menu\codigo_en_c\operaciones_numeros_reales\declaraciones_funciones_reales.h
+
+1357012602 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_numeros_reales_menu\codigo_en_c\operaciones_numeros_reales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357012453 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_numeros_reales_menu\codigo_en_c\operaciones_numeros_reales\declaraciones_menu.h
+
+1357012431 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_numeros_reales_menu\codigo_en_c\operaciones_numeros_reales\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012602 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\operaciones_numeros_reales_menu\codigo_en_c\operaciones_numeros_reales\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1357010891 source:c:\users\gonza\desktop\ej2\funciones.c
+	"declaraciones_funciones_reales.h"
+
+1357010891 c:\users\gonza\desktop\ej2\declaraciones_funciones_reales.h
+
+1357011065 source:c:\users\gonza\desktop\ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357011083 c:\users\gonza\desktop\ej2\declaraciones_menu.h
+
+1357010891 source:c:\users\gonza\desktop\ej2\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011065 source:c:\users\gonza\desktop\ej2\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357010891 source:d:\facultad\programacion_estructurada\guias\guia_3\ej2\funciones.c
+	"declaraciones_funciones_reales.h"
+
+1357010891 d:\facultad\programacion_estructurada\guias\guia_3\ej2\declaraciones_funciones_reales.h
+
+1357011176 source:d:\facultad\programacion_estructurada\guias\guia_3\ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357011083 d:\facultad\programacion_estructurada\guias\guia_3\ej2\declaraciones_menu.h
+
+1357011177 source:d:\facultad\programacion_estructurada\guias\guia_3\ej2\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011211 source:d:\facultad\programacion_estructurada\guias\guia_3\ej2\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357010891 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej2\funciones.c
+	"declaraciones_funciones_reales.h"
+
+1357010891 c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej2\declaraciones_funciones_reales.h
+
+1357011211 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej2\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011083 c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej2\declaraciones_menu.h
+
+1556659476 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357010891 source:c:\users\gonza\desktop\facultad\programacion_estructurada\guias\guia_3\ej2\funciones.c
+	"declaraciones_funciones_reales.h"
+
+1357010891 c:\users\gonza\desktop\facultad\programacion_estructurada\guias\guia_3\ej2\declaraciones_funciones_reales.h
+
+1556659476 source:c:\users\gonza\desktop\facultad\programacion_estructurada\guias\guia_3\ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357011083 c:\users\gonza\desktop\facultad\programacion_estructurada\guias\guia_3\ej2\declaraciones_menu.h
+
+1556659506 source:c:\users\gonza\desktop\facultad\programacion_estructurada\guias\guia_3\ej2\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011211 source:c:\users\gonza\desktop\facultad\programacion_estructurada\guias\guia_3\ej2\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

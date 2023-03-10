@@ -1,0 +1,33 @@
+1)G) 
+-A B C D E F G Son pusheados a una pila en orden invertido empezando por la G
+
+PILA: 
+A
+B
+C
+D
+E
+F
+G
+
+-La pila es popeada 5 veces y cada elemento es insertado en una fila.
+
+En una pila el primero en salir, es el ultimo en llegar (el que esta arriba es top).
+
+FILA: 
+A 
+B
+C
+D 
+E
+-Dos elementos de la fila son sacados y agregados a la pila.
+
+En una fila, el primero en salir, es el primero en llegar.
+
+PILA:
+B
+A
+
+-Un elemento es popeado de la pila -> Popea "B"
+
+->El caracter sacado es B.

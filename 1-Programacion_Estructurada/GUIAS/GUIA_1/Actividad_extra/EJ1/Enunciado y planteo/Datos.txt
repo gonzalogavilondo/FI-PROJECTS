@@ -1,0 +1,13 @@
+Teniendo los registros de valores de temperatura en distintos momentos
+del día determine el promedio e indique cuáles de esas temperaturas tienen
+una diferencia con el promedio mayor a 10 grados.
+
+Entrada: T = Temperatura; Momentos del dia = 3(mañana, tarde, noche)
+
+Tmañana, Ttarde, Tnoche;  Tpromedio = (Tmañana + Ttarde + Tnoche)/3;
+
+Salida: ¿Cuales T, tienen una diferencia con el promedio > a 10 grados?
+
+	Tmañana - Tpromedio > 10 ?
+	Ttarde - Tpromedio > 10 ?
+	Tnoche - Tpromedio > 10?

@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1638292628 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\main.cpp
+	"ManejadorFiguras.h"
+
+1637588508 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\ccolor.h
+	<ostream>
+	<cstdint>
+
+1637692420 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1637588508 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638290853 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\src\cfigura.cpp
+	"CFigura.h"
+
+1638289691 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\include\cfigura.h
+	"CColor.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1638290559 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638290416 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\include\crectangulo.h
+	"CFigura.h"
+
+1638290567 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638290180 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\include\ctriangulo.h
+	"CFigura.h"
+
+1638290531 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\src\ccirculo.cpp
+	"CCirculo.h"
+
+1638290415 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\include\ccirculo.h
+	"CFigura.h"
+
+1638294619 c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\include\manejadorfiguras.h
+	<vector>
+	<string>
+	"CFigura.h"
+	"CTriangulo.h"
+	"CRectangulo.h"
+	"CCirculo.h"
+
+1638292975 source:c:\users\gonza\desktop\2do_parcial_gavilondo\ej2\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+
+1638295808 source:c:\users\gonza\desktop\ej2\main.cpp
+	"ManejadorFiguras.h"
+
+1638295805 c:\users\gonza\desktop\ej2\include\manejadorfiguras.h
+	<vector>
+	<string>
+	"CFigura.h"
+	"CTriangulo.h"
+	"CRectangulo.h"
+	"CCirculo.h"
+
+1638295291 c:\users\gonza\desktop\ej2\include\cfigura.h
+	"CColor.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1637588508 c:\users\gonza\desktop\ej2\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638295426 c:\users\gonza\desktop\ej2\include\ctriangulo.h
+	"CFigura.h"
+
+1638295434 c:\users\gonza\desktop\ej2\include\crectangulo.h
+	"CFigura.h"
+
+1638295397 c:\users\gonza\desktop\ej2\include\ccirculo.h
+	"CFigura.h"
+
+1637692420 source:c:\users\gonza\desktop\ej2\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1638295515 source:c:\users\gonza\desktop\ej2\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638295528 source:c:\users\gonza\desktop\ej2\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638295291 source:c:\users\gonza\desktop\ej2\src\cfigura.cpp
+	"CFigura.h"
+
+1638295520 source:c:\users\gonza\desktop\ej2\src\ccirculo.cpp
+	"CCirculo.h"
+
+1638295950 source:c:\users\gonza\desktop\ej2\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+
+1638295808 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\main.cpp
+	"ManejadorFiguras.h"
+
+1638295805 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\include\manejadorfiguras.h
+	<vector>
+	<string>
+	"CFigura.h"
+	"CTriangulo.h"
+	"CRectangulo.h"
+	"CCirculo.h"
+
+1638295291 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\include\cfigura.h
+	"CColor.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1637588508 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638295426 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\include\ctriangulo.h
+	"CFigura.h"
+
+1638295434 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\include\crectangulo.h
+	"CFigura.h"
+
+1638295397 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\include\ccirculo.h
+	"CFigura.h"
+
+1638295520 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\src\ccirculo.cpp
+	"CCirculo.h"
+
+1637692420 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1638295291 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\src\cfigura.cpp
+	"CFigura.h"
+
+1638295515 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638295528 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638295950 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2do_parcial_gavilondo\ej2\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+

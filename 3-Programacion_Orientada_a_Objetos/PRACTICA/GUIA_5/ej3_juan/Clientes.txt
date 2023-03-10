@@ -1,0 +1,33 @@
+Nombre: Juan Gutierrez
+Mail: juan.monaco.gutierrez@gmail.com
+DNI: 40643718
+Telefono: 2236690005
+Provincia: Buenos Aires
+Localidad: Mar del Plata
+Direccion: Rivadavia 3870
+Fecha de nacimiento: 25/8/1997
+ID Cliente: 41
+Fecha de nacimiento: 13/11/2018
+
+Nombre: Carla Sanchez
+Mail: carla.sanchez@gmail.com
+DNI: 28262745
+Telefono: 2234759987
+Provincia: Buenos Aires
+Localidad: Mar del Plata
+Direccion: Moreno 5298
+Fecha de nacimiento: 13/1/2000
+ID Cliente: 26500
+Fecha de nacimiento: 14/3/2020
+
+Nombre: Alfredo Moscuza
+Mail: moscuza.alfredo@hotmail.com
+DNI: 24718923
+Telefono: 1158038682
+Provincia: Buenos Aires
+Localidad: Capital Federal
+Direccion: Caracas 4092
+Fecha de nacimiento: 28/5/1982
+ID Cliente: 29358
+Fecha de nacimiento: 3/4/2001
+

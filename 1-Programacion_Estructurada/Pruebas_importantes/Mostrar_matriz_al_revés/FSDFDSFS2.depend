@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1524681443 source:c:\users\yo\desktop\fsdfdsfs2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+
+1524761103 source:i:\programación estructurada\fsdfdsfs2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+
+1524761689 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\mostrar_matriz_al_revés\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+

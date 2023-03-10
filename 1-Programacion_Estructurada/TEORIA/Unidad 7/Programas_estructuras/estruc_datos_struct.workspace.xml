@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Ej1_struct/Ej1_struct.cbp" />
+		<Project filename="Ej2_coordenadas/Ej2_coordenadas.cbp" />
+		<Project filename="Ej3_triangulo/Ej3_triangulo.cbp" />
+		<Project filename="Ej4_alumno/Ej4_alumno.cbp" />
+		<Project filename="Ej5_array_struct/Ej5_array_struct.cbp" />
+		<Project filename="Ej6_struct_param/Ej6_struct_param.cbp" />
+		<Project filename="Ej7_union/Ej7_union.cbp" />
+		<Project filename="Ej8_enum/Ej8_enum.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

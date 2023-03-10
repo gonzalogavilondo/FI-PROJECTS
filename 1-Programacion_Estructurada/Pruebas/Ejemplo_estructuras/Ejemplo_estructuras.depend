@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527851184 source:c:\users\gonza\desktop\facusida\programacion estructurada\cosas sueltas\ejemplo_estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

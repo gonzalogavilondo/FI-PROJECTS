@@ -1,0 +1,70 @@
+#ifndef ANTREE_H_INCLUDED
+#define ANTREE_H_INCLUDED
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+/**
+ *  n-ary Tree Node Struct
+ */
+typedef struct ntNode ntn;
+typedef struct ntList ntlist;
+
+typedef struct ntList
+{
+    ntn *node;
+    ntlist *next;
+
+} ntlist;
+
+typedef struct ntNode
+{
+    int value;
+    ntlist *sons;
+
+} ntn;
+
+
+/**************************************************************/
+/*                      Árboles N-ario                        */
+/**************************************************************/
+
+ntn *createNTN(int value);
+ntlist *createNTL(ntn *node);
+int insertNTL (ntlist **nodoList, ntlist *newNodoList);
+int insertSonNTN (ntn *node, ntn *newNode);
+ntn *insertSonValueNTN (ntn *node, int value);
+ntn *insertSonValueOfNTN(ntn *node, int valueParent, int valueSon);
+ntn *findNodeNTN (ntn *node, int value);
+void _printNTN (ntn *node, int level);
+void printNTN (ntn *node);
+void printProfundidad (ntn *node);
+void printAmplitud (ntn *node);
+int sizeNTN(ntn *node);
+
+/**************************************************************/
+/*             Fila de Nodos de Árbol N-ario                  */
+/**************************************************************/
+typedef struct ntQueue
+{
+    ntlist *first;
+    ntlist *last;
+} ntq;
+
+ntq *createQueueNTN();
+void printQueueNTN(ntq *q);
+int enqueueNTN(ntq *queue, ntn *node);
+ntn *dequeueNTN(ntq *queue);
+int isEmptyQueueNTN(ntq *queue);
+
+/**************************************************************/
+/*                       Ejemplos                             */
+/**************************************************************/
+
+//Crear una lista de vertices teniendo un arbol y el nivel.
+ntq *crearLista(ntn *root, int level);
+void sample (ntn **root);
+void _crearLista(ntn *nodo, int level, int levelActual, ntq *q);
+
+
+#endif // ANTREE_H_INCLUDED

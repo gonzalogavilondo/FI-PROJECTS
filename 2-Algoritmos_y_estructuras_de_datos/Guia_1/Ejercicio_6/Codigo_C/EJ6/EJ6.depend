@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1616543566 source:c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_6\codigo_c\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616543526 c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_6\codigo_c\ej6\declaraciones.h
+
+1616543526 source:c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_6\codigo_c\ej6\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616881450 source:c:\users\gonza\desktop\facultad\3_año\ayed\guia_1\ejercicio_6\codigo_c\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1616881450 c:\users\gonza\desktop\facultad\3_año\ayed\guia_1\ejercicio_6\codigo_c\ej6\declaraciones.h
+
+1616881450 source:c:\users\gonza\desktop\facultad\3_año\ayed\guia_1\ejercicio_6\codigo_c\ej6\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+

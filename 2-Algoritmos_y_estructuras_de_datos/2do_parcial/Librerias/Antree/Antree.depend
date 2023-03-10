@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1623348592 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\antree.c
+	"declaraciones.h"
+
+1623099954 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623547224 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\antree_test.c
+	"declaraciones.h"
+
+1623547059 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\main.c
+	"declaraciones.h"
+
+1624626498 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\antree.c
+	"declaraciones.h"
+
+1623099954 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624626722 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\antree_test.c
+	"declaraciones.h"
+
+1624626821 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\main.c
+	"declaraciones.h"
+
+1624626498 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\antree\antree.c
+	"declaraciones.h"
+
+1623099954 c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624626722 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\antree\antree_test.c
+	"declaraciones.h"
+
+1624626821 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\antree\main.c
+	"declaraciones.h"
+
+1624716936 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\antree.c
+	"Antree.h"
+
+1624798358 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624745768 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\antree_test.c
+	"Graphs.h"
+
+1624798337 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\main.c
+	"Graphs.h"
+
+1624714927 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624721079 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Antree.h"
+	"declaraciones.h"
+	"Lists.h"
+
+1624641414 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\lists.h
+	<stdio.h>
+	<stdlib.h>
+
+1624717103 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\graph.c
+	"Graphs.h"
+
+1624646702 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\antree\lists.c
+	"Lists.h"
+
+1624745768 source:c:\users\gonza\desktop\librerias\antree\antree_test.c
+	"Graphs.h"
+
+1625321498 c:\users\gonza\desktop\librerias\antree\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Antree.h"
+	"Lists.h"
+
+1625321484 c:\users\gonza\desktop\librerias\antree\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lists.h"
+
+1625323077 c:\users\gonza\desktop\librerias\antree\lists.h
+
+1624798358 c:\users\gonza\desktop\librerias\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624717103 source:c:\users\gonza\desktop\librerias\antree\graph.c
+	"Graphs.h"
+
+1625323077 source:c:\users\gonza\desktop\librerias\antree\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1624798337 source:c:\users\gonza\desktop\librerias\antree\main.c
+	"Graphs.h"
+
+1625320964 source:c:\users\gonza\desktop\librerias\antree\antree.c
+	"Antree.h"
+

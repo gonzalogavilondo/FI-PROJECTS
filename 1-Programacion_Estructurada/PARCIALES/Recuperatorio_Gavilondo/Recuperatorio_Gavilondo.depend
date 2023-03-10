@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1527532461 source:c:\users\gonza\desktop\facusida\programacion estructurada\recuperatorio_gavilondo\main.c
+	"header_rec.h"
+
+1527552309 c:\users\gonza\desktop\facusida\programacion estructurada\recuperatorio_gavilondo\header_rec.h
+	<stdint.h>
+	<stdio.h>
+
+1527552497 source:c:\users\gonza\desktop\facusida\programacion estructurada\recuperatorio_gavilondo\source_rec.c
+	"header_rec.h"
+
+1527532461 source:c:\users\gonza\desktop\recuperatorio_gavilondo\main.c
+	"header_rec.h"
+
+1527552309 c:\users\gonza\desktop\recuperatorio_gavilondo\header_rec.h
+	<stdint.h>
+	<stdio.h>
+
+1527552497 source:c:\users\gonza\desktop\recuperatorio_gavilondo\source_rec.c
+	"header_rec.h"
+
+1527532461 source:e:\programacion estructurada\parciales\recuperatorio_gavilondo\main.c
+	"header_rec.h"
+
+1527552309 e:\programacion estructurada\parciales\recuperatorio_gavilondo\header_rec.h
+	<stdint.h>
+	<stdio.h>
+
+1527552497 source:e:\programacion estructurada\parciales\recuperatorio_gavilondo\source_rec.c
+	"header_rec.h"
+
+1527532462 source:f:\programacion_estructurada\parciales\recuperatorio_gavilondo\main.c
+	"header_rec.h"
+
+1527552310 f:\programacion_estructurada\parciales\recuperatorio_gavilondo\header_rec.h
+	<stdint.h>
+	<stdio.h>
+
+1527552498 source:f:\programacion_estructurada\parciales\recuperatorio_gavilondo\source_rec.c
+	"header_rec.h"
+
+1556049313 source:c:\users\gonza\desktop\programacion_estructurada\parciales\recuperatorio_gavilondo\main.c
+	"header_rec.h"
+
+1556049280 c:\users\gonza\desktop\programacion_estructurada\parciales\recuperatorio_gavilondo\header_rec.h
+	<stdint.h>
+	<stdio.h>
+
+1556049182 source:c:\users\gonza\desktop\programacion_estructurada\parciales\recuperatorio_gavilondo\source_rec.c
+	"header_rec.h"
+

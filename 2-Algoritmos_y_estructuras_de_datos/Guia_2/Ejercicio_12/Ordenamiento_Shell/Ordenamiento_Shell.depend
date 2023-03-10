@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617475815 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_12\ordenamiento_shell\main.c
+	"declaraciones.h"
+
+1617475815 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_12\ordenamiento_shell\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617476991 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_12\ordenamiento_shell\funciones.c
+	"declaraciones.h"
+

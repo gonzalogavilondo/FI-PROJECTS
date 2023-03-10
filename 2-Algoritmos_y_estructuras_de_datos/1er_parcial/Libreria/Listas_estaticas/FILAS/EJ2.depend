@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1619471649 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej2\fila.c
+	"fila.h"
+
+1619202644 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej2\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1619202664 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej2\main.c
+	"fila.h"
+
+1619471649 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_estaticas\filas\fila.c
+	"fila.h"
+
+1619202644 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_estaticas\filas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1619202664 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_estaticas\filas\main.c
+	"fila.h"
+

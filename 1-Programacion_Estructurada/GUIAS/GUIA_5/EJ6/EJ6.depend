@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524797923 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej6\main.c
+	"cosas_raras.h"
+
+1524797785 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej6\cosas_raras.c
+	"cosas_raras.h"
+
+1524797785 c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej6\cosas_raras.h
+	<stdio.h>
+	<stdlib.h>
+
+1524808746 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej6\main.c
+	"cosas_raras.h"
+
+1524797786 c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej6\cosas_raras.h
+	<stdio.h>
+	<stdlib.h>
+
+1556731692 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej6\cosas_raras.c
+	"cosas_raras.h"
+

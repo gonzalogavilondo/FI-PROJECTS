@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619733436 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_dinamico\funciones.c
+	"declaraciones.h"
+
+1620083224 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_dinamico\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1620406433 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_dinamico\main.c
+	"declaraciones.h"
+
+1620083224 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_dinamico\pilas_filas.c
+	"declaraciones.h"
+

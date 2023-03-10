@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620323870 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mergesort\funciones.c
+	"declaraciones.h"
+
+1620323914 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mergesort\declaraciones.h
+	<stdlib.h>
+	<stdio.h>
+
+1620323887 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mergesort\main.c
+	"declaraciones.h"
+

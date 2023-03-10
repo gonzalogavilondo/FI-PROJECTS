@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1624839780 source:c:\users\gonza\desktop\parcial\ejc\antree.c
+	"Antree.h"
+
+1624766016 c:\users\gonza\desktop\parcial\ejc\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624891628 source:c:\users\gonza\desktop\parcial\ejc\graphs.c
+	"Graphs.h"
+
+1625171041 c:\users\gonza\desktop\parcial\ejc\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1625171704 c:\users\gonza\desktop\parcial\ejc\lists.h
+
+1625171704 source:c:\users\gonza\desktop\parcial\ejc\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625170849 source:c:\users\gonza\desktop\parcial\ejc\ejercicio.c
+	"Graphs.h"
+
+1624839836 c:\users\gonza\desktop\parcial\ejc\test.h
+	"Graphs.h"
+
+1625171133 source:c:\users\gonza\desktop\parcial\ejc\main.c
+	"Graphs.h"
+	"test.h"
+
+1624842824 source:c:\users\gonza\desktop\parcial\ejc\test.c
+	"test.h"
+
+1624839780 source:c:\users\gonza\desktop\2do_parcial\ejc\antree.c
+	"Antree.h"
+
+1624766016 c:\users\gonza\desktop\2do_parcial\ejc\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625271182 source:c:\users\gonza\desktop\2do_parcial\ejc\ejercicio.c
+	"Graphs.h"
+
+1625271196 c:\users\gonza\desktop\2do_parcial\ejc\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1625171704 c:\users\gonza\desktop\2do_parcial\ejc\lists.h
+
+1625271182 source:c:\users\gonza\desktop\2do_parcial\ejc\graphs.c
+	"Graphs.h"
+
+1625171704 source:c:\users\gonza\desktop\2do_parcial\ejc\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1624842824 source:c:\users\gonza\desktop\2do_parcial\ejc\test.c
+	"test.h"
+
+1625271242 c:\users\gonza\desktop\2do_parcial\ejc\test.h
+	"Graphs.h"
+
+1625271230 source:c:\users\gonza\desktop\2do_parcial\ejc\main.c
+	"Graphs.h"
+	"test.h"
+
+1625343687 source:c:\users\gonza\desktop\parciales\gonzalo\ejc\ejercicio.c
+	"Graphs.h"
+
+1625344365 c:\users\gonza\desktop\parciales\gonzalo\ejc\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1625323077 c:\users\gonza\desktop\parciales\gonzalo\ejc\lists.h
+
+1624766016 c:\users\gonza\desktop\parciales\gonzalo\ejc\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625342382 source:c:\users\gonza\desktop\parciales\gonzalo\ejc\graphs.c
+	"Graphs.h"
+
+1625323077 source:c:\users\gonza\desktop\parciales\gonzalo\ejc\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625322059 source:c:\users\gonza\desktop\parciales\gonzalo\ejc\main.c
+	"Graphs.h"
+	"test.h"
+
+1625271242 c:\users\gonza\desktop\parciales\gonzalo\ejc\test.h
+	"Graphs.h"
+
+1625344400 source:c:\users\gonza\desktop\parciales\gonzalo\ejc\test.c
+	"test.h"
+
+1624839780 source:c:\users\gonza\desktop\parciales\gonzalo\ejc\antree.c
+	"Antree.h"
+

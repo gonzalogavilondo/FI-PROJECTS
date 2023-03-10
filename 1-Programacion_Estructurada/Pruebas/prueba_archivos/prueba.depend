@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528914739 source:c:\users\yo\desktop\backup\prueba\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
+1528914908 source:c:\users\gonza\desktop\programacion_estructurada\pruebas\prueba_archivos\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+

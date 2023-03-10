@@ -1,0 +1,41 @@
+Cuando hago una funcion que devuelve el valor, por ejemplo:
+
+SubProceso resultado <- suma (n1,n2)
+	Definir resultado Como Real;
+	resultado <- (n1+n2);
+FinSubProceso
+
+
+SubProceso resultado (este resultado seria el return) si fuese de tipo void
+(resultado y la flechita se borrarian)
+
+Es equivalente a esto en C:
+
+float suma(float n1, float n2)
+{
+    float resultado = 0.0;
+
+    resultado = (n1 + n2);
+
+    return resultado;
+}
+
+Por eso si yo modifico dentro de subproceso "resultado" y lo llamo res por ejemplo,
+no anda.
+Seria esto:
+
+SubProceso resultado <- suma (n1,n2)
+	Definir res Como Real;
+	res <- (n1+n2);
+FinSubProceso
+
+ASI NO ANDA
+
+O asi:
+
+SubProceso res <- suma (n1,n2)
+	Definir resultado Como Real;
+	resultado <- (n1+n2);
+FinSubProceso
+
+ASI TAMPOCO ANDA YA QUE RES SERIA EL RETURN, SE DEBEN LLAMAR IGUAL.

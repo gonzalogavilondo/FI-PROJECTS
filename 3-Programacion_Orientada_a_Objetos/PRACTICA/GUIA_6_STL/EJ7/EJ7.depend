@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636058987 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\ej7\main.cpp
+	<iostream>
+	<map>
+
+1636060265 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_stl\ej7\main.cpp
+	<iostream>
+	<map>
+	<utility>
+

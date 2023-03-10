@@ -1,0 +1,10 @@
+c) Dados los coeficientes de una ecuación de segundo grado determine
+si las raíces son reales.
+
+Datos de entrada: 
+
+ecuacion de segundo grado: ax^2+bx+c
+coeficientes: a , b y c.
+Raices reales: b^2-4ac > 0
+
+Salida: Son raices reales?

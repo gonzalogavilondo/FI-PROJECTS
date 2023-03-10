@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618597073 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej7\fibonacci_rec\funciones.c
+	"declaraciones.h"
+
+1618597065 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej7\fibonacci_rec\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1618597022 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej7\fibonacci_rec\main.c
+	"declaraciones.h"
+

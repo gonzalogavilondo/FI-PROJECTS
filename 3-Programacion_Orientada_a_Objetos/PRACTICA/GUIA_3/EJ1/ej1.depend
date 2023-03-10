@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1631164318 source:d:\users\juan\desktop\claaa\ej1\main.cpp
+	<iostream>
+	"complejos.h"
+
+1631164403 source:d:\users\juan\desktop\claaa\ej1\src\complejos.cpp
+	"complejos.h"
+
+1631162424 d:\users\juan\desktop\claaa\ej1\include\complejos.h
+	<iostream>
+
+1635447519 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej1\main.cpp
+	<iostream>
+	"complejos.h"
+
+1632943555 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej1\include\complejos.h
+	<iostream>
+
+1635447037 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej1\src\complejos.cpp
+	"complejos.h"
+

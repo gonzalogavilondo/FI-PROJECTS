@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620306010 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej10\main.c
+	"listas.h"
+
+1620305554 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej10\listas.c
+	"listas.h"
+
+1620305640 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej10\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620305511 source:c:\users\gonza\desktop\ej10\main.c
+	"listas.h"
+
+1620305640 c:\users\gonza\desktop\ej10\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620305554 source:c:\users\gonza\desktop\ej10\listas.c
+	"listas.h"
+

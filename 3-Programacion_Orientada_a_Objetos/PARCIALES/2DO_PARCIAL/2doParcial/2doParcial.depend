@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1638292712 source:d:\users\juan\desktop\claaa\2doparcial\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1638292636 d:\users\juan\desktop\claaa\2doparcial\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638295744 source:d:\users\juan\desktop\claaa\2doparcial\main.cpp
+	"ManejadorFiguras.h"
+
+1638288247 d:\users\juan\desktop\claaa\2doparcial\include\manejadorfiguras.h
+	<iostream>
+	<vector>
+	<fstream>
+	"CFigura.h"
+	"CCirculo.h"
+	"CRectangulo.h"
+	"CTriangulo.h"
+	"CColor.h"
+
+1638291745 source:d:\users\juan\desktop\claaa\2doparcial\src\ccirculo.cpp
+	"CCirculo.h"
+
+1638291472 d:\users\juan\desktop\claaa\2doparcial\include\ccirculo.h
+	"CFigura.h"
+
+1638293480 d:\users\juan\desktop\claaa\2doparcial\include\cfigura.h
+	<iostream>
+	<math.h>
+	"CColor.h"
+
+1638294366 source:d:\users\juan\desktop\claaa\2doparcial\src\cfigura.cpp
+	"CFigura.h"
+
+1638292484 source:d:\users\juan\desktop\claaa\2doparcial\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638292535 d:\users\juan\desktop\claaa\2doparcial\include\crectangulo.h
+	"CFigura.h"
+
+1638292484 source:d:\users\juan\desktop\claaa\2doparcial\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638292535 d:\users\juan\desktop\claaa\2doparcial\include\ctriangulo.h
+	"CFigura.h"
+
+1638295898 source:d:\users\juan\desktop\claaa\2doparcial\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+
+1638295744 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\main.cpp
+	"ManejadorFiguras.h"
+
+1638288247 f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\manejadorfiguras.h
+	<iostream>
+	<vector>
+	<fstream>
+	"CFigura.h"
+	"CCirculo.h"
+	"CRectangulo.h"
+	"CTriangulo.h"
+	"CColor.h"
+
+1638293480 f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\cfigura.h
+	<iostream>
+	<math.h>
+	"CColor.h"
+
+1638292636 f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638291472 f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\ccirculo.h
+	"CFigura.h"
+
+1638292535 f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\crectangulo.h
+	"CFigura.h"
+
+1638292535 f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\ctriangulo.h
+	"CFigura.h"
+
+1638291745 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\ccirculo.cpp
+	"CCirculo.h"
+
+1638292712 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1638294366 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\cfigura.cpp
+	"CFigura.h"
+
+1638292484 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638292484 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638892910 source:f:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+
+1638295744 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\main.cpp
+	"ManejadorFiguras.h"
+
+1638288247 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\manejadorfiguras.h
+	<iostream>
+	<vector>
+	<fstream>
+	"CFigura.h"
+	"CCirculo.h"
+	"CRectangulo.h"
+	"CTriangulo.h"
+	"CColor.h"
+
+1638293480 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\cfigura.h
+	<iostream>
+	<math.h>
+	"CColor.h"
+
+1638292636 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638291472 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\ccirculo.h
+	"CFigura.h"
+
+1638292535 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\crectangulo.h
+	"CFigura.h"
+
+1638292535 g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\include\ctriangulo.h
+	"CFigura.h"
+
+1638291745 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\ccirculo.cpp
+	"CCirculo.h"
+
+1638292712 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1638294366 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\cfigura.cpp
+	"CFigura.h"
+
+1638292484 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638292484 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638892910 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\2do_parcial\2doparcial\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+

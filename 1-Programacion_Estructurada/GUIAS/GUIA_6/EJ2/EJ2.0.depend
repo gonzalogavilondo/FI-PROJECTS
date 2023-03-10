@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1558101208 source:f:\facultad\programacion_estructurada\guias\guia_6\ej2.0\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<declaraciones_funciones.h>
+
+1558100049 f:\facultad\programacion_estructurada\guias\guia_6\ej2.0\\declaraciones_funciones.h
+
+1558100531 source:f:\facultad\programacion_estructurada\guias\guia_6\ej2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<declaraciones_funciones.h>
+
+1558103727 source:f:\facultad\programacion_estructurada\guias\guia_6\ej2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<declaraciones_funciones.h>
+
+1558103736 source:f:\facultad\programacion_estructurada\guias\guia_6\ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<declaraciones_funciones.h>
+
+1558103727 f:\facultad\programacion_estructurada\guias\guia_6\ej2\\declaraciones_funciones.h
+
+1558103736 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<declaraciones_funciones.h>
+
+1558103727 c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej2\\declaraciones_funciones.h
+
+1561492476 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<declaraciones_funciones.h>
+

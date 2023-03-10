@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1357011030 source:d:\facultad\programacion_estructurada\guias\guia_7\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1357010339 d:\facultad\programacion_estructurada\guias\guia_7\ej1\declaraciones_funciones.h
+
+1357011030 source:e:\facultad\programacion_estructurada\guias\guia_7\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1357010339 e:\facultad\programacion_estructurada\guias\guia_7\ej1\declaraciones_funciones.h
+
+1558479720 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_7\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1357010339 c:\users\gonza\desktop\programacion_estructurada\guias\guia_7\ej1\declaraciones_funciones.h
+
+1558704173 source:g:\facultad\programacion_estructurada\guias\guia_7\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1558703399 g:\facultad\programacion_estructurada\guias\guia_7\ej1\declaraciones_funciones.h
+

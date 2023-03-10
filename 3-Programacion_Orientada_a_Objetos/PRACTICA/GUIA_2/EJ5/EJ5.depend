@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\main.cpp
+	<iostream>
+
+1630614749 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string>
+	<string.h>
+
+1630614749 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\include\fecha.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1630798323 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej5\main.cpp
+	"Empleado.h"
+
+1630798323 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej5\src\empleado.cpp
+	"Empleado.h"
+
+1630616340 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej5\include\empleado.h
+	"Fecha.h"
+
+1633012434 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej5\include\fecha.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1633012512 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej5\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string>
+	<string.h>
+

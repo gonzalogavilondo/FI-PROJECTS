@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1555968596 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+
+1555968631 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1555968577 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\declaraciones_funciones.h
+
+1357018442 source:d:\facultad\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+
+1555177184 d:\facultad\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\declaraciones_funciones.h
+
+1555526892 source:f:\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1555527589 f:\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\declaraciones_funciones.h
+
+1555527589 source:f:\programacion_estructurada\preguntas_clase\valor_entero_en_memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+

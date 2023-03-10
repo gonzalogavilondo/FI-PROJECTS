@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1620304165 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ejercicio_integrador\funciones.c
+	"listas.h"
+
+1619979061 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ejercicio_integrador\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620311055 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ejercicio_integrador\main.c
+	"listas.h"
+
+1620303897 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ejercicio_integrador\listas.c
+	"listas.h"
+
+1620304159 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ejercicio_integrador\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

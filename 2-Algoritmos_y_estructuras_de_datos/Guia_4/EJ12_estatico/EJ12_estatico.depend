@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619730740 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_estatico\main.c
+	"declaraciones.h"
+
+1619729380 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_estatico\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1619730347 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_estatico\funciones.c
+	"declaraciones.h"
+
+1619730499 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej12_estatico\pilas_filas.c
+	"declaraciones.h"
+

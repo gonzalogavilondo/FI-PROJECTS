@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1619119966 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej3\main.c
+	"listas.h"
+
+1619119593 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej3\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1619122943 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej3\listas.c
+	"listas.h"
+

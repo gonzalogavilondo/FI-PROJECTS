@@ -1,0 +1,11 @@
+Algoritmo Suma_Multiplicacion_entera
+	Definir a,b,c,d Como Entero
+	Escribir 'Introduzca el primer numero entero: '
+	Leer a
+	Escribir 'Introduzca el segundo numero entero: '
+	Leer b
+	c <- a+b
+	d <- a*b
+	Escribir 'El resultado de la suma es: ',c
+	Escribir 'El resultado de la multiplicacion es: ',d
+FinAlgoritmo

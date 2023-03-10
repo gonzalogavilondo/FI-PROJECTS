@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1631047531 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\racional\src\cracional.cpp
+	"CRacional.h"
+
+1631047531 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\racional\include\cracional.h
+	<iostream>
+
+1631047598 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\racional\main.cpp
+	<iostream>
+	"CRacional.h"
+
+1631048907 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\racional\main.cpp
+	"CRacional.h"
+
+1631048907 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\racional\include\cracional.h
+	<iostream>
+
+1631048756 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\racional\src\cracional.cpp
+	"CRacional.h"
+
+1633042112 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej5\main.cpp
+	"CRacional.h"
+
+1633042123 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej5\include\cracional.h
+	<iostream>
+	<math.h>
+
+1633042112 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej5\src\cracional.cpp
+	"CRacional.h"
+

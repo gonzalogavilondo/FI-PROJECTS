@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1624839780 source:c:\users\gonza\desktop\ejc\antree.c
+	"Antree.h"
+
+1624766016 c:\users\gonza\desktop\ejc\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625342382 source:c:\users\gonza\desktop\ejc\graphs.c
+	"Graphs.h"
+
+1625519136 c:\users\gonza\desktop\ejc\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1625490892 c:\users\gonza\desktop\ejc\lists.h
+
+1625490965 source:c:\users\gonza\desktop\ejc\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625520097 source:c:\users\gonza\desktop\ejc\main.c
+	"Graphs.h"
+	"test.h"
+
+1625271242 c:\users\gonza\desktop\ejc\test.h
+	"Graphs.h"
+
+1625344400 source:c:\users\gonza\desktop\ejc\test.c
+	"test.h"
+
+1625520404 source:c:\users\gonza\desktop\ejc\ejercicio.c
+	"Graphs.h"
+

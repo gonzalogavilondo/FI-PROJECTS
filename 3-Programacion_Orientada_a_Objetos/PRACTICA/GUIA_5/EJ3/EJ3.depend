@@ -1,0 +1,317 @@
+# depslib dependency file v1.0
+1634592269 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\main.cpp
+	"CBanco.h"
+	"CFecha.h"
+	"Menu.h"
+
+1634585357 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccuenta.h
+	<iostream>
+	<string.h>
+
+1634506340 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccuenta.cpp
+	"CCuenta.h"
+
+1632516449 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1632516449 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\fecha.h
+	<iostream>
+
+1634585558 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccuentaahorro.cpp
+	"CCuentaAhorro.h"
+
+1634585280 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccuentaahorro.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634585280 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccuentacorriente.cpp
+	"CCuentaCorriente.h"
+
+1634585280 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccuentacorriente.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634592286 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\cbanco.cpp
+	"CBanco.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+
+1634592269 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\cbanco.h
+	<string>
+	"CCuenta.h"
+	"CCliente.h"
+	<vector>
+
+1633816336 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\test.cpp
+	"test.h"
+
+1633816636 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\test.h
+	"CBanco.h"
+	"CCuenta.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+	"Fecha.h"
+
+1634071024 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\cfecha.cpp
+	"CFecha.h"
+	<ctime>
+
+1634071004 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\cfecha.h
+	<iostream>
+
+1634481027 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\ccuenta.cpp
+	"CCuenta.h"
+
+1634480933 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\ccuenta.h
+	<iostream>
+	<string.h>
+
+1634481032 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\ccuentaahorro.cpp
+	"CCuentaAhorro.h"
+
+1634481007 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\ccuentaahorro.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634071004 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\cfecha.h
+	<iostream>
+
+1634481109 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\ccuentacorriente.cpp
+	"CCuentaCorriente.h"
+
+1634481109 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\ccuentacorriente.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634071024 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\cfecha.cpp
+	"CFecha.h"
+	<ctime>
+
+1634480831 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\cbanco.cpp
+	"CBanco.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+
+1634480820 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\cbanco.h
+	<string>
+	"CCuenta.h"
+	"CCliente.h"
+	<vector>
+
+1634480869 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\ccliente.h
+	<vector>
+	"CCuenta.h"
+
+1634480869 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\ccliente.cpp
+	"CCliente.h"
+
+1634480490 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\main.cpp
+	"CCuenta.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+	"CBanco.h"
+	<limits>
+	<iomanip>
+
+1635442380 source:c:\users\gonza\desktop\ej3\src\cbanco.cpp
+	"CBanco.h"
+	"Menu.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+
+1635442370 c:\users\gonza\desktop\ej3\include\cbanco.h
+	<string>
+	<fstream>
+	<stdexcept>
+	"CCuenta.h"
+	"CCliente.h"
+	<vector>
+
+1634585357 c:\users\gonza\desktop\ej3\include\ccuenta.h
+	<iostream>
+	<string.h>
+
+1635088816 c:\users\gonza\desktop\ej3\include\ccliente.h
+	<vector>
+	"CCuenta.h"
+
+1634585280 c:\users\gonza\desktop\ej3\include\ccuentacorriente.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634071004 c:\users\gonza\desktop\ej3\include\cfecha.h
+	<iostream>
+
+1634585280 c:\users\gonza\desktop\ej3\include\ccuentaahorro.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1635096829 source:c:\users\gonza\desktop\ej3\src\ccliente.cpp
+	"CCliente.h"
+
+1634506340 source:c:\users\gonza\desktop\ej3\src\ccuenta.cpp
+	"CCuenta.h"
+
+1634585558 source:c:\users\gonza\desktop\ej3\src\ccuentaahorro.cpp
+	"CCuentaAhorro.h"
+
+1634585280 source:c:\users\gonza\desktop\ej3\src\ccuentacorriente.cpp
+	"CCuentaCorriente.h"
+
+1634071024 source:c:\users\gonza\desktop\ej3\src\cfecha.cpp
+	"CFecha.h"
+	<ctime>
+
+1635443793 source:c:\users\gonza\desktop\ej3\main.cpp
+	"CBanco.h"
+	"CFecha.h"
+	"Menu.h"
+
+1635101897 source:c:\users\gonza\desktop\ej3\src\menu.cpp
+	"Menu.h"
+
+1634505484 c:\users\gonza\desktop\ej3\include\menu.h
+	"CBanco.h"
+	<limits>
+	<iomanip>
+
+1634506898 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccliente.h
+	<vector>
+	"CCuenta.h"
+
+1634506202 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccliente.cpp
+	"CCliente.h"
+
+1634505418 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\menu.cpp
+	"Menu.h"
+
+1634505484 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\menu.h
+	"CBanco.h"
+	<limits>
+	<iomanip>
+
+1636217473 source:c:\users\gonzalo\desktop\ej3\main.cpp
+	"CBanco.h"
+	"CFecha.h"
+	"Menu.h"
+
+1635427970 c:\users\gonzalo\desktop\ej3\include\cbanco.h
+	<string>
+	<fstream>
+	<stdexcept>
+	"CCuenta.h"
+	"CCliente.h"
+	<vector>
+
+1636217322 c:\users\gonzalo\desktop\ej3\include\ccuenta.h
+	<iostream>
+	<string.h>
+
+1635074416 c:\users\gonzalo\desktop\ej3\include\ccliente.h
+	<vector>
+	"CCuenta.h"
+
+1634056604 c:\users\gonzalo\desktop\ej3\include\cfecha.h
+	<iostream>
+
+1634491084 c:\users\gonzalo\desktop\ej3\include\menu.h
+	"CBanco.h"
+	<limits>
+	<iomanip>
+
+1636218219 source:c:\users\gonzalo\desktop\ej3\src\cbanco.cpp
+	"CBanco.h"
+	"Menu.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+
+1634570880 c:\users\gonzalo\desktop\ej3\include\ccuentacorriente.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634570880 c:\users\gonzalo\desktop\ej3\include\ccuentaahorro.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1635082428 source:c:\users\gonzalo\desktop\ej3\src\ccliente.cpp
+	"CCliente.h"
+
+1634491940 source:c:\users\gonzalo\desktop\ej3\src\ccuenta.cpp
+	"CCuenta.h"
+
+1634571158 source:c:\users\gonzalo\desktop\ej3\src\ccuentaahorro.cpp
+	"CCuentaAhorro.h"
+
+1634570880 source:c:\users\gonzalo\desktop\ej3\src\ccuentacorriente.cpp
+	"CCuentaCorriente.h"
+
+1634056624 source:c:\users\gonzalo\desktop\ej3\src\cfecha.cpp
+	"CFecha.h"
+	<ctime>
+
+1635087496 source:c:\users\gonzalo\desktop\ej3\src\menu.cpp
+	"Menu.h"
+
+1636244678 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\main.cpp
+	"CBanco.h"
+	"CFecha.h"
+	"Menu.h"
+
+1636244678 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\cbanco.h
+	<string>
+	<fstream>
+	<stdexcept>
+	"CCuenta.h"
+	"CCliente.h"
+	<vector>
+
+1636217322 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccuenta.h
+	<iostream>
+	<string.h>
+
+1635074416 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccliente.h
+	<vector>
+	"CCuenta.h"
+
+1634056604 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\cfecha.h
+	<iostream>
+
+1634491084 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\menu.h
+	"CBanco.h"
+	<limits>
+	<iomanip>
+
+1635082428 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccliente.cpp
+	"CCliente.h"
+
+1634491940 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccuenta.cpp
+	"CCuenta.h"
+
+1634571158 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccuentaahorro.cpp
+	"CCuentaAhorro.h"
+
+1634570880 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccuentaahorro.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634570880 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\ccuentacorriente.cpp
+	"CCuentaCorriente.h"
+
+1634570880 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\include\ccuentacorriente.h
+	"CCuenta.h"
+	"CFecha.h"
+
+1634056624 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\cfecha.cpp
+	"CFecha.h"
+	<ctime>
+
+1635087496 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\menu.cpp
+	"Menu.h"
+
+1636244677 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3\src\cbanco.cpp
+	"CBanco.h"
+	"Menu.h"
+	"CCuentaCorriente.h"
+	"CCuentaAhorro.h"
+

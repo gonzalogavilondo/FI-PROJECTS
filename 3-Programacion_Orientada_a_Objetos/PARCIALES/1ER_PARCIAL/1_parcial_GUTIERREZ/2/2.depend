@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633103548 source:d:\users\juan\desktop\claaa\2\src\cradioreloj.cpp
+	"cRadioReloj.h"
+	"string.h"
+
+1633103395 d:\users\juan\desktop\claaa\2\include\cradioreloj.h
+	<iostream>
+
+1633102993 source:d:\users\juan\desktop\claaa\2\main.cpp
+	<iostream>
+	"cRadioReloj.h"
+

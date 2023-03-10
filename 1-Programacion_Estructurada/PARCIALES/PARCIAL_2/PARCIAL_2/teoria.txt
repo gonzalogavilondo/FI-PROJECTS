@@ -1,0 +1,28 @@
+1) Un puntero y un arreglo contienen una dirección de memoria en su indicador, 
+funcionan de una manera similar, sólo que el arreglo tiene que estar definido
+estaticamente.
+(El nombre del arreglo es un puntero que no puede cambiar de dirección!) 0.2 p
+
+2) Son similares, definen un nuevo tipo de dato, el cual tiene campos con datos
+nuevos o primitivos. La diferencia es que en la union los campos comparten 
+la memoria del dato de mayor peso. 0.4 p
+
+3) No sé.
+
+4) CASOS EN LOS QUE EL PUNTERO APUNTA A NULL:
+					
+a) Si se le pasa size = 0, hace lo mismo que free pero queda apuntando a NULL. NO
+
+b) No sé.
+
+  CASOS EN LOS QUE EL PUNTERO NO APUNTA A NULL:	
+
+a) Si se le pasa size = 0, la direccion almacenada en el puntero no se libera y se vacia el contenido. NO
+
+b) Si se le pasa size != 0, hace lo mismo que malloc.	NO		
+
+5) Sirven como intermediario entre el sistema operativo y el operador.
+	El disco duro es muy lento y se procesan los datos mientras trabajamos
+	con el stream.
+
+6) No sé.

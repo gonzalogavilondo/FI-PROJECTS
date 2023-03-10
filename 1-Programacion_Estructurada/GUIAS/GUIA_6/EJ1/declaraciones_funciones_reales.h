@@ -1,0 +1,6 @@
+#ifndef DECLARACIONES_FUNCIONES_REALES_H_INCLUDED
+#define DECLARACIONES_FUNCIONES_REALES_H_INCLUDED
+
+float calcular_promedio(float *datos, int cantidad_datos);
+
+#endif // DECLARACIONES_FUNCIONES_REALES_H_INCLUDED

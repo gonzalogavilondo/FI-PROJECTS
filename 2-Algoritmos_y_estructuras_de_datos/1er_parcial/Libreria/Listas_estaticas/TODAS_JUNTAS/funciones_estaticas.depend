@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_estaticas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619201806 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_estaticas\funciones.c
+	"declaraciones.h"
+
+1619201802 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_estaticas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620326354 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_estaticas\funciones_estaticas\funciones.c
+	"declaraciones.h"
+
+1620326292 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_estaticas\funciones_estaticas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620326292 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_estaticas\funciones_estaticas\main.c
+	"declaraciones.h"
+
+1620326354 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\listas_estaticas\todas_juntas\funciones.c
+	"declaraciones.h"
+
+1620326292 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\listas_estaticas\todas_juntas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620687078 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\listas_estaticas\todas_juntas\main.c
+	"declaraciones.h"
+

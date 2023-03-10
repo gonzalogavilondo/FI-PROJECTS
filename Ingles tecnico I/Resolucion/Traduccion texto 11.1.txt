@@ -1,0 +1,17 @@
+Extracto de los tutoriales de Ruby sobre rieles
+
+Las convenciones en este libro son principalmente auto-explicativas. En esta
+seccion, mencionare algunas que puede que no lo sean.
+
+Muchos ejemplos en este libro usan comandos en lineas de comandos. Para la simplicidad,
+todos los ejemplos en lineas de comando usan un prompt de linea de comando de estilo Unix
+(un signo de dolares), como sigue.
+
+Recomiendo que los usuarios de todos los sistemas operativos (especialmente windows) usen
+un entorno de desarrollo en la nube. Esto es particularmente util porque Rails viene con comandos
+que se ejecutan en la linea de comandos. Por ejemplo, en la seccion 1.3.2 ejecutaremos
+un servidor web de desarrollo local con el comando RAILS SERVER.
+
+Como con el prompt de lineas de comando, el tutorial Rails usa la convencion Unix
+para separadores de directorios (es decir, una barra inclinada hacia adelante). Por ejemplo,
+El archivo de configuracion PRODUCTION.RB de aplicacion de muestra aparece como sigue:

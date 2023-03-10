@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1633012747 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej3\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1633012715 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej3\include\fecha.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1633012927 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej3\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string.h>
+

@@ -1,0 +1,22 @@
+CCuentaCorriente:
+
+Nombre = Gonzalo Gavilondo
+Dni = 40666672
+Telefono = 2236830702
+
+Numero de cuenta = 1
+Saldo = $528178
+Porcentaje de interes (Si su saldo es > 10000) = 25%
+Cuota de mantenimiento = $1000
+Tope de gire en descubierto de la cuenta = 0
+
+Nombre = Gonzalo Gavilondo
+Dni = 40666672
+Telefono = 2236830702
+
+Numero de cuenta = 2
+Saldo = $3232
+Porcentaje de interes (Si su saldo es > 10000) = 25%
+Cuota de mantenimiento = $1000
+Tope de gire en descubierto de la cuenta = 0
+

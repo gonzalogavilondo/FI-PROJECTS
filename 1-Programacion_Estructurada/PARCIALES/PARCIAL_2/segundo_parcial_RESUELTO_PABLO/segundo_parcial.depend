@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1529978006 source:c:\users\pablo\documents\facultad\pe\2018\segundo parcial\segundo_parcial\main.c
+	"cabeceras.h"
+
+1529978127 source:c:\users\pablo\documents\facultad\pe\2018\segundo parcial\segundo_parcial\implementaciones.c
+	"cabeceras.h"
+
+1529978048 c:\users\pablo\documents\facultad\pe\2018\segundo parcial\segundo_parcial\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1529978127 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\segundo_parcial_resuelto_pablo\implementaciones.c
+	"cabeceras.h"
+
+1529978048 c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\segundo_parcial_resuelto_pablo\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1529978006 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_2\segundo_parcial_resuelto_pablo\main.c
+	"cabeceras.h"
+
+1529978127 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\parcial_2\segundo_parcial_resuelto_pablo\implementaciones.c
+	"cabeceras.h"
+
+1529978048 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\parcial_2\segundo_parcial_resuelto_pablo\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+
+1529978006 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\parcial_2\segundo_parcial_resuelto_pablo\main.c
+	"cabeceras.h"
+

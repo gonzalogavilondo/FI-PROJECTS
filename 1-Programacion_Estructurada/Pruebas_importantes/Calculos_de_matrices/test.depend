@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1524233278 source:c:\users\yo\desktop\test\main.c
+	"header_ops_matrices.h"
+
+1524232562 c:\users\yo\desktop\test\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524232588 source:c:\users\yo\desktop\test\source_ops_matrices.c
+	"header_ops_matrices.h"
+
+1524233278 source:f:\programación estructurada\test\main.c
+	"header_ops_matrices.h"
+
+1524232562 f:\programación estructurada\test\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524232588 source:f:\programación estructurada\test\source_ops_matrices.c
+	"header_ops_matrices.h"
+
+1523630652 source:i:\programación estructurada\cosa suelta y rica\test\main.c
+	<stdio.h>
+	<locale.h>
+	"header_ops_matrices.h"
+
+1523629760 i:\programación estructurada\cosa suelta y rica\test\header_ops_matrices.h
+
+1523629827 source:i:\programación estructurada\cosa suelta y rica\test\source_ops_matrices.c
+	"header_ops_matrices.h"
+	<stdio.h>
+	<stdlib.h>
+
+1524073046 source:f:\programación estructurada\cosa suelta\test\main.c
+	<stdio.h>
+	<locale.h>
+	"header_ops_matrices.h"
+
+1524075403 f:\programación estructurada\cosa suelta\test\header_ops_matrices.h
+
+1524075563 source:f:\programación estructurada\cosa suelta\test\source_ops_matrices.c
+	"header_ops_matrices.h"
+	<stdio.h>
+	<stdlib.h>
+
+1524073046 source:i:\programación estructurada\cosa suelta\test\main.c
+	<stdio.h>
+	<locale.h>
+	"header_ops_matrices.h"
+
+1524075403 i:\programación estructurada\cosa suelta\test\header_ops_matrices.h
+
+1524100956 source:c:\users\juansito\desktop\cosas codeblocks\test\main.c
+	<stdio.h>
+	<locale.h>
+	"header_ops_matrices.h"
+
+1524100905 c:\users\juansito\desktop\cosas codeblocks\test\header_ops_matrices.h
+
+1524101069 source:c:\users\juansito\desktop\cosas codeblocks\test\source_ops_matrices.c
+	"header_ops_matrices.h"
+	<stdio.h>
+	<stdlib.h>
+
+1524785744 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\calculos de matrices\main.c
+	"header_ops_matrices.h"
+
+1524232562 c:\users\juansito\desktop\cosas codeblocks\cosa suelta\calculos de matrices\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524781421 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\calculos de matrices\source_ops_matrices.c
+	"header_ops_matrices.h"
+
+1524781421 source:c:\users\usuario\desktop\calculos_de_matrices\source_ops_matrices.c
+	"header_ops_matrices.h"
+
+1524232562 c:\users\usuario\desktop\calculos_de_matrices\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1526563315 source:c:\users\usuario\desktop\calculos_de_matrices\main.c
+	"header_ops_matrices.h"
+
+1554148378 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\calculos_de_matrices\main.c
+	"header_ops_matrices.h"
+
+1524232564 c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\calculos_de_matrices\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524781422 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\calculos_de_matrices\source_ops_matrices.c
+	"header_ops_matrices.h"
+
+1554148378 source:f:\programacion_estructurada\pruebas_importantes\calculos_de_matrices\main.c
+	"header_ops_matrices.h"
+
+1524232564 f:\programacion_estructurada\pruebas_importantes\calculos_de_matrices\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1524781422 source:f:\programacion_estructurada\pruebas_importantes\calculos_de_matrices\source_ops_matrices.c
+	"header_ops_matrices.h"
+
+1554148378 source:d:\facultad\programacion_estructurada\pruebas_importantes\calculos_de_matrices\main.c
+	"header_ops_matrices.h"
+
+1524232564 d:\facultad\programacion_estructurada\pruebas_importantes\calculos_de_matrices\header_ops_matrices.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

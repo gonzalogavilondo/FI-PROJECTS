@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1620350186 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mapear_matriz\triangular_superior\funciones.c
+	"declaraciones.h"
+
+1620350186 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mapear_matriz\triangular_superior\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620350314 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mapear_matriz\triangular_superior\main.c
+	"declaraciones.h"
+
+1620350186 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\mapear_matriz\triangular_superior\funciones.c
+	"declaraciones.h"
+
+1620351566 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\mapear_matriz\triangular_superior\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620351575 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\mapear_matriz\triangular_superior\main.c
+	"declaraciones.h"
+

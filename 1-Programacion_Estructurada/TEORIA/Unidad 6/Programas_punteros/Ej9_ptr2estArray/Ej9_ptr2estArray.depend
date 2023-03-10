@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1464784836 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej9_ptr2estarray\main.c
+	"myInclude.h"
+
+1432398394 c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej9_ptr2estarray\myinclude.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1432825528 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej9_ptr2estarray\manejo_datos.c
+	"myInclude.h"
+

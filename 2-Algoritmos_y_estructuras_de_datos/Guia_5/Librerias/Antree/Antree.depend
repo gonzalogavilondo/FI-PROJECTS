@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1623348592 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\antree.c
+	"declaraciones.h"
+
+1623099954 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623547224 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\antree_test.c
+	"declaraciones.h"
+
+1623547059 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\antree\main.c
+	"declaraciones.h"
+
+1624714190 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\antree.c
+	"declaraciones.h"
+
+1624714646 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624714646 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\antree_test.c
+	"declaraciones.h"
+
+1624714646 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\main.c
+	"declaraciones.h"
+
+1624646702 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\lists.c
+	"Lists.h"
+
+1624641414 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\antree\lists.h
+	<stdio.h>
+	<stdlib.h>
+

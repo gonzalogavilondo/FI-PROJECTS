@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1622570440 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\ej8\abtree.c
+	"declaraciones.h"
+
+1622569218 c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\ej8\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1622577767 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\ej8\main.c
+	"declaraciones.h"
+
+1622917689 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej8\abtree.c
+	"declaraciones.h"
+
+1622581915 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej8\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1622581909 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej8\main.c
+	"declaraciones.h"
+

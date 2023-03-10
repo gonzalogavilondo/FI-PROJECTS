@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1636058187 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\clasepersona\main.cpp
+	"Persona.h"
+
+1636058429 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\clasepersona\include\persona.h
+	"Fecha.h"
+	<iostream>
+
+1632502048 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\clasepersona\include\fecha.h
+	<iostream>
+
+1632502048 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\clasepersona\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1636058202 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\clasepersona\src\persona.cpp
+	"Persona.h"
+

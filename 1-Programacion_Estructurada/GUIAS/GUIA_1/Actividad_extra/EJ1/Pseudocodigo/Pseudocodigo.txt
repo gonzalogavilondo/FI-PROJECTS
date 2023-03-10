@@ -1,0 +1,29 @@
+Proceso Temperatura_dia
+
+	Definir Tm,Tt,Tn,Tpromedio,Tdif1,Tdif2,Tdif3 Como Real;
+	Escribir 'Digite la temperatura que se registro a la mañana: ';
+	Leer Tm;
+	Escribir 'Digite la temperatura que se registro a la tarde: ';
+	Leer Tt;
+	Escribir 'Digite la temperatura que se registro a la noche: ';
+	Leer Tn;
+	Tpromedio <- (Tm+Tt+Tn)/3;
+	Tdif1 <- (Tm-Tpromedio);
+	Tdif2 <- (Tt-Tpromedio);
+	Tdif3 <- (Tn-Tpromedio);
+	Si Tdif1>10 Entonces
+		Escribir 'La diferencia de temperatura de la mañana con respecto a la promedio es mayor a 10 y es: ',Tdif1;
+	FinSi
+	Si Tdif2>10 Entonces
+		Escribir 'La diferencia de temperatura de la tarde con respecto a la promedio es mayor a 10 y es: ',Tdif2;
+	FinSi
+	Si Tdif3>10 Entonces
+		Escribir 'La diferencia de temperatura de la noche con respecto al promedio es mayor a 10 y es: ',Tdif3;
+	FinSi
+	Escribir "Ninguna temperatura tiene una diferencia con respecto a la promedio mayor a 10";
+
+FinProceso
+
+
+
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1624830620 source:c:\users\gonza\desktop\ejb\abtree.c
+	"Abtree.h"
+
+1624830606 c:\users\gonza\desktop\ejb\abtree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1625426334 source:c:\users\gonza\desktop\ejb\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625268627 c:\users\gonza\desktop\ejb\lists.h
+	<stdbool.h>
+
+1625320964 source:c:\users\gonza\desktop\ejb\antree.c
+	"Antree.h"
+
+1625516957 c:\users\gonza\desktop\ejb\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Abtree.h"
+
+1625518354 source:c:\users\gonza\desktop\ejb\ejercicio.c
+	"Antree.h"
+	"Abtree.h"
+
+1625517606 source:c:\users\gonza\desktop\ejb\antree_test.c
+	"Antree.h"
+	"Abtree.h"
+
+1625517442 source:c:\users\gonza\desktop\ejb\main.c
+	"Antree.h"
+	"Abtree.h"
+

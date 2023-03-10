@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1525958485 source:c:\users\usuario\desktop\fsdfsdfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525959896 source:e:\programacion_estructurada\cosa suelta\string_num_to_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525959905 source:f:\programacion_estructurada\cosa suelta\string_num_to_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1357019592 source:d:\facultad\programacion_estructurada\funciones\string_num_to_num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+

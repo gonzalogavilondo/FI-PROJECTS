@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1625436214 source:c:\users\gonza\desktop\antreestr\antreestr.c
+	"AntreeSTR.h"
+
+1625436214 c:\users\gonza\desktop\antreestr\antreestr.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625323077 source:c:\users\gonza\desktop\antreestr\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625323077 c:\users\gonza\desktop\antreestr\lists.h
+
+1624717103 source:c:\users\gonza\desktop\antreestr\graph.c
+	"Graphs.h"
+
+1625436077 c:\users\gonza\desktop\antreestr\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"AntreeSTR.h"
+	"Lists.h"
+
+1624798337 source:c:\users\gonza\desktop\antreestr\main.c
+	"Graphs.h"
+
+1625436371 source:c:\users\gonza\desktop\antreestr\antree_test.c
+	"Graphs.h"
+
+1625436371 source:c:\users\gonza\desktop\librerias\antreestr\antree_test.c
+	"Graphs.h"
+
+1625436077 c:\users\gonza\desktop\librerias\antreestr\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"AntreeSTR.h"
+	"Lists.h"
+
+1625436792 c:\users\gonza\desktop\librerias\antreestr\antreestr.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625323077 c:\users\gonza\desktop\librerias\antreestr\lists.h
+
+1625436792 source:c:\users\gonza\desktop\librerias\antreestr\antreestr.c
+	"AntreeSTR.h"
+
+1624717103 source:c:\users\gonza\desktop\librerias\antreestr\graph.c
+	"Graphs.h"
+
+1625323077 source:c:\users\gonza\desktop\librerias\antreestr\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625436493 source:c:\users\gonza\desktop\librerias\antreestr\main.c
+	"Graphs.h"
+

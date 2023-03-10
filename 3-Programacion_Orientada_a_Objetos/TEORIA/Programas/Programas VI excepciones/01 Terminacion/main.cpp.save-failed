@@ -1,0 +1,43 @@
+#include <iostream>
+
+#define    SWITCH      1
+
+using namespace std;
+
+int main()
+{
+    int *x = NULL;
+    unsigned int y = 0x7FFFFFFF;   // 2147 millones de enteros
+                                   // con menor cantidad anda OK
+    if(SWITCH)
+    {
+        x = new int[y];
+        if(x)		// si != NULL
+        {
+            x[y-100] = 10;
+            cout << "Puntero: " << (void *) x << endl;
+            delete [] x;
+        }
+        else
+        {
+            cout << "Memoria insuficiente." << endl;
+        }
+    }
+    else
+    {
+        try
+        {
+            x = new int[y];
+            x[y-100] = 10;
+            cout << "Puntero: " << (void *) x << endl;
+            delete[] x;
+        }
+
+        catch(std::bad_alloc&)
+        { // Los limitadores {} son OBLIGATORIOS
+            cout << "Memoria insuficiente\n" << endl;
+        }
+    }
+
+    return 0;
+}

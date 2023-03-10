@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1617474163 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_11\ordenamiento_insercion\main.c
+	"declaraciones.h"
+
+1617474163 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_11\ordenamiento_insercion\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617475290 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_11\ordenamiento_insercion\funciones.c
+	"declaraciones.h"
+
+1617475290 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\ordenamientos_nr\ordenamiento_insercion\funciones.c
+	"declaraciones.h"
+
+1617474163 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\ordenamientos_nr\ordenamiento_insercion\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617477184 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\ordenamientos_nr\ordenamiento_insercion\main.c
+	"declaraciones.h"
+
+1620402335 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_nr\ordenamiento_insercion\funciones.c
+	"declaraciones.h"
+
+1620402391 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_nr\ordenamiento_insercion\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620402403 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_nr\ordenamiento_insercion\main.c
+	"declaraciones.h"
+

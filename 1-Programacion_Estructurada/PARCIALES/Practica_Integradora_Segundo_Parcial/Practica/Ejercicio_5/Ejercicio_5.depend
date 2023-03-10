@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1561036430 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1560983732 c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_5\declaraciones.h
+
+1561492596 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_5\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1561492596 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\practica_integradora_segundo_parcial\practica\ejercicio_5\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+
+1560983732 c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\practica_integradora_segundo_parcial\practica\ejercicio_5\declaraciones.h
+
+1561036430 source:c:\users\gonza\desktop\facultad\2_anio\programacion_estructurada\parciales\practica_integradora_segundo_parcial\practica\ejercicio_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+

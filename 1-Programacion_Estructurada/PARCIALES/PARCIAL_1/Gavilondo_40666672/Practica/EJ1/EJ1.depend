@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1556889104 source:d:\gavilondo_40666672\practica\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+
+1556889087 d:\gavilondo_40666672\practica\ej1\declaraciones_funciones.h
+
+1556889087 source:d:\gavilondo_40666672\practica\ej1\funciones.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556895027 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej1\funciones.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556889087 c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej1\declaraciones_funciones.h
+
+1556895069 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+
+1556880626 source:g:\facultad\2_anio\1er_cuatrimestre\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej1\funciones.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556874686 g:\facultad\2_anio\1er_cuatrimestre\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej1\declaraciones_funciones.h
+
+1556880668 source:g:\facultad\2_anio\1er_cuatrimestre\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"declaraciones_funciones.h"
+

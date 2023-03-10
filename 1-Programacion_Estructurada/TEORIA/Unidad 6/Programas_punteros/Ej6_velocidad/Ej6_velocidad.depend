@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432147687 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej6_velocidad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

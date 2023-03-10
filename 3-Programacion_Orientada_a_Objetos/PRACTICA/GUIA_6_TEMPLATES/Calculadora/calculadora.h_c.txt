@@ -1,0 +1,200 @@
+﻿/***
+    CONSTRUCTOR
+***/
+template <class T> CCalculadora<T>::CCalculadora()
+{
+    //ctor
+}
+
+/***
+    DESTRUCTOR
+***/
+template <class T> CCalculadora<T>::~CCalculadora()
+{
+    //dtor
+}
+
+/***
+    GETTERS y SETTERS
+***/
+template <class T> void CCalculadora<T>::SetObj1(T val)
+{
+    obj1 = val;
+}
+
+template <class T> void CCalculadora<T>::SetObj2(T val)
+{
+    obj2 = val;
+}
+
+/// Esto se llama "especializar funcion", en este caso utilizo la plantilla y tiene que ser tratada como tal
+template <class T> void CCalculadora<T>::SetearObjetos()
+{
+    T aux1;
+    T aux2;
+    cout << "Ingrese el primer operando: " << endl;
+    cin >> aux1;
+    cout << endl << "Ingrese el segundo operando: " << endl;
+    cin >> aux2;
+
+    SetObj1(aux1);
+    SetObj2(aux2);
+
+}
+
+template <class T> T CCalculadora<T>::GetObj1()
+{
+    return obj1;
+}
+
+template <class T> T CCalculadora<T>::GetObj2()
+{
+    return obj2;
+}
+
+/***
+        FUNCIONES GENERICAS
+***/
+///SUMA
+template <class T> T CCalculadora<T>::suma(T obj1, T obj2)
+{
+    T result;
+
+    result = obj1 + obj2;
+
+    return result;
+
+};
+
+///RESTA
+template <class T> T CCalculadora<T>::resta(T obj1, T obj2)
+{
+    T result;
+
+    result = obj1 - obj2;
+
+    return result;
+
+};
+
+///MULTIPLICACION
+template <class T> T CCalculadora<T>::multiplicacion(T obj1, T obj2)
+{
+    T result;
+
+    result = obj1 * obj2;
+
+    return result;
+
+};
+
+///DIVISION
+template <class T> T CCalculadora<T>::division(T obj1, T obj2)
+{
+    T result;
+
+    result = obj1 / obj2;
+
+    return result;
+
+};
+
+/***
+    ESPECIALIZACION DE PLANTILLAS DE FUNCION
+     Una especialización es una plantilla (no es una declaracion de funcion, sino un prototipo),
+     y tiene que definirse después de la plantilla general
+
+     El prefijo template<> indica que la definición es una especialización explícita de la plantilla.
+***/
+
+///RESTA
+template <> string CCalculadora<string>::resta(string a, string b)
+{
+    cout << "No existe la resta de strings." << endl;
+
+    exit(-1);
+}
+
+///MULTIPLICACION
+template <> string CCalculadora<string>::multiplicacion(string a, string b)
+{
+    cout << "No existe la multiplicacion de strings." << endl;
+
+    exit(-1);
+}
+
+///DIVISION
+template <> string CCalculadora<string>::division(string a, string b)
+{
+    cout << "No existe la division de strings." << endl;
+    exit(-1);
+}
+
+/***
+    MENU
+***/
+template <class T> void CCalculadora<T>::Menu()
+{
+    const char* opciones[] = {"Suma", "Resta", "Multiplicacion", "Division", "Salir"};
+    const int numOpciones = sizeof(opciones) / sizeof(char*);
+    int opcion = 0;
+
+    do
+    {
+        opcion = this->CrearMenu(opciones, numOpciones);
+        switch(opcion)
+        {
+            case 1: // Suma
+                cout << "La suma de " << this->obj1 << " + " << this->obj2 << " es: "
+                     << this->suma(this->obj1, this->obj2) << endl;
+                system("pause");
+                break;
+            case 2: // Resta
+                cout << "La resta de " << this->obj1 << " - " << this->obj2 << " es: "
+                     << this->resta(this->obj1, this->obj2) << endl;
+                system("pause");
+                break;
+            case 3: // Multiplicacion
+                cout << "La multiplicacion de " << this->obj1 << " * " << this->obj2 << " es: "
+                     << this->multiplicacion(this->obj1, this->obj2) << endl;
+                system("pause");
+                break;
+            case 4: // Division
+                cout << "La division de " << this->obj1 << " / " << this->obj2 << " es: "
+                     << this->division(this->obj1, this->obj2) << endl;
+                system("pause");
+                break;
+            case numOpciones: // salir
+                break;
+        }
+    }while(opcion != numOpciones);
+}
+
+template <class T> int CCalculadora<T>::CrearMenu(const char* opMenu[], int numOpciones)
+{
+    int opcion;
+    system("cls");
+
+    do
+    {
+        cout << "Elija una opcion:\n" << endl;
+
+        for (int i = 0; i < numOpciones; i++)
+        {
+            cout << "\t" << setw(2) << i + 1 << ". " << opMenu[i] << endl;
+        }
+
+        cout << ">> ";
+        cin >> opcion;
+        cin.ignore(numeric_limits<int>::max(), '\n');
+        if (opcion < 1 || opcion > numOpciones)
+        {
+            cerr << "Opcion incorrecta. " << endl;
+            system("pause");
+            system("cls || clear");
+        }
+
+    }while(opcion < 1 || opcion > numOpciones);
+
+    return opcion;
+}

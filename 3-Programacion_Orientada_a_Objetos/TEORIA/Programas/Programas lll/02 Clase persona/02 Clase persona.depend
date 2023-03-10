@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1535485842 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\02 clase persona\main.cpp
+	"persona.h"
+
+1535485818 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\02 clase persona\persona.h
+	<iostream>
+
+1630865092 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\02 clase persona\persona.cpp
+	"persona.h"
+	<ctime>
+
+1535485842 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas lll\02 clase persona\main.cpp
+	"persona.h"
+
+1630866815 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas lll\02 clase persona\persona.h
+	<iostream>
+
+1630867481 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas lll\02 clase persona\persona.cpp
+	"persona.h"
+	<ctime>
+

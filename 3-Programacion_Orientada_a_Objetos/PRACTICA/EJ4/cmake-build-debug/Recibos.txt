@@ -1,0 +1,27 @@
+/**CONTRIBUYENTE EXTENDIDO**/
+Nombre = Gonzalo Gavilondo
+Dni = 40666672
+ID = 0405678954
+Monto fijo = 5
+Monto Variable = 200
+Monto Adicional = 10
+
+/**********FACTURAS**********/
+Detalle del servicio = Gas
+Numero de factura = 2
+Monto = 400
+Fecha de la factura = 22/11/2021
+
+/**CONTRIBUYENTE COMPLETO**/
+Nombre = Juan Gutierrez
+Dni = 40234567
+ID = 9562145778
+Monto fijo = 5
+Monto Variable = 240
+
+/**********FACTURAS**********/
+Detalle del servicio = Luz
+Numero de factura = 2
+Monto = 1000
+Fecha de la factura = 20/11/2021
+

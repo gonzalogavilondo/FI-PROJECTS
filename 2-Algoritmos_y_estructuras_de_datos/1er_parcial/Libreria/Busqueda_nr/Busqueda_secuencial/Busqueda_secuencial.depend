@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617565689 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\busquedas\busqueda_secuencial\funciones.c
+	"declaraciones.h"
+
+1617565689 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\busquedas\busqueda_secuencial\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523932894 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 4\ej3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1523932896 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

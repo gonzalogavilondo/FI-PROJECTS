@@ -1,0 +1,24 @@
+EJ1)H
+
+n: cantidad de elementos: 10
+x: Valor a encontrar: 11
+i = 0  //Valor minimo (inf)
+j = 9 //Valor maximo (sup)
+
+k = i+j/2 = 4 (valor medio)
+Si x = 11 <= lista[4]
+	j (Limite superior) = 3
+Si lista[4] <= 11
+	i(Limite inferior) = 5 
+
+Hasta aca, lo que se hizo es calcular el valor medio y ver si es mayor o menor al
+valor "x" buscado, si es menor, el nuevo intervalo de busqueda va a estar entre 
+0 y 3 -> se reduce hacia la izquierda. Si x es mayor, entonces se reduce el intervalo
+desde 5 hasta 9 -> Se reduce hacia la derecha.
+Mientras que i <= j
+	Si Lista[k] == 11
+	   devuelve k;
+Sino
+	Devuelve -1;
+
+Es una implementacion de lo que se le llama busqueda binaria.

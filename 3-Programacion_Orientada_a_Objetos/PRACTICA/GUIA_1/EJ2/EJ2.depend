@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631540983 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej2\main.cpp
+	<iostream>
+	"header.h"
+
+1630350641 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej2\header.h
+
+1630350641 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej2\source.cpp
+	"header.h"
+

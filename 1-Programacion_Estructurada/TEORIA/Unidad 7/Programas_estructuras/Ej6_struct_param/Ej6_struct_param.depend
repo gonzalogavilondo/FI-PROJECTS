@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1430781013 source:d:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej6_struct_param\imprime.c
+	"header.h"
+
+1430781238 d:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej6_struct_param\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1430781499 source:d:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej6_struct_param\main.c
+	"header.h"
+
+1430958298 source:c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej6_struct_param\imprime.c
+	"header.h"
+
+1430958360 c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej6_struct_param\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1430958298 source:c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej6_struct_param\main.c
+	"header.h"
+
+1430958298 source:c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej6_struct_param\imprime.c
+	"header.h"
+
+1494418695 c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej6_struct_param\header.h
+
+1430958298 source:g:\facultad\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej6_struct_param\imprime.c
+	"header.h"
+
+1494418694 g:\facultad\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej6_struct_param\header.h
+
+1494418904 source:g:\facultad\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej6_struct_param\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1430958298 source:c:\users\gonza\desktop\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej6_struct_param\imprime.c
+	"header.h"
+
+1494418694 c:\users\gonza\desktop\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej6_struct_param\header.h
+
+1494418904 source:c:\users\gonza\desktop\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej6_struct_param\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+

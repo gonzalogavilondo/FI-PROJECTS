@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526650520 source:c:\users\yo\desktop\ejemplo estructuras\source_ejs_structs.c
+	"header_ejs_structs.h"
+
+1526650416 c:\users\yo\desktop\ejemplo estructuras\header_ejs_structs.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+
+1526650612 source:c:\users\yo\desktop\ejemplo estructuras\main.c
+	"header_ejs_structs.h"
+

@@ -1,0 +1,17 @@
+#include "CTermino.h"
+
+CTermino::CTermino()
+{
+    //ctor
+}
+CTermino::~CTermino()
+{
+    //dtor
+}
+bool CTermino::operator== (const CTe &ct)
+{
+    if(numerador==c.numerador && denominador==c.denominador)
+        return true;
+    else
+        return false;
+}

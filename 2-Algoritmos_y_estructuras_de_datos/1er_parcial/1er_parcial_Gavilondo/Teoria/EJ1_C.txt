@@ -1,0 +1,14 @@
+FILA 1                                 PILA
+1					5
+2					4
+3					3
+4					2
+5					1
+
+Para implementar una pila, necesitamos dos filas. En una se van a almacenar 
+los datos normalmente, y nos va a quedar como esta arriba.
+Luego, en la FILA 2 tenemos que ir agregando el REAR de la fila 1.
+Es decir, vamos a hacer algo asi: f2 = push(f1.rear);
+Vamos a ir agregando en la segunda fila, el ultimo de la primera.
+Haciendo eso, nos va a quedar en la fila 2 una pila, donde el primero que saldra
+sera el ultimo de la fila 1.

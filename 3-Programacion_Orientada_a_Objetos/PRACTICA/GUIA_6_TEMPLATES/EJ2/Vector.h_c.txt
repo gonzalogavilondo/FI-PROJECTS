@@ -1,0 +1,152 @@
+﻿/***
+    Constructores
+***/
+
+// Constructor, donde crea una matriz con ne elementos, 10 por omisión
+template<typename T> Vector<T>::Vector(int ne)
+{
+    if (ne < 1)
+    {
+        throw invalid_argument("Nº de elementos no válido");
+    }
+    nElementos = ne;
+    vec = asignarMemoria(nElementos);
+}
+
+// Constructor copia
+template<typename T> Vector<T>::Vector(const Vector<T>& v)
+{
+    nElementos = v.nElementos;
+    vec = asignarMemoria(nElementos);
+    // Copiar los elementos del vector "v"
+    copiarVector(v);
+}
+
+//// Constructor copia especializado
+//template<typename T> Vector<T>::Vector(const Vector<float>& v)
+//{
+//    liberarMemoria();
+//    nElementos = v.nElementos;
+//    vec = asignarMemoria(nElementos);
+//    // Copiar los elementos del vector "v"
+//    copiarVector(v);
+//}
+
+/***
+    Destructor
+***/
+template<typename T> Vector<T>::~Vector() // destructor
+{
+    liberarMemoria();
+}
+
+/***
+    Memoria
+***/
+template<typename T> T* Vector<T>::asignarMemoria(int nElems)
+{
+    // Si no hay espacio de memoria suficiente
+    // new lanza la excepción bad_alloc
+    try
+    {
+        T* p = new T[nElems];
+        return p;
+    }
+    catch(const bad_alloc& e)
+    {
+        cout << "Atajada excepcion: " << e.what() << endl;
+        return NULL;
+    }
+
+}
+
+template<typename T> void Vector<T>::liberarMemoria()
+{
+    if (vec != nullptr)
+    {
+        delete[] vec;
+    }
+}
+
+/***
+    Sobrecarga de operadores
+***/
+template <typename T> ostream& operator<< (ostream& co, Vector<T>& v) // no se incluye <>
+{
+    for (int i = 0; i < v.longitud(); i++)
+    {
+        co << "   " << (v[i]);
+    }
+    co << endl << endl;
+
+    return co;
+}
+
+template<typename T> Vector<T>& Vector<T>::operator= (const Vector<T>& v)
+{
+    if (this == &v) return *this;
+    nElementos = v.nElementos; // número de elementos
+    liberarMemoria(); // eliminar el vector actual
+    vec = asignarMemoria(nElementos); // crear un nuevo vector
+    copiarVector(v);
+
+    return *this; // permitir asignaciones encadenadas
+}
+
+template<typename T> T Vector<T>::operator= (T x) // iniciar un vector un el valor de x.
+{
+    for(int i = 0; i < longitud(); i++)
+    {
+        vec[i] = x;
+    }
+
+    return x;
+}
+
+template<typename T> T& Vector<T>::operator[] (size_t i) const
+{
+    if (i < 0 || i >= nElementos)
+    {
+        throw out_of_range("Indice fuera de rango");
+    }
+    return vec[i];
+}
+
+
+/***
+    Otras funciones
+***/
+template<typename T> int Vector<T>::longitud() const
+{
+    return nElementos;
+}
+
+template<typename T> void Vector<T>::redimensionar(int cntElementos)
+{
+    if (cntElementos < 1)
+    {
+        throw invalid_argument("Nº de elementos no válido");
+    }
+    liberarMemoria(); // eliminar el vector actual
+    nElementos = cntElementos;
+    vec = asignarMemoria(cntElementos); // crear un nuevo vector
+
+}
+
+template<typename T> void Vector<T>::copiarVector(const Vector<T>& v)
+{
+    do
+    {
+        if(longitud() == v.longitud())
+        {
+            for(int i = 0; i < v.longitud(); i++)
+            {
+                vec[i] = v.vec[i];
+            }
+        }
+        else
+        {
+            redimensionar(v.nElementos);
+        }
+    }while(longitud() != v.longitud());
+}

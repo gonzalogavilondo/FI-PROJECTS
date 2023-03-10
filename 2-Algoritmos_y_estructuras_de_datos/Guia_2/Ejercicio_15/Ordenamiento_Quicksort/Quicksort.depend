@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1620323975 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\quicksort\funciones.c
+	"declaraciones.h"
+
+1620323975 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\quicksort\declaraciones.h
+	<stdlib.h>
+	<stdio.h>
+
+1620323987 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\quicksort\main.c
+	"declaraciones.h"
+
+1620323975 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\ordenamientos_recursivos\quicksort\funciones.c
+	"declaraciones.h"
+
+1620323975 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\ordenamientos_recursivos\quicksort\declaraciones.h
+	<stdlib.h>
+	<stdio.h>
+
+1620323992 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\ordenamientos_recursivos\quicksort\main.c
+	"declaraciones.h"
+
+1620323975 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_recursivos\quicksort\funciones.c
+	"declaraciones.h"
+
+1620323975 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_recursivos\quicksort\declaraciones.h
+	<stdlib.h>
+	<stdio.h>
+
+1620323992 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_recursivos\quicksort\main.c
+	"declaraciones.h"
+
+1620323975 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_15\ordenamiento_quicksort\funciones.c
+	"declaraciones.h"
+
+1620403730 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_15\ordenamiento_quicksort\declaraciones.h
+	<stdlib.h>
+	<stdio.h>
+
+1620403735 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_15\ordenamiento_quicksort\main.c
+	"declaraciones.h"
+

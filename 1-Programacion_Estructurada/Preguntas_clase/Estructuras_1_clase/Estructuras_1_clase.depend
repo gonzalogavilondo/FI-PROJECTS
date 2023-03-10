@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557945502 source:f:\facultad\programacion_estructurada\preguntas_clase\estructuras_1_clase\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1557945826 source:f:\facultad\programacion_estructurada\preguntas_clase\estructuras_1_clase\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1557945826 f:\facultad\programacion_estructurada\preguntas_clase\estructuras_1_clase\declaraciones_funciones.h
+

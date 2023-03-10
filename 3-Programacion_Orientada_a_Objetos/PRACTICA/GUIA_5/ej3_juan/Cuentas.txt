@@ -1,0 +1,66 @@
+Caja de Ahorro
+CBU: 5867379277816785672191
+Saldo: 0
+Cantidad maxima de extracciones por mes: 20
+Tope de giro en descubierto: No permitido
+
+Titulares:
+Juan Gutierrez
+40643718
+41
+
+Cuenta Corriente
+CBU: 0678713521913111685524
+Saldo: 0
+Cantidad maxima de extracciones por mes: Ilimitado
+Tope de giro en descubierto: 5000
+
+Titulares:
+Juan Gutierrez
+40643718
+41
+
+Cuenta Universitaria
+CBU: 9236595746117917072001
+Saldo: 0
+Cantidad maxima de extracciones por dia: 100 pesos
+Tope de giro en descubierto: No permitido.
+
+Titulares:
+Juan Gutierrez
+40643718
+41
+
+Cuenta Corriente
+CBU: 9835715321931111571732
+Saldo: 0
+Cantidad maxima de extracciones por mes: Ilimitado
+Tope de giro en descubierto: 5000
+
+Titulares:
+Carla Sanchez
+28262745
+26500
+
+Caja de Ahorro
+CBU: 0862194178214601487249
+Saldo: 0
+Cantidad maxima de extracciones por mes: 20
+Tope de giro en descubierto: No permitido
+
+Titulares:
+Carla Sanchez
+28262745
+26500
+
+Cuenta Universitaria
+CBU: 0387827789755487361401
+Saldo: 0
+Cantidad maxima de extracciones por dia: 100 pesos
+Tope de giro en descubierto: No permitido.
+
+Titulares:
+Alfredo Moscuza
+24718923
+29358
+

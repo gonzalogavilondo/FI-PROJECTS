@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1617927338 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\busqueda_r\busqueda_binaria\funciones.c
+	"declaraciones.h"
+
+1617927338 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\busqueda_r\busqueda_binaria\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620324815 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\busqueda_r\busqueda_binaria\main.c
+	"declaraciones.h"
+
+1620324815 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\busqueda_recursiva\busqueda_binaria\main.c
+	"declaraciones.h"
+
+1617927338 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\busqueda_recursiva\busqueda_binaria\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+

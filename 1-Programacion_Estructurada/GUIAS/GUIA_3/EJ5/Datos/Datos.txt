@@ -1,0 +1,36 @@
+Una fábrica de artículos electrónicos contrató a 3 vendedores para la promoción y venta
+de sus productos. El sueldo de cada vendedor será igual al 10% del monto total de su
+venta. Realizar un programa que cargando el nombre de cada vendedor y su venta,
+determine:
+a) El sueldo de cada vendedor.
+b) El monto total de ventas.
+c) El porcentaje que representa cada venta sobre el total de ventas realizadas y las
+diferencias existentes con los otros vendedores.
+
+Datos: 
+
+Entrada : 3 vendedores, cada vendedor hace una venta.
+Salida: sueldo = 10% de su venta total, venta total, porcentaje cada vendedor
+
+
+Proceso: 
+
+a) 
+
+   venta  -> 100%
+   sueldo -> 10% = ((10*venta)/100) = (venta*(1/10))
+e
+
+
+b)
+
+  ventaT = (venta1 + venta2 + venta3)
+
+
+c)
+
+ porcentaje:
+
+ ventaT -> 100%
+ venta  -> x = %?  =   ((venta*100)/ventaT)
+

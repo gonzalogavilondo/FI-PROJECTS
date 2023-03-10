@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622581837 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej9\main.c
+	"declaraciones.h"
+
+1622581837 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej9\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1622917734 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej9\abtree.c
+	"declaraciones.h"
+

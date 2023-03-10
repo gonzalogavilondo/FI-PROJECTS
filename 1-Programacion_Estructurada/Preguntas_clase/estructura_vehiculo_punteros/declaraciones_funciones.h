@@ -1,0 +1,50 @@
+#ifndef DECLARACIONES_FUNCIONES_H_INCLUDED
+#define DECLARACIONES_FUNCIONES_H_INCLUDED
+
+#define LONGMAX 20
+
+typedef struct
+{
+    float peso;
+    int capacidad_pasajeros;
+    int ruedas;
+    float potencia;
+
+}tipo;
+
+typedef struct
+{
+    int dia;
+    int mes;
+    int anio;
+
+}fecha;
+
+typedef struct
+{
+    char letras[3];
+    int numero;
+    fecha ult_transferencia;
+
+}patente;
+
+typedef struct
+{
+    fecha fabricacion;
+    char *color;
+
+}modelo;
+
+typedef struct
+{
+    char *nombre;
+    tipo t_vehiculo;
+    modelo m_vehiculo;
+    patente p_vehiculo;
+
+}datos_vehiculo;
+
+void ingreso_datos(datos_vehiculo *vehiculos);
+void impresion_datos(const datos_vehiculo *vehiculos);
+
+#endif // DECLARACIONES_FUNCIONES_H_INCLUDED

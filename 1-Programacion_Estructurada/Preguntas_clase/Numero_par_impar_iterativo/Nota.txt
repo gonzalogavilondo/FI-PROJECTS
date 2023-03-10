@@ -1,0 +1,2 @@
+En Pseint el do-while termina cuando la condicion es verdadera,
+mientras que en C sale del bucle cuando la condicion es falsa.

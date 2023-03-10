@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1633890808 source:d:\users\juan\desktop\claaa\ej1\main.cpp
+	<iostream>
+	<fstream>
+	"Vehiculo.h"
+	"Auto.h"
+	"Camioneta.h"
+	<locale.h>
+
+1633800690 source:d:\users\juan\desktop\claaa\ej1\src\auto.cpp
+	"Auto.h"
+
+1633800579 d:\users\juan\desktop\claaa\ej1\include\auto.h
+	"Vehiculo.h"
+
+1633890619 d:\users\juan\desktop\claaa\ej1\include\vehiculo.h
+	<string>
+	<iostream>
+
+1633799298 source:d:\users\juan\desktop\claaa\ej1\src\vehiculo.cpp
+	"Vehiculo.h"
+
+1633800761 source:d:\users\juan\desktop\claaa\ej1\src\camioneta.cpp
+	"Camioneta.h"
+
+1633800582 d:\users\juan\desktop\claaa\ej1\include\camioneta.h
+	"Vehiculo.h"
+
+1633895439 source:d:\users\juan\desktop\claaa\ej1 - copia\src\auto.cpp
+	"Auto.h"
+
+1633895434 d:\users\juan\desktop\claaa\ej1 - copia\include\auto.h
+	"Vehiculo.h"
+
+1633895497 d:\users\juan\desktop\claaa\ej1 - copia\include\vehiculo.h
+	<string>
+	<iostream>
+
+1633895443 source:d:\users\juan\desktop\claaa\ej1 - copia\src\camioneta.cpp
+	"Camioneta.h"
+
+1633895434 d:\users\juan\desktop\claaa\ej1 - copia\include\camioneta.h
+	"Vehiculo.h"
+
+1633895599 source:d:\users\juan\desktop\claaa\ej1 - copia\src\vehiculo.cpp
+	"Vehiculo.h"
+
+1633895003 source:d:\users\juan\desktop\claaa\ej1 - copia\main.cpp
+	<iostream>
+	<fstream>
+	"Vehiculo.h"
+	"Auto.h"
+	"Camioneta.h"
+	<locale.h>
+
+1633895646 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\main.cpp
+	<iostream>
+	<fstream>
+	"Vehiculo.h"
+	"Auto.h"
+	"Camioneta.h"
+	<locale.h>
+
+1633895497 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\include\vehiculo.h
+	<string>
+	<iostream>
+
+1633895434 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\include\auto.h
+	"Vehiculo.h"
+
+1633895434 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\include\camioneta.h
+	"Vehiculo.h"
+
+1633895439 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\src\auto.cpp
+	"Auto.h"
+
+1633895443 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\src\camioneta.cpp
+	"Camioneta.h"
+
+1633895599 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej1\src\vehiculo.cpp
+	"Vehiculo.h"
+

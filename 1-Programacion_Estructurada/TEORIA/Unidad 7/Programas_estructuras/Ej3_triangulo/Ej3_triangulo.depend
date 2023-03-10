@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1462370904 source:c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej3_triangulo\main.c
+	"prototipo.h"
+
+1430921743 c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej3_triangulo\prototipo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462370674 source:c:\users\roberto\documents\programacion estructurada\clases\5 arreglos y estructuras\programas\structs\ej3_triangulo\copia_string.c
+	"prototipo.h"
+
+1494268435 source:c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej3_triangulo\copia_string.c
+
+1494268435 c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej3_triangulo\prototipo.h
+
+1494268435 source:c:\users\roberto\documents\programacion estructurada\clases\6 estructuras\programas\ej3_triangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipo.h"
+
+1494268434 source:g:\facultad\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej3_triangulo\copia_string.c
+
+1558542187 source:g:\facultad\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej3_triangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipo.h"
+
+1494268434 g:\facultad\programacion_estructurada\teoria\unidad 7\programas_estructuras\ej3_triangulo\prototipo.h
+

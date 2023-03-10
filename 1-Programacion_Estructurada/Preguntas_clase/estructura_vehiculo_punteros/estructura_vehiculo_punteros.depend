@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1558701135 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558700964 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\declaraciones_funciones.h
+
+1559074269 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558701135 source:g:\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558700964 g:\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\declaraciones_funciones.h
+
+1559074269 source:g:\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1616624789 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558700964 c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\declaraciones_funciones.h
+
+1616625075 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1616624789 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558700964 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\declaraciones_funciones.h
+
+1616625075 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+

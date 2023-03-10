@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1629823824 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej5_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"header_vehiculo.h"
+
+1629823733 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej5_c\header_vehiculo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1629823824 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej5_c\source_vehiculo.c
+	"header_vehiculo.h"
+

@@ -1,0 +1,22 @@
+Proceso Num_par_impar
+	Definir num Como Entero;
+	Definir salir Como Entero;
+	salir <- 0;
+	Repetir
+		Borrar Pantalla;
+		Si ((salir>=0) Y (salir<=1)) Entonces
+			Escribir 'Escriba un numero: ';
+			Leer num;
+			Si num MOD 2=0 Entonces
+				Escribir 'El numero es par';
+			SiNo
+				Escribir 'El numero es impar';
+			FinSi
+		SiNo
+			Escribir 'Digite una opcion correcta.';
+		FinSi
+		Escribir 'Si desea volver presione 1, para salir digite 0: ';
+		Leer salir;
+	Hasta Que salir=0
+FinProceso
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1357019372 source:d:\facultad\programacion_estructurada\funciones\funciones_matriz\funciones.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012398 d:\facultad\programacion_estructurada\funciones\funciones_matriz\declaraciones_funciones_reales.h
+
+1357012398 source:d:\facultad\programacion_estructurada\funciones\funciones_matriz\main.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1556124764 source:g:\facultad\programacion_estructurada\funciones\funciones_matriz\main.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1556125086 g:\facultad\programacion_estructurada\funciones\funciones_matriz\declaraciones_funciones_reales.h
+
+1556124425 source:g:\facultad\programacion_estructurada\funciones\funciones_matriz\funciones.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1635447463 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej1\main.cpp
+	"polar.h"
+
+1633025214 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej1\include\polar.h
+	<iostream>
+	"complejos.h"
+	"math.h"
+	"fstream"
+
+1635447158 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej1\src\polar.cpp
+	"polar.h"
+
+1631550903 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej1\\complejos.h
+	<iostream>
+

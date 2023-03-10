@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1558043531 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\cantidad_nombres_dinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558043478 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\cantidad_nombres_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1557873461 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\cantidad_nombres_dinamico\declaraciones_funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558043478 source:f:\facultad\programacion_estructurada\preguntas_clase\cantidad_nombres_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1557873461 f:\facultad\programacion_estructurada\preguntas_clase\cantidad_nombres_dinamico\declaraciones_funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558043531 source:f:\facultad\programacion_estructurada\preguntas_clase\cantidad_nombres_dinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones_funciones.h"
+

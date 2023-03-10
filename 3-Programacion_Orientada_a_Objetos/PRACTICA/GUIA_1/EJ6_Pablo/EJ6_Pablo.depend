@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1565905924 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\clases\ej6_pablo\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	<stdio.h>
+	<locale.h>
+
+1565905940 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\clases\ej6_pablo\vehiculo.h
+
+1565905942 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\clases\ej6_pablo\vehiculo.cpp
+	"Vehiculo.h"
+	<stdio.h>
+
+1565905924 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej6_pablo\main.cpp
+	<iostream>
+	"Vehiculo.h"
+	<stdio.h>
+	<locale.h>
+
+1565905940 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej6_pablo\vehiculo.h
+
+1565905942 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_1\ej6_pablo\vehiculo.cpp
+	"Vehiculo.h"
+	<stdio.h>
+

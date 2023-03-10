@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1524884369 source:c:\users\juansito\desktop\cosas codeblocks\parcial\parcial\source_imagen.c
+	"header_imagen.h"
+
+1524883713 c:\users\juansito\desktop\cosas codeblocks\parcial\parcial\header_imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1524883715 source:c:\users\juansito\desktop\cosas codeblocks\parcial\parcial\main.c
+	"header_imagen.h"
+
+1525044659 source:c:\users\juansito\desktop\cosas codeblocks\parcial\main.c
+	"header_imagen.h"
+
+1524956967 c:\users\juansito\desktop\cosas codeblocks\parcial\header_imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525044659 source:c:\users\juansito\desktop\cosas codeblocks\parcial\source_imagen.c
+	"header_imagen.h"
+
+1525044659 source:c:\users\juansito\desktop\cosas_codeblocks\parciales\1º parcial\parcial\main.c
+	"header_imagen.h"
+
+1524956967 c:\users\juansito\desktop\cosas_codeblocks\parciales\1º parcial\parcial\header_imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525044659 source:c:\users\juansito\desktop\cosas_codeblocks\parciales\1º parcial\parcial\source_imagen.c
+	"header_imagen.h"
+
+1525044659 source:c:\users\juansito\desktop\facultad\2do año\1er cuatrimestre\programación estructurada\parciales\1º parcial\parcial\main.c
+	"header_imagen.h"
+
+1524956967 c:\users\juansito\desktop\facultad\2do año\1er cuatrimestre\programación estructurada\parciales\1º parcial\parcial\header_imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525044659 source:c:\users\juansito\desktop\facultad\2do año\1er cuatrimestre\programación estructurada\parciales\1º parcial\parcial\source_imagen.c
+	"header_imagen.h"
+
+1525044659 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\parcial\main.c
+	"header_imagen.h"
+
+1524956967 c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\parcial\header_imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525044659 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\parcial\source_imagen.c
+	"header_imagen.h"
+
+1556735679 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1\parcial\main.c
+	"header_imagen.h"
+
+1524956968 c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1\parcial\header_imagen.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
+1525044660 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1\parcial\source_imagen.c
+	"header_imagen.h"
+

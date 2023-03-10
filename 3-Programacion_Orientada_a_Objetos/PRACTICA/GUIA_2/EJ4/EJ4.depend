@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1630618776 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej4\src\tiempo.cpp
+	"Tiempo.h"
+
+1630618607 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej4\include\tiempo.h
+	<iostream>
+	<string>
+
+1630618908 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_2\ej4\main.cpp
+	"Tiempo.h"
+

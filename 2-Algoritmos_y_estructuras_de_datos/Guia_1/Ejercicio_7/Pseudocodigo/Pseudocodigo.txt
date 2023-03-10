@@ -1,0 +1,20 @@
+Algoritmo array_par
+	Definir array Como Entero
+	Dimension array[100]
+	Definir j Como Entero
+	j <- 0
+	Definir i Como Entero
+	i <- 0
+	Definir suma Como Entero
+	suma <- 0
+	Para j<-1 Hasta 201 Hacer
+		Si j MOD 2=0 Entonces
+			array[i] <- j
+			i <- i+1
+		FinSi
+	FinPara
+	Para j<-0 Hasta i-1 Hacer
+		suma <- suma+array[j]
+	FinPara
+	Escribir 'La suma de todos los valores pares es de: ',suma
+FinAlgoritmo

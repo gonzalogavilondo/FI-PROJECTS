@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1624645068 source:c:\users\gonza\desktop\graph\graph.c
+	"Graphs.h"
+
+1624646702 c:\users\gonza\desktop\graph\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1624641414 c:\users\gonza\desktop\graph\lists.h
+	<stdio.h>
+	<stdlib.h>
+
+1624647140 c:\users\gonza\desktop\graph\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624646702 source:c:\users\gonza\desktop\graph\lists.c
+	"Lists.h"
+
+1624644033 source:c:\users\gonza\desktop\graph\main.c
+	"Graphs.h"
+
+1624751869 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\antree.c
+	"Antree.h"
+
+1624766016 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624729382 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\graph.c
+	"Graphs.h"
+
+1624765910 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1624765960 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\lists.h
+
+1624747870 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1624832775 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\main.c
+	"Graphs.h"
+	"test.h"
+
+1624832404 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\test.c
+	"test.h"
+
+1624766038 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\test.h
+	"Graphs.h"
+
+1624826592 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_6\librerias\graph\graphs.c
+	"Graphs.h"
+
+1624839780 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\antree.c
+	"Antree.h"
+
+1624766016 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624891628 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\graphs.c
+	"Graphs.h"
+
+1624843713 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\graphs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lists.h"
+	"Antree.h"
+
+1624765960 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\lists.h
+
+1624747870 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1624840801 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\main.c
+	"Graphs.h"
+	"test.h"
+
+1624839836 c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\test.h
+	"Graphs.h"
+
+1624842824 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do_parcial\librerias\graph\test.c
+	"test.h"
+

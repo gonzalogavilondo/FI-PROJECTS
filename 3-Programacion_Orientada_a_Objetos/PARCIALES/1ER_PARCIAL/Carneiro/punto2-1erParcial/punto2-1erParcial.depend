@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633102320 source:c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\punto2-1erparcial\main.cpp
+	"cReloj.h"
+
+1633103892 c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\punto2-1erparcial\include\creloj.h
+	<iostream>
+	<cstring>
+	<string.h>
+
+1633102618 source:c:\users\sony vaio\desktop\facultad\materias\programacion orientada a objetos\1er parcial\punto2-1erparcial\src\creloj.cpp
+	"cReloj.h"
+	<malloc.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_estaticas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619201806 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_estaticas\funciones.c
+	"declaraciones.h"
+
+1619201802 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_estaticas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

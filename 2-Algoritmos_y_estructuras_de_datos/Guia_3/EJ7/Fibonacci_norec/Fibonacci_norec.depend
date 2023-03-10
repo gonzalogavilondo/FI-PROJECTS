@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618596852 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej7\fibonacci_norec\main.c
+	"declaraciones.h"
+
+1618596852 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej7\fibonacci_norec\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1618596861 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej7\fibonacci_norec\funciones.c
+	"declaraciones.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561496830 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\prueba_qs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

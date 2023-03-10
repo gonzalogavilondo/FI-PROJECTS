@@ -1,0 +1,22 @@
+1)e)
+
+CHAR[] = "Algoritmo"
+
+cargamos algoritmo en la pila
+
+PILA:
+O
+M
+T
+I
+R
+O
+G
+L
+A
+
+Mientras que la pila no este vacia, vamos sacando un caracter de la pila y vamos mostrando ese caracter
+
+Vamos a imprimir:
+OMTIROGLA
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526653836 source:c:\users\yo\desktop\ej_estruc_pablo\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdint.h>
+
+1526654034 source:f:\facultad\programacion_estructurada\pruebas_importantes\ej_estruc_pablo\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdint.h>
+
+1526654034 source:c:\users\gonza\desktop\programacion_estructurada\pruebas_importantes\ej_estruc_pablo\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdint.h>
+

@@ -1,0 +1,34 @@
+Todas:
+
+Nombre = Gonzalo Gavilondo
+Dni = 40666672
+Telefono = 2236830702
+
+Numero de cuenta = 0
+Saldo = $316228
+Porcentaje de interes = 35%
+Cantidad de transacciones = 0
+Importe por transaccion = 100
+Cantidad de transacciones gratuitas = 0
+Cantidad de extracciones realizadas en el mes = 0
+
+Nombre = Gonzalo Gavilondo
+Dni = 40666672
+Telefono = 2236830702
+
+Numero de cuenta = 1
+Saldo = $528178
+Porcentaje de interes (Si su saldo es > 10000) = 25%
+Cuota de mantenimiento = $1000
+Tope de gire en descubierto de la cuenta = 0
+
+Nombre = Gonzalo Gavilondo
+Dni = 40666672
+Telefono = 2236830702
+
+Numero de cuenta = 2
+Saldo = $3232
+Porcentaje de interes (Si su saldo es > 10000) = 25%
+Cuota de mantenimiento = $1000
+Tope de gire en descubierto de la cuenta = 0
+

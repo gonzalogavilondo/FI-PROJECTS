@@ -1,0 +1,21 @@
+Proceso promedio_alumnos
+	Definir num_alumnos,nota,nota_final1,i,nota_final2,nota_final,promedio_notas Como Real;
+	Escribir 'Digite la cantidad de alumnos: ';
+	Leer num_alumnos;
+	nota_final1 <- 0;
+	nota_final2 <- 0;
+	Para i<-1 Hasta num_alumnos Hacer
+		Escribir i,'.Digite la nota del estudiante: ';
+		Leer nota;
+		Si nota>7 Entonces
+			// Tomando como maxima nota 10, el 20% serian 2 puntos mas.
+			nota_final1 <- ((nota_final1)+(nota+2));
+		SiNo
+			nota_final2 <- ((nota_final2)+(nota));
+		FinSi
+	FinPara
+	nota_final <- (nota_final1+nota_final2);
+	promedio_notas <- ((nota_final)/num_alumnos);
+	Escribir 'El promedio de nota de los alumnos de programacion estructurada es: ',promedio_notas;
+FinProceso
+

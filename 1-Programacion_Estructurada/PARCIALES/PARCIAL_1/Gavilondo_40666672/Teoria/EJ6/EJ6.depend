@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556885486 source:d:\gavilondo_40666672\teoria\ej6\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+

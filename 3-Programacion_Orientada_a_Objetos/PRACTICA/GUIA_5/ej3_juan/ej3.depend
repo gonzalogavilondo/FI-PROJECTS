@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1634907187 source:d:\users\juan\desktop\claaa\ej3\main.cpp
+	<iostream>
+	<fstream>
+	"Banco.h"
+	"Menu.h"
+
+1634707885 source:d:\users\juan\desktop\claaa\ej3\src\banco.cpp
+	"Banco.h"
+
+1634707393 d:\users\juan\desktop\claaa\ej3\include\banco.h
+	<vector>
+	"CuentaBancaria.h"
+	"CajaDeAhorro.h"
+	"CuentaCorriente.h"
+	"CuentaUniversitaria.h"
+	"Cliente.h"
+	"bLinkCliente.h"
+	"bLinkCuenta.h"
+
+1634700816 source:d:\users\juan\desktop\claaa\ej3\src\cuentabancaria.cpp
+	"CuentaBancaria.h"
+	<random>
+
+1634665427 d:\users\juan\desktop\claaa\ej3\include\cuentabancaria.h
+	<iostream>
+	<string>
+
+1634700790 source:d:\users\juan\desktop\claaa\ej3\src\cajadeahorro.cpp
+	"CajaDeAhorro.h"
+
+1634665221 d:\users\juan\desktop\claaa\ej3\include\cajadeahorro.h
+	"CuentaBancaria.h"
+
+1634700800 source:d:\users\juan\desktop\claaa\ej3\src\cuentacorriente.cpp
+	"CuentaCorriente.h"
+
+1634665214 d:\users\juan\desktop\claaa\ej3\include\cuentacorriente.h
+	"CuentaBancaria.h"
+	<cmath>
+
+1634700792 source:d:\users\juan\desktop\claaa\ej3\src\cuentauniversitaria.cpp
+	"CuentaUniversitaria.h"
+
+1634665224 d:\users\juan\desktop\claaa\ej3\include\cuentauniversitaria.h
+	"CuentaBancaria.h"
+
+1634706969 d:\users\juan\desktop\claaa\ej3\include\cliente.h
+	<vector>
+	"Fecha.h"
+	"Persona.h"
+
+1634265359 d:\users\juan\desktop\claaa\ej3\include\fecha.h
+	<iostream>
+
+1634707083 source:d:\users\juan\desktop\claaa\ej3\src\cliente.cpp
+	"Cliente.h"
+
+1634350473 source:d:\users\juan\desktop\claaa\ej3\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string>
+	<string.h>
+
+1634706937 source:d:\users\juan\desktop\claaa\ej3\src\persona.cpp
+	"Persona.h"
+
+1634706918 d:\users\juan\desktop\claaa\ej3\include\persona.h
+	"Fecha.h"
+
+1634706546 d:\users\juan\desktop\claaa\ej3\menu.h
+	<iostream>
+	<fstream>
+	"Banco.h"
+
+1634707441 source:d:\users\juan\desktop\claaa\ej3\menu.cpp
+	"Menu.h"
+	"conio.h"
+
+1634908025 d:\users\juan\desktop\claaa\ej3\include\blinkcliente.h
+	"Cliente.h"
+	"CuentaBancaria.h"
+
+1634702431 d:\users\juan\desktop\claaa\ej3\include\blinkcuenta.h
+	"Cliente.h"
+	"CuentaBancaria.h"
+
+1634907968 source:d:\users\juan\desktop\claaa\ej3\src\blinkcliente.cpp
+	"bLinkCliente.h"
+
+1634702464 source:d:\users\juan\desktop\claaa\ej3\src\blinkcuenta.cpp
+	"bLinkCuenta.h"
+
+1634707441 source:c:\users\gonzalo\desktop\ej3\menu.cpp
+	"Menu.h"
+	"conio.h"
+
+1634706546 c:\users\gonzalo\desktop\ej3\menu.h
+	<iostream>
+	<fstream>
+	"Banco.h"
+
+1636245220 c:\users\gonzalo\desktop\ej3\include\banco.h
+	<fstream>
+	<stdexcept>
+	<vector>
+	"CuentaBancaria.h"
+	"CajaDeAhorro.h"
+	"CuentaCorriente.h"
+	"CuentaUniversitaria.h"
+	"Cliente.h"
+	"bLinkCliente.h"
+	"bLinkCuenta.h"
+
+1634665427 c:\users\gonzalo\desktop\ej3\include\cuentabancaria.h
+	<iostream>
+	<string>
+
+1634665221 c:\users\gonzalo\desktop\ej3\include\cajadeahorro.h
+	"CuentaBancaria.h"
+
+1634665214 c:\users\gonzalo\desktop\ej3\include\cuentacorriente.h
+	"CuentaBancaria.h"
+	<cmath>
+
+1634665224 c:\users\gonzalo\desktop\ej3\include\cuentauniversitaria.h
+	"CuentaBancaria.h"
+
+1634706969 c:\users\gonzalo\desktop\ej3\include\cliente.h
+	<vector>
+	"Fecha.h"
+	"Persona.h"
+
+1634265359 c:\users\gonzalo\desktop\ej3\include\fecha.h
+	<iostream>
+
+1634706918 c:\users\gonzalo\desktop\ej3\include\persona.h
+	"Fecha.h"
+
+1634908025 c:\users\gonzalo\desktop\ej3\include\blinkcliente.h
+	"Cliente.h"
+	"CuentaBancaria.h"
+
+1636246777 c:\users\gonzalo\desktop\ej3\include\blinkcuenta.h
+	"Cliente.h"
+	"CuentaBancaria.h"
+
+1634908025 source:c:\users\gonzalo\desktop\ej3\src\blinkcliente.cpp
+	"bLinkCliente.h"
+
+1634702464 source:c:\users\gonzalo\desktop\ej3\src\blinkcuenta.cpp
+	"bLinkCuenta.h"
+
+1634700790 source:c:\users\gonzalo\desktop\ej3\src\cajadeahorro.cpp
+	"CajaDeAhorro.h"
+
+1634707083 source:c:\users\gonzalo\desktop\ej3\src\cliente.cpp
+	"Cliente.h"
+
+1634700816 source:c:\users\gonzalo\desktop\ej3\src\cuentabancaria.cpp
+	"CuentaBancaria.h"
+	<random>
+
+1634700800 source:c:\users\gonzalo\desktop\ej3\src\cuentacorriente.cpp
+	"CuentaCorriente.h"
+
+1634700792 source:c:\users\gonzalo\desktop\ej3\src\cuentauniversitaria.cpp
+	"CuentaUniversitaria.h"
+
+1634350473 source:c:\users\gonzalo\desktop\ej3\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string>
+	<string.h>
+
+1636244144 source:c:\users\gonzalo\desktop\ej3\src\persona.cpp
+	"Persona.h"
+
+1636245324 source:c:\users\gonzalo\desktop\ej3\main.cpp
+	<iostream>
+	<fstream>
+	"Banco.h"
+	"Menu.h"
+
+1636246776 source:c:\users\gonzalo\desktop\ej3\src\banco.cpp
+	"Banco.h"
+
+1636245324 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\main.cpp
+	<iostream>
+	<fstream>
+	"Banco.h"
+	"Menu.h"
+
+1636245220 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\banco.h
+	<fstream>
+	<stdexcept>
+	<vector>
+	"CuentaBancaria.h"
+	"CajaDeAhorro.h"
+	"CuentaCorriente.h"
+	"CuentaUniversitaria.h"
+	"Cliente.h"
+	"bLinkCliente.h"
+	"bLinkCuenta.h"
+
+1634665427 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\cuentabancaria.h
+	<iostream>
+	<string>
+
+1634665221 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\cajadeahorro.h
+	"CuentaBancaria.h"
+
+1634665214 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\cuentacorriente.h
+	"CuentaBancaria.h"
+	<cmath>
+
+1634665224 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\cuentauniversitaria.h
+	"CuentaBancaria.h"
+
+1634706969 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\cliente.h
+	<vector>
+	"Fecha.h"
+	"Persona.h"
+
+1634265359 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\fecha.h
+	<iostream>
+
+1634706918 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\persona.h
+	"Fecha.h"
+
+1634908025 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\blinkcliente.h
+	"Cliente.h"
+	"CuentaBancaria.h"
+
+1636246777 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\include\blinkcuenta.h
+	"Cliente.h"
+	"CuentaBancaria.h"
+
+1634706546 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\menu.h
+	<iostream>
+	<fstream>
+	"Banco.h"
+
+1634707441 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\menu.cpp
+	"Menu.h"
+	"conio.h"
+
+1634908025 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\blinkcliente.cpp
+	"bLinkCliente.h"
+
+1634702464 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\blinkcuenta.cpp
+	"bLinkCuenta.h"
+
+1634700790 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\cajadeahorro.cpp
+	"CajaDeAhorro.h"
+
+1634707083 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\cliente.cpp
+	"Cliente.h"
+
+1634700816 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\cuentabancaria.cpp
+	"CuentaBancaria.h"
+	<random>
+
+1634700800 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\cuentacorriente.cpp
+	"CuentaCorriente.h"
+
+1634700792 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\cuentauniversitaria.cpp
+	"CuentaUniversitaria.h"
+
+1634350473 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string>
+	<string.h>
+
+1636244144 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\persona.cpp
+	"Persona.h"
+
+1636247015 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\ej3_juan\src\banco.cpp
+	"Banco.h"
+

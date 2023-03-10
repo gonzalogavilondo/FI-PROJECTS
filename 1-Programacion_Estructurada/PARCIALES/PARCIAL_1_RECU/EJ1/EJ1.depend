@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1525536615 source:d:\carlitos\ej1\main.c
+	"header_ops.h"
+
+1525526883 d:\carlitos\ej1\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1525535765 source:d:\carlitos\ej1\source_ops.c
+	"header_ops.h"
+
+1525536615 source:f:\programacion_estructurada\parciales\parcial_1_recu\ej1\main.c
+	"header_ops.h"
+
+1525526883 f:\programacion_estructurada\parciales\parcial_1_recu\ej1\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1525535765 source:f:\programacion_estructurada\parciales\parcial_1_recu\ej1\source_ops.c
+	"header_ops.h"
+
+1525536615 source:c:\users\yo\desktop\ej1\main.c
+	"header_ops.h"
+
+1525526883 c:\users\yo\desktop\ej1\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1526643818 source:c:\users\yo\desktop\ej1\source_ops.c
+	"header_ops.h"
+
+1525536616 source:d:\facultad\programacion_estructurada\parciales\parcial_1_recu\ej1\main.c
+	"header_ops.h"
+
+1525526884 d:\facultad\programacion_estructurada\parciales\parcial_1_recu\ej1\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1526643820 source:d:\facultad\programacion_estructurada\parciales\parcial_1_recu\ej1\source_ops.c
+	"header_ops.h"
+
+1525536616 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1_recu\ej1\main.c
+	"header_ops.h"
+
+1525526884 c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1_recu\ej1\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1526643820 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1_recu\ej1\source_ops.c
+	"header_ops.h"
+

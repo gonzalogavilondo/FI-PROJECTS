@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1618168137 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_integrador\ejercicio_integrador\funciones.c
+	"declaraciones.h"
+
+1617678311 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_integrador\ejercicio_integrador\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1618167953 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_integrador\ejercicio_integrador\main.c
+	"declaraciones.h"
+
+1618168154 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_integrador\main.c
+	"declaraciones.h"
+
+1620419916 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_integrador\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620349714 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_integrador\funciones.c
+	"declaraciones.h"
+

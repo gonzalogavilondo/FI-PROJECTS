@@ -1,0 +1,54 @@
+Formato %2s (minimo 2 caracteres, no trunca):
+Mi mensaje/
+
+Formato %15s (alineado a derecha, minimo 15 caracteres, completa con ' '):
+     Mi mensaje/
+
+Formato %-15s (alineado a izquierda, minimo 15 caracteres, completa con ' '):
+Mi mensaje     /
+
+Formato %15.5s (alineado a derecha, ancho 15 caracteres, imprime solo 5):
+          Mi me/
+
+Formato %-15.8s (alineado a izquierda, ancho 15 caracteres, imprime solo 8):
+Mi mensa       /
+
+Formato %s, %.4s (imprime completo y luego solo 4 caracteres)
+Mi mensaje, Mi m/
+
+
+
+Formato %7.5d (alineado a derecha, imprime 5 caracteres y completa con ' ' hasta 7)
+  00059/
+
+Formato %07d (alineado a derecha, completa con '0' hasta 7 caracteres)
+0000059/
+
+Formato %-7d (alineado a izquierda, completa con ' ' hasta 7 caracteres)
+59     /
+
+Formato %+5d, %+5d (imprime siempre el signo (+/-), con 5 caracteres
+  +59,   -59/
+
+Formato % 5d, % 5d (imprime blank o signo (' '/-), con 5 caracteres)
+   59,   -59/
+
+Formato %#5o, %#5x (numero en octal (0ddd) y hexadecimal (0xddd) (5 caracteres)
+  073, 0x03b/
+
+
+
+Formato %2.5f (imprime AL MENOS 2 caracteres con 5 digitos decimales)
+378.12344/
+
+Formato %10.3f (imprime 10 caracteres con 3 digitos decimales)
+   378.123/
+
+Formato %-10.3f (10 caracteres, 3 decimales, alineado izquierda)
+378.123   /
+
+Formato %+8.1f, %+8.1E (1 decimal sin y con notacion exponencial)
+  +378.1, -3.8E+002/
+
+Formato %g, %G, %g, %.2G, 1.23e-5, 1.23e-3, 1.23e3, 1.23e3 (si exp es <(-4) o >[.prec] usa %e; sino %f
+1.23e-005, 0.00123, 1230, 1.2E+003

@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1357012785 source:c:\users\gonza\desktop\ej6\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357013090 c:\users\gonza\desktop\ej6\declaraciones_pasajes.h
+
+1357013115 c:\users\gonza\desktop\ej6\declaraciones_menu.h
+
+1357013090 source:c:\users\gonza\desktop\ej6\pasajes.c
+	"declaraciones_menu.h"
+	"declaraciones_pasajes.h"
+	<stdio.h>
+
+1357013234 source:c:\users\gonza\desktop\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+	"declaraciones_pasajes.h"
+
+1357013309 source:c:\users\gonza\desktop\ej6\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_pasajes.h"
+
+1357011346 source:d:\facultad\programacion_estructurada\guias\guia_3\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+	"declaraciones_pasajes.h"
+
+1357013115 d:\facultad\programacion_estructurada\guias\guia_3\ej6\declaraciones_menu.h
+
+1357013090 d:\facultad\programacion_estructurada\guias\guia_3\ej6\declaraciones_pasajes.h
+
+1357011346 source:d:\facultad\programacion_estructurada\guias\guia_3\ej6\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011353 source:d:\facultad\programacion_estructurada\guias\guia_3\ej6\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_pasajes.h"
+
+1357013090 source:d:\facultad\programacion_estructurada\guias\guia_3\ej6\pasajes.c
+	"declaraciones_menu.h"
+	"declaraciones_pasajes.h"
+	<stdio.h>
+
+1357011353 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej6\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_pasajes.h"
+
+1357013115 c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej6\declaraciones_menu.h
+
+1357013090 c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej6\declaraciones_pasajes.h
+
+1357013090 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej6\pasajes.c
+	"declaraciones_menu.h"
+	"declaraciones_pasajes.h"
+	<stdio.h>
+
+1556659579 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+	"declaraciones_pasajes.h"
+
+1556659579 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej6\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

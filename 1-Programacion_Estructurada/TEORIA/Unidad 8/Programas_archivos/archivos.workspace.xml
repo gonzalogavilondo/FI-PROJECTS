@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Ej1_open/Ej1_open.cbp" />
+		<Project filename="Ej2_put_get/Ej2_put_get.cbp" />
+		<Project filename="Ej3_print/Ej3_print.cbp" />
+		<Project filename="Ej4_scanf/Ej4_scanf.cbp" />
+		<Project filename="Ej5_control/Ej5_control.cbp" />
+		<Project filename="Ej6_write_read/Ej6_write_read.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

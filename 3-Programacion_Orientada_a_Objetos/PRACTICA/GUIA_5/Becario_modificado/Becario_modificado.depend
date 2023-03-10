@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1633639165 source:c:\users\gonza\desktop\becario_modificado\empleado.cpp
+	"empleado.h"
+
+1633639146 c:\users\gonza\desktop\becario_modificado\empleado.h
+	"persona.h"
+
+1633639146 c:\users\gonza\desktop\becario_modificado\persona.h
+	<iostream>
+
+1633639217 source:c:\users\gonza\desktop\becario_modificado\estudiante.cpp
+	"estudiante.h"
+
+1633639146 c:\users\gonza\desktop\becario_modificado\estudiante.h
+	"persona.h"
+
+1633104066 source:c:\users\gonza\desktop\becario_modificado\main.cpp
+	"estudiante.h"
+	"empleado.h"
+	"becario.h"
+	"fstream"
+
+1633639146 c:\users\gonza\desktop\becario_modificado\becario.h
+	"empleado.h"
+	"estudiante.h"
+
+1633638435 source:c:\users\gonza\desktop\becario_modificado\persona.cpp
+	"persona.h"
+	<ctime>
+
+1633640489 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\becario.cpp
+	"becario.h"
+
+1633639845 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\becario.h
+	"empleado.h"
+	"estudiante.h"
+
+1633639832 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\empleado.h
+	"persona.h"
+
+1633640597 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\persona.h
+	<iostream>
+
+1633639822 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\estudiante.h
+	"persona.h"
+
+1633639860 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\empleado.cpp
+	"empleado.h"
+
+1633639896 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\estudiante.cpp
+	"estudiante.h"
+
+1633104066 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\main.cpp
+	"estudiante.h"
+	"empleado.h"
+	"becario.h"
+	"fstream"
+
+1633639910 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_5\becario_modificado\persona.cpp
+	"persona.h"
+	<ctime>
+

@@ -1,0 +1,112 @@
+Proceso Operaciones_numeros_reales
+	Definir n1,n2 Como Real;
+	Definir opcion,opcion2 Como Entero;
+	n1 <- 0.0;
+	n2 <- 0.0;
+	opcion <- 0;
+	opcion2 <- 0;
+	Repetir
+		Borrar Pantalla;
+		opcion <- menu();
+		Escribir 'Has elegido la opcion ',opcion,' del menu';
+		Escribir 'Presione una tecla para continuar...';
+		Esperar Tecla;
+		Borrar Pantalla;
+		Si opcion<>5 Entonces
+			Escribir 'Ingrese el valor del primer numero real: ';
+			Leer n1;
+			Escribir 'Ingrese el valor del segundo numero real: ';
+			Leer n2;
+			opcion_proceso(opcion,n2,n2);
+			Escribir 'Presione una tecla para continuar...';
+			Esperar Tecla;
+			Borrar Pantalla;
+			opcion2 <- 0;
+		SiNo
+			opcion2 <- opcion_salida();
+			Escribir 'Presione una tecla para continuar...';
+			Esperar Tecla;
+		FinSi
+	Hasta Que opcion2=1
+FinProceso
+
+SubProceso opcion <- menu ()
+	Definir opcion Como Entero;
+	opcion <- 0;
+	Repetir
+		Escribir '||MENU DE OPERACIONES||';
+		Escribir '1)SUMA.';
+		Escribir '2)RESTA.';
+		Escribir '3)MULTIPLICACION.';
+		Escribir '4)DIVISION.';
+		Escribir '5)SALIR.';
+		Escribir 'Elija una opcion: ';
+		Leer opcion;
+		Si ((opcion<1) O (opcion>5)) Entonces
+			Escribir 'Opcion invalida.';
+		FinSi
+	Hasta Que ((opcion>0) Y (opcion<6))
+FinSubProceso
+
+SubProceso opcion_proceso (op,n1,n2)
+	Definir res Como Real;
+	res <- 0.0;
+	Segun op  Hacer
+		1:
+			res <- suma(n1,n2);
+			Escribir 'La suma entre ',n1,' y ',n2,' es: ',res;
+		2:
+			res <- resta(n1,n2);
+			Escribir 'La resta entre ',n1,' y ',n2,' es: ',res;
+		3:
+			res <- multiplicacion(n1,n2);
+			Escribir 'La multiplicacion entre ',n1,' y ',n2,' es: ',res;
+		4:
+			Si n2=0 Entonces
+				Escribir 'La division por 0 no esta definida.';
+			SiNo
+				res <- division(n1,n2);
+				Escribir 'La division entre ',n1,' y ',n2,' es: ',res;
+			FinSi
+	FinSegun
+FinSubProceso
+
+SubProceso si_no <- opcion_salida ()
+	Definir si_no Como Entero;
+	si_no <- 0;
+	Repetir
+		Borrar Pantalla;
+		Escribir '¿Seguro que desea salir? <Si = 1 / No = 0>: ';
+		Leer si_no;
+		Segun si_no  Hacer
+			0:
+				Escribir 'Has decidido volver al menu.';
+			1:
+				Escribir 'Has decidido salir del programa.';
+			De Otro Modo:
+				Escribir 'Opcion invalida.';
+				Escribir 'Presione una tecla para continuar...';
+				Esperar Tecla;
+		FinSegun
+	Hasta Que ((si_no=0) O (si_no=1))
+FinSubProceso
+
+SubProceso res <- suma(n1,n2)
+	Definir res Como Real;
+	res <- (n1+n2);
+FinSubProceso
+
+SubProceso res <- resta(n1,n2)
+	Definir res Como Real;
+	res <- (n1-n2);
+FinSubProceso
+
+SubProceso res <- multiplicacion(n1,n2)
+	Definir res Como Real;
+	res <- (n1*n2);
+FinSubProceso
+
+SubProceso res <- division(n1,n2)
+	Definir res Como Real;
+	res <- (n1/n2);
+FinSubProceso

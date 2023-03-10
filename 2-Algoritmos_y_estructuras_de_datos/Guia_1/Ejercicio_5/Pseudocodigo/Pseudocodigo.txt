@@ -1,0 +1,21 @@
+Algoritmo Cantidad_suma_numeros
+	Definir contador Como Entero
+	contador <- 0
+	Definir res Como Entero
+	res <- 0
+	Definir respuesta Como Caracter
+	Definir num Como Entero
+	// Lo vamos a hacer estatico con un maximo de 20 numeros
+	Dimension num[20]
+	Repetir
+		Escribir 'Ingrese un numero entero: '
+		Leer num[contador]
+		res <- res + num[contador]
+		contador <- contador+1
+		Escribir '¿Desea ingresar otro numero? <s/n>: '
+		Leer respuesta
+	Hasta Que respuesta='n'
+	Borrar Pantalla
+	Escribir 'La cantidad de numeros ingresados por el usuario es de: ',contador
+	Escribir 'El resultado de la suma de todos los numeros ingresados es de: ',res
+FinAlgoritmo

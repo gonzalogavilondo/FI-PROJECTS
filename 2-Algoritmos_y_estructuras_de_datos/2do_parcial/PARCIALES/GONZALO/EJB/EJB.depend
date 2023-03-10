@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1624839780 source:c:\users\gonza\desktop\parcial\ejb\antree.c
+	"Antree.h"
+
+1625170573 c:\users\gonza\desktop\parcial\ejb\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lists.h"
+
+1625171704 c:\users\gonza\desktop\parcial\ejb\lists.h
+
+1625171704 source:c:\users\gonza\desktop\parcial\ejb\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625171784 source:c:\users\gonza\desktop\parcial\ejb\ejercicio.c
+	"Antree.h"
+
+1625171931 source:c:\users\gonza\desktop\parcial\ejb\main.c
+	"Antree.h"
+
+1625163574 c:\users\gonza\desktop\parcial\ejb\ejercicio.h
+
+1625320964 source:c:\users\gonza\desktop\2do_parcial\ejb\antree.c
+	"Antree.h"
+
+1625321269 c:\users\gonza\desktop\2do_parcial\ejb\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lists.h"
+
+1625268627 c:\users\gonza\desktop\2do_parcial\ejb\lists.h
+	<stdbool.h>
+
+1625321197 source:c:\users\gonza\desktop\2do_parcial\ejb\ejercicio.c
+	"Antree.h"
+
+1625268627 source:c:\users\gonza\desktop\2do_parcial\ejb\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625319853 source:c:\users\gonza\desktop\2do_parcial\ejb\main.c
+	"Antree.h"
+
+1625320964 source:c:\users\gonza\desktop\parciales\gonzalo\ejb\antree.c
+	"Antree.h"
+
+1625321269 c:\users\gonza\desktop\parciales\gonzalo\ejb\antree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lists.h"
+
+1625268627 c:\users\gonza\desktop\parciales\gonzalo\ejb\lists.h
+	<stdbool.h>
+
+1625321197 source:c:\users\gonza\desktop\parciales\gonzalo\ejb\ejercicio.c
+	"Antree.h"
+
+1625426334 source:c:\users\gonza\desktop\parciales\gonzalo\ejb\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Lists.h"
+
+1625322029 source:c:\users\gonza\desktop\parciales\gonzalo\ejb\main.c
+	"Antree.h"
+

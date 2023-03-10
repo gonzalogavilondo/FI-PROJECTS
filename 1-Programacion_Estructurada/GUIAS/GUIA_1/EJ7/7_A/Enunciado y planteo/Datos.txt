@@ -1,0 +1,7 @@
+a) Calcule el área de un triángulo rectángulo conociendo la base y
+sabiendo que su altura es igual al cuadrado de la base
+
+Entrada: Base = b (Se lo pido al usuario)
+         Altura = b^2
+
+Salida: Area triangulo = B*H/2 = (b*b^2)/2 = (b^3)/2 = (Base*Altura)/2

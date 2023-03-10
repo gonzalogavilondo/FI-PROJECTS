@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1622579801 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\btree\abtree_test.c
+	"declaraciones.h"
+
+1622569218 c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\btree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1622570219 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\btree\main.c
+	"declaraciones.h"
+
+1622917577 source:c:\users\gonza\desktop\facultad\3_anio\ayed\2do parcial\librerias\arboles_binarios\btree\abtree.c
+	"declaraciones.h"
+
+1622917577 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\btree\abtree.c
+	"declaraciones.h"
+
+1622569218 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\btree\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1622579801 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\btree\abtree_test.c
+	"declaraciones.h"
+
+1622570219 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\librerias\btree\main.c
+	"declaraciones.h"
+

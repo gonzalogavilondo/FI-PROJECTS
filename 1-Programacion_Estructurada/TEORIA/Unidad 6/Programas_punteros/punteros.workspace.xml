@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Ej1_punteros/Ej1_punteros.cbp" />
+		<Project filename="Ej2_errores/Ej2_errores.cbp" />
+		<Project filename="Ej3_memoria/Ej3_memoria.cbp" />
+		<Project filename="Ej4_vector/Ej4_vector.cbp" />
+		<Project filename="Ej5_funciones/Ej5_funciones.cbp" />
+		<Project filename="Ej6_velocidad/Ej6_velocidad.cbp" />
+		<Project filename="Ej7_conversiones/Ej7_conversiones.cbp" />
+		<Project filename="Ej8_ptr2est/Ej8_ptr2est.cbp" />
+		<Project filename="Ej9_ptr2estArray/Ej9_ptr2estArray.cbp" />
+		<Project filename="Ej10_ptr2ptr/Ej10_ptr2ptr.cbp" />
+		<Project filename="Ej11_main_par/Ej11_main_par.cbp" />
+		<Project filename="Ej12_ptr2func/Ej12_ptr2func.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

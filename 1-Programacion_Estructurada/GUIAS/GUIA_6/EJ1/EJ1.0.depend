@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1558098309 source:f:\facultad\programacion_estructurada\guias\guia_6\ej1.0\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1558098257 f:\facultad\programacion_estructurada\guias\guia_6\ej1.0\declaraciones_funciones.h
+
+1558098376 source:f:\facultad\programacion_estructurada\guias\guia_6\ej1.0\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+
+1558098376 f:\facultad\programacion_estructurada\guias\guia_6\ej1.0\declaraciones_funciones_reales.h
+
+1558098360 source:f:\facultad\programacion_estructurada\guias\guia_6\ej1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+	"declaraciones_funciones_reales.h"
+
+1558098652 source:f:\facultad\programacion_estructurada\guias\guia_6\ej1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1558098257 f:\facultad\programacion_estructurada\guias\guia_6\ej1\declaraciones_funciones.h
+
+1558098776 source:f:\facultad\programacion_estructurada\guias\guia_6\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+	"declaraciones_funciones_reales.h"
+
+1558098376 f:\facultad\programacion_estructurada\guias\guia_6\ej1\declaraciones_funciones_reales.h
+
+1558098450 source:f:\facultad\programacion_estructurada\guias\guia_6\ej1\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+
+1558098914 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1558098257 c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej1\declaraciones_funciones.h
+
+1558098450 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej1\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+
+1558098376 c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej1\declaraciones_funciones_reales.h
+
+1558098776 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_6\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+	"declaraciones_funciones_reales.h"
+
+1558084514 source:f:\fi\1-programacion_estructurada\guias\guia_6\ej1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1558083856 f:\fi\1-programacion_estructurada\guias\guia_6\ej1\declaraciones_funciones.h
+
+1558084050 source:f:\fi\1-programacion_estructurada\guias\guia_6\ej1\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+
+1558083976 f:\fi\1-programacion_estructurada\guias\guia_6\ej1\declaraciones_funciones_reales.h
+
+1558084376 source:f:\fi\1-programacion_estructurada\guias\guia_6\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+	"declaraciones_funciones_reales.h"
+

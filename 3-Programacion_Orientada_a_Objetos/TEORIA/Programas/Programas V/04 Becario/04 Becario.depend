@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1633639322 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\becario.cpp
+	"becario.h"
+
+1474581590 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\becario.h
+	"empleado.h"
+	"estudiante.h"
+
+1633637679 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\empleado.h
+	"persona.h"
+
+1506956172 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\persona.h
+	<iostream>
+
+1474581748 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\estudiante.h
+	"persona.h"
+
+1633637696 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\empleado.cpp
+	"empleado.h"
+
+1474581748 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\estudiante.cpp
+	"estudiante.h"
+
+1474582140 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\main.cpp
+	"estudiante.h"
+	"empleado.h"
+	"becario.h"
+
+1633638747 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas v\04 becario\persona.cpp
+	"persona.h"
+	<ctime>
+

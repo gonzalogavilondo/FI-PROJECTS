@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1635515746 source:c:\users\gonza\desktop\ej2\main.cpp
+	"Vector.h"
+
+1635515772 c:\users\gonza\desktop\ej2\vector.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Vector.h_c.txt"
+
+1635515762 c:\users\gonza\desktop\ej2\vector.h_c.txt
+
+1635795693 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\ej2\main.cpp
+	"Vector.h"
+
+1635800204 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\ej2\vector.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Vector.h_c.txt"
+
+1635800190 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\ej2\vector.h_c.txt
+
+1635795693 source:c:\users\gonzalo\desktop\ej2\main.cpp
+	"Vector.h"
+
+1635795759 c:\users\gonzalo\desktop\ej2\vector.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Vector.h_c.txt"
+
+1635795754 c:\users\gonzalo\desktop\ej2\vector.h_c.txt
+
+1635795693 source:f:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\ej2\main.cpp
+	"Vector.h"
+
+1635800204 f:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\ej2\vector.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Vector.h_c.txt"
+
+1635800190 f:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\ej2\vector.h_c.txt
+

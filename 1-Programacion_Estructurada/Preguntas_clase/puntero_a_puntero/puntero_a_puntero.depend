@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557495550 source:f:\facultad\programacion_estructurada\preguntas_clase\puntero_a_puntero\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+

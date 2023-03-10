@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Funciones">
+		<Project filename="Ej1_printf/Ej1_printf.cbp" />
+		<Project filename="Ej2_scanf1/Ej2_scanf1.cbp" />
+		<Project filename="Ej3_scanf2_string/Ej3_scanf2_string.cbp" />
+		<Project filename="Ej4_parametros/Ej4_parametros.cbp" />
+		<Project filename="Ej5_global/Ej5_global.cbp" />
+		<Project filename="Ej6_extern/Ej6_extern.cbp" />
+		<Project filename="Ej7_static/Ej7_static.cbp" />
+		<Project filename="Ej8_static_func/Ej8_static_func.cbp" />
+		<Project filename="Ej9_factorial/Ej9_factorial.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

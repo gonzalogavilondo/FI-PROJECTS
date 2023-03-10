@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1527805830 source:c:\users\gonza\desktop\facusida\programacion estructurada\cosas sueltas\completar_matriz_con_vectores\main.c
+	<header.h>
+
+1527805674 c:\users\gonza\desktop\facusida\programacion estructurada\cosas sueltas\completar_matriz_con_vectores\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1527806153 source:c:\users\gonza\desktop\facusida\programacion estructurada\cosas sueltas\completar_matriz_con_vectores\source.c
+	<header.h>
+
+1527805832 source:d:\facultad\programacion_estructurada\funciones\completar_matriz_con_vectores\main.c
+	<header.h>
+
+1527805676 d:\facultad\programacion_estructurada\funciones\completar_matriz_con_vectores\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553208320 source:d:\facultad\programacion_estructurada\funciones\completar_matriz_con_vectores\source.c
+	<header.h>
+
+1527805832 source:c:\users\gonza\desktop\programacion_estructurada\funciones\completar_matriz_con_vectores\main.c
+	<header.h>
+
+1527805676 c:\users\gonza\desktop\programacion_estructurada\funciones\completar_matriz_con_vectores\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553208320 source:c:\users\gonza\desktop\programacion_estructurada\funciones\completar_matriz_con_vectores\source.c
+	<header.h>
+

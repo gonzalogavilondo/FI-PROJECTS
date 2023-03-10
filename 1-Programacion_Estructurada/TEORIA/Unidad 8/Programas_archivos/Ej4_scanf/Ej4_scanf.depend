@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1465394947 source:c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej4_scanf\files.c
+	"declara.h"
+
+1433678042 c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej4_scanf\declara.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1465395050 source:c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej4_scanf\main.c
+	"declara.h"
+
+1433780606 source:d:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej4_scanf\files.c
+	"declara.h"
+
+1433678042 d:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej4_scanf\declara.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1433847728 source:d:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej4_scanf\main.c
+	"declara.h"
+

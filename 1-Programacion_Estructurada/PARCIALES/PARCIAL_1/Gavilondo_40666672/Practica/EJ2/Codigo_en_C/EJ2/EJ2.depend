@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1556891404 source:d:\gavilondo_40666672\practica\ej2\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556890770 d:\gavilondo_40666672\practica\ej2\declaraciones_funciones.h
+
+1556891044 source:d:\gavilondo_40666672\practica\ej2\main.c
+	<stdio.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1556893943 source:d:\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556890770 d:\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\declaraciones_funciones.h
+
+1556894668 source:d:\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556893943 source:c:\users\gonza\desktop\programacion_estructurada\parciales\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556890770 c:\users\gonza\desktop\programacion_estructurada\parciales\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\declaraciones_funciones.h
+
+1556893943 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556890770 c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\declaraciones_funciones.h
+
+1556894668 source:c:\users\gonza\desktop\facultad\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556879542 source:g:\facultad\2_anio\1er_cuatrimestre\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1556876370 g:\facultad\2_anio\1er_cuatrimestre\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\declaraciones_funciones.h
+
+1556880268 source:g:\facultad\2_anio\1er_cuatrimestre\programacion_estructurada\parciales\parcial_1\gavilondo_40666672\practica\ej2\codigo_en_c\ej2\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+

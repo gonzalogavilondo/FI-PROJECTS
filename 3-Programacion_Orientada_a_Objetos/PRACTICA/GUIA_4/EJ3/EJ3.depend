@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1633033006 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\main.cpp
+	"MesaRedonda.h"
+
+1633032612 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\circulo.cpp
+	"Circulo.h"
+
+1633032612 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\circulo.h
+	"math.h"
+
+1633032299 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\mesa.cpp
+	"Mesa.h"
+
+1633031339 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\mesa.h
+
+1633032906 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\src\mesaredonda.cpp
+	"MesaRedonda.h"
+
+1633032802 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej3\include\mesaredonda.h
+	<iostream>
+	"Circulo.h"
+	"Mesa.h"
+
+1633035122 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\main.cpp
+	"MesaRedonda.h"
+
+1633039594 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\include\mesaredonda.h
+	"Circulo.h"
+	"Mesa.h"
+
+1633039594 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\include\circulo.h
+	<iostream>
+	"math.h"
+
+1633039594 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\include\mesa.h
+	<iostream>
+
+1633039659 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\src\circulo.cpp
+	"Circulo.h"
+
+1633039699 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\src\mesa.cpp
+	"Mesa.h"
+
+1633039699 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej3\src\mesaredonda.cpp
+	"MesaRedonda.h"
+

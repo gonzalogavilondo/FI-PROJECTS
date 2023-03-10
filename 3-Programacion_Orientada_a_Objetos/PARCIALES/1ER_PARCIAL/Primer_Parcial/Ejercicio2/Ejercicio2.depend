@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1633103225 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\cradio.cpp
+	"cRadio.h"
+
+1633103225 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\cradio.h
+
+1633102923 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\ctime.cpp
+	"cTime.h"
+
+1633102847 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\ctime.h
+	<iostream>
+	<iomanip>
+
+1633103225 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\main.cpp
+	"declaraciones.h"
+
+1633101557 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\declaraciones.h
+	<iostream>
+	"cRadioReloj.h"
+
+1633102279 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\cradioreloj.h
+	"cRadio.h"
+	"cReloj.h"
+
+1633102201 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\creloj.h
+	"cTime.h"
+	<cstring>
+	<cstdlib>
+
+1633102308 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\cradioreloj.cpp
+	"cRadioReloj.h"
+
+1633102554 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio2\creloj.cpp
+	"cReloj.h"
+

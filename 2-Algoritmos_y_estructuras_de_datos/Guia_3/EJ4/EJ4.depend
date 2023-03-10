@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617992642 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej4\main.c
+	"declaraciones.h"
+
+1617992584 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej4\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617992584 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_3\ej4\funciones.c
+	"declaraciones.h"
+

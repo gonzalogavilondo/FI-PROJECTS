@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620349490 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_8\ej8\funciones.c
+	"declaraciones.h"
+
+1620349490 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_8\ej8\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617458277 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_8\ej8\main.c
+	"declaraciones.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524674836 source:c:\users\yo\desktop\fsfsdfsdfs\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+
+1524767873 source:c:\users\juansito\desktop\cosas codeblocks\cosa suelta\entero_a_bytes\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+
+1357019870 source:c:\users\gonza\desktop\programacion_estructurada\funciones\entero_a_bytes\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+
+1357019870 source:d:\facultad\programacion_estructurada\funciones\entero_a_bytes\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+

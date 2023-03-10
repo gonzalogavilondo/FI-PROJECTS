@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1554413122 source:c:\users\gonza\desktop\recorrer_imprimir_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554413074 c:\users\gonza\desktop\recorrer_imprimir_vector\declaraciones_vector.h
+
+1554413122 source:c:\users\gonza\desktop\recorrer_imprimir_vector\recorrer_imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554414731 source:c:\users\gonza\desktop\programacion_estructurada\funciones\recorrer_imprimir_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554414744 c:\users\gonza\desktop\programacion_estructurada\funciones\recorrer_imprimir_vector\declaraciones_vector.h
+
+1554414759 source:c:\users\gonza\desktop\programacion_estructurada\funciones\recorrer_imprimir_vector\recorrer_imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554414905 source:f:\programacion_estructurada\funciones\recorrer_imprimir_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554414744 f:\programacion_estructurada\funciones\recorrer_imprimir_vector\declaraciones_vector.h
+
+1554414759 source:f:\programacion_estructurada\funciones\recorrer_imprimir_vector\recorrer_imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554414905 source:c:\users\gonza\desktop\facultad\programacion_estructurada\funciones\recorrer_imprimir_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+
+1554414744 c:\users\gonza\desktop\facultad\programacion_estructurada\funciones\recorrer_imprimir_vector\declaraciones_vector.h
+
+1554414759 source:c:\users\gonza\desktop\facultad\programacion_estructurada\funciones\recorrer_imprimir_vector\recorrer_imprimir.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_vector.h"
+

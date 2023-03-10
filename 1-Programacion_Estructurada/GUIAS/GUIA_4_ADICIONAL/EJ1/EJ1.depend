@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1357012675 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej\funciones.c
+	<stdio.h>
+	"declaraciones_funciones_reales.h"
+
+1357012562 d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej\declaraciones_funciones_reales.h
+
+1357012396 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357012423 d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej\declaraciones_menu.h
+
+1357011972 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012444 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012675 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej1\funciones.c
+	<stdio.h>
+	"declaraciones_funciones_reales.h"
+
+1357012562 d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej1\declaraciones_funciones_reales.h
+
+1357011972 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej1\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012423 d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej1\declaraciones_menu.h
+
+1357012444 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej1\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012787 source:d:\facultad\programacion_estructurada\guias\guia_4_adicional\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357012787 source:f:\programacion_estructurada\guias\guia_4_adicional\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357012423 f:\programacion_estructurada\guias\guia_4_adicional\ej1\declaraciones_menu.h
+
+1357011972 source:f:\programacion_estructurada\guias\guia_4_adicional\ej1\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012562 f:\programacion_estructurada\guias\guia_4_adicional\ej1\declaraciones_funciones_reales.h
+
+1357012444 source:f:\programacion_estructurada\guias\guia_4_adicional\ej1\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012947 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4_adicional\ej1\funciones.c
+	<stdio.h>
+	"declaraciones_funciones_reales.h"
+
+1357012562 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4_adicional\ej1\declaraciones_funciones_reales.h
+
+1556661625 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4_adicional\ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357012423 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4_adicional\ej1\declaraciones_menu.h
+
+1556661693 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4_adicional\ej1\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357012444 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4_adicional\ej1\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

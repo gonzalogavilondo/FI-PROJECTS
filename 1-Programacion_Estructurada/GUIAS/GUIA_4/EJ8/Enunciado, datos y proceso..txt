@@ -1,0 +1,17 @@
+Ingresar para cada uno de los meses del año, las temperaturas máximas y mínimas
+de cada día (ordenadas por mes).
+a. para cada uno de los meses mostrar por pantalla, la máxima y la mínima,
+como así también el día en que se produjeron
+b. Mostrar por pantalla la temperatura máxima anual, el día y el mes en que se
+registró.
+
+Datos de entrada:
+
+Dias de cada mes, temperaturas maximas y minimas de cada dia de cada mes.
+
+Salida:
+
+a) Tmax y Tmin de cada mes en el dia que se produjo.
+b) Tmax en el año, dia y mes en el que se registro.
+
+

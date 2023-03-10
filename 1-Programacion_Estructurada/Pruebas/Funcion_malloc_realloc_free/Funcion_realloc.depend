@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557437193 source:g:\facultad\programacion_estructurada\pruebas\funcion_malloc_realloc_free\main.c
+	<stdio.h>
+	<stdlib.h>
+

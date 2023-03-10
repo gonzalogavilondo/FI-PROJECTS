@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1619269120 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_dinamicas\main.c
+	"declaraciones.h"
+
+1620313482 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_dinamicas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620305074 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_dinamicas\funciones.c
+	"declaraciones.h"
+

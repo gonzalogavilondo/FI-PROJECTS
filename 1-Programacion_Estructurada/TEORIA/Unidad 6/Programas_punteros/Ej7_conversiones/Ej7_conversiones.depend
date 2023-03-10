@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1432161038 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej7_conversiones\conversiones.c
+	"myInclude.h"
+
+1432071008 c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej7_conversiones\myinclude.h
+	<stdio.h>
+	<stdlib.h>
+
+1432296432 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej7_conversiones\main.c
+	"myInclude.h"
+	<ctype.h>
+

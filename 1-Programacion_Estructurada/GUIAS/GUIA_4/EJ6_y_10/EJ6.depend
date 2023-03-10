@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1357014822 source:c:\users\gonza\desktop\ej6\funciones.c
+	<math.h>
+	"declaraciones_funciones_reales.h"
+
+1357014705 c:\users\gonza\desktop\ej6\declaraciones_funciones_reales.h
+
+1357014857 source:c:\users\gonza\desktop\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357014705 c:\users\gonza\desktop\ej6\declaraciones_menu.h
+
+1357014704 source:c:\users\gonza\desktop\ej6\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357014822 source:c:\users\gonza\desktop\ej6\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011536 source:d:\facultad\programacion_estructurada\guias\guia_4\ej6\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357014705 d:\facultad\programacion_estructurada\guias\guia_4\ej6\declaraciones_funciones_reales.h
+
+1357014705 d:\facultad\programacion_estructurada\guias\guia_4\ej6\declaraciones_menu.h
+
+1357014822 source:d:\facultad\programacion_estructurada\guias\guia_4\ej6\funciones.c
+	<math.h>
+	"declaraciones_funciones_reales.h"
+
+1357011437 source:d:\facultad\programacion_estructurada\guias\guia_4\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357011437 source:d:\facultad\programacion_estructurada\guias\guia_4\ej6\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357014822 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6\funciones.c
+	<math.h>
+	"declaraciones_funciones_reales.h"
+
+1357014705 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6\declaraciones_funciones_reales.h
+
+1357011536 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357014705 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6\declaraciones_menu.h
+
+1556661134 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1556661134 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357014822 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6_y_10\funciones.c
+	<math.h>
+	"declaraciones_funciones_reales.h"
+
+1357014705 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6_y_10\declaraciones_funciones_reales.h
+
+1556661134 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6_y_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357014705 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6_y_10\declaraciones_menu.h
+
+1556661134 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6_y_10\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011536 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej6_y_10\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

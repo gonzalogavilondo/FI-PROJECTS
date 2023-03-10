@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464783973 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej8_ptr2est\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

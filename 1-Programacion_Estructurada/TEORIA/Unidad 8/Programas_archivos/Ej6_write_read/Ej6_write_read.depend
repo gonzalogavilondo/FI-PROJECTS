@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1433881959 source:d:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej6_write_read\main.c
+	"myInclude.h"
+
+1433881695 source:d:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej6_write_read\graba.c
+	"myInclude.h"
+
+1433882090 d:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej6_write_read\myinclude.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433883874 source:c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej6_write_read\graba.c
+	"myInclude.h"
+
+1433883792 c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej6_write_read\myinclude.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433947752 source:c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej6_write_read\main.c
+	"myInclude.h"
+
+1433883874 source:g:\facultad\programacion_estructurada\teoria\unidad 8\programas_archivos\ej6_write_read\graba.c
+	"myInclude.h"
+
+1433883792 g:\facultad\programacion_estructurada\teoria\unidad 8\programas_archivos\ej6_write_read\myinclude.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1433947752 source:g:\facultad\programacion_estructurada\teoria\unidad 8\programas_archivos\ej6_write_read\main.c
+	"myInclude.h"
+

@@ -1,0 +1,65 @@
+5
+Alfredo Moscuza
+moscuza.alfredo@hotmail.com
+24718923
+1158038682
+Buenos Aires
+Capital Federal
+Caracas 4092
+28/5/1982
+2052915727
+3/4/2001
+2
+622159165170183650327
+415713402622583292067
+tony levin
+tonylevin@cla.com
+22034
+1109230827
+Buenos Aires
+Capital Federal
+Federico Lacroze 2782
+12/8/1985
+2877498499
+12/8/2010
+0
+Juan Gutierrez
+juan.monaco.gutierrez@gmail.com
+40643718
+2236690005
+Buenos Aires
+Mar del Plata
+Rivadavia 3870
+25/8/1997
+4756203650
+13/11/2018
+3
+415713402622583292067
+363107627882924593772
+227274711316856463706
+Carla Sanchez
+carla.sanchez@gmail.com
+28262745
+2234759987
+Buenos Aires
+Mar del Plata
+Moreno 5298
+13/1/2000
+6448753516
+14/3/2020
+2
+288534313315806997883
+095939805814124815405
+Gonzalo Gavilondo
+gonzalogavilondo@gmail.com
+40666672
+2236830702
+Buenos Aires
+Mar del Plata
+Florencio Sanchez 2224
+23/10/1997
+7728337777
+15/8/2015
+1
+415713402622583292067
+

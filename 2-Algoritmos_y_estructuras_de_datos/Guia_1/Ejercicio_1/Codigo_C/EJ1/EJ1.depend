@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616458865 source:c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_1\codigo_c\ej1\funciones..c
+	"declaraciones.h"
+
+1616458865 c:\users\gonza\desktop\facultad\ayed\guia_1\ejercicio_1\codigo_c\ej1\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1552481332 source:d:\facultad\programacion_estructurada\guias\guia_3\ej5_mejorado\ej5\source.c
+	<header.h>
+
+1552427497 d:\facultad\programacion_estructurada\guias\guia_3\ej5_mejorado\ej5\\header.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1552482043 source:d:\facultad\programacion_estructurada\guias\guia_3\ej5_mejorado\ej5\main.c
+	<header.h>
+
+1552482043 source:d:\facultad\programacion_estructurada\guias\guia_3\ej5\ej5\main.c
+	<header.h>
+
+1552481332 source:d:\facultad\programacion_estructurada\guias\guia_3\ej5\ej5\source.c
+	<header.h>
+
+1552482043 source:d:\facultad\programacion_estructurada\guias\guia_3\ej5\codigo_en_c\ej5\main.c
+	<header.h>
+
+1552481332 source:d:\facultad\programacion_estructurada\guias\guia_3\ej5\codigo_en_c\ej5\source.c
+	<header.h>
+
+1552482043 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej5\codigo_en_c\ej5\main.c
+	<header.h>
+
+1552481332 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_3\ej5\codigo_en_c\ej5\source.c
+	<header.h>
+

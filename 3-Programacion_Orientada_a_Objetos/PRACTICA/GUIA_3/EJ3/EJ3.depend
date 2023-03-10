@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631206309 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej3\main.cpp
+	<iostream>
+	<cassert>
+	<string>
+

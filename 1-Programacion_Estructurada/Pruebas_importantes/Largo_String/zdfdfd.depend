@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525442470 source:f:\programación estructurada\cosa suelta\largo_string\main.c
+	<stdio.h>
+	<locale.h>
+	<conio.h>
+

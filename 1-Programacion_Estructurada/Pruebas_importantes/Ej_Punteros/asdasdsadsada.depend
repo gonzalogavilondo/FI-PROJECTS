@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525437586 source:c:\users\yo\documents\asdasdsadsada\main.c
+	<stdio.h>
+	<locale.h>
+
+1525445580 source:f:\programación estructurada\cosa suelta\ej punteros\main.c
+	<stdio.h>
+	<locale.h>
+

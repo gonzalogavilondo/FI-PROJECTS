@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1432129642 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej5_funciones\datos.c
+	"funciones.h"
+
+1432078500 c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej5_funciones\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1432129274 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej5_funciones\main.c
+	"funciones.h"
+
+1432160594 source:c:\users\roberto\documents\programacion estructurada\clases\6 punteros\programas\ej5_funciones\memstrcpy.c
+	"funciones.h"
+
+1495626694 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\teoria\unidad 6\programas_punteros\ej5_funciones\datos.c
+	"funciones.h"
+
+1432078500 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\teoria\unidad 6\programas_punteros\ej5_funciones\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1495572030 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\teoria\unidad 6\programas_punteros\ej5_funciones\main.c
+	"funciones.h"
+
+1495629358 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\teoria\unidad 6\programas_punteros\ej5_funciones\memstrcpy.c
+	"funciones.h"
+

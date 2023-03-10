@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1619269120 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_dinamicas\main.c
+	"declaraciones.h"
+
+1620313482 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_dinamicas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620305074 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\funciones_dinamicas\funciones.c
+	"declaraciones.h"
+
+1620333750 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_dinamicas\funciones_dinamicas\funciones.c
+	"declaraciones.h"
+
+1620333750 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_dinamicas\funciones_dinamicas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620334050 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\listas_dinamicas\funciones_dinamicas\main.c
+	"declaraciones.h"
+
+1620333750 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\listas_dinamicas\todas_juntas\funciones.c
+	"declaraciones.h"
+
+1620333750 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\listas_dinamicas\todas_juntas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620334050 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\listas_dinamicas\todas_juntas\main.c
+	"declaraciones.h"
+
+1625267007 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\libreria\listas_dinamicas\todas_juntas\funciones.c
+	"declaraciones.h"
+
+1625266950 c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\libreria\listas_dinamicas\todas_juntas\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1625267018 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\libreria\listas_dinamicas\todas_juntas\main.c
+	"declaraciones.h"
+

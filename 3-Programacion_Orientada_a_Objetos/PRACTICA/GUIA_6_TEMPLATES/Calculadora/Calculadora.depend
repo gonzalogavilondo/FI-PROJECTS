@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1635458430 source:c:\users\gonza\desktop\calculadora\main.cpp
+	"calculadora.h"
+	"complejos.h"
+
+1635477695 c:\users\gonza\desktop\calculadora\calculadora.h
+	"complejos.h"
+	<iostream>
+	<limits>
+	<iomanip>
+	<string>
+	"calculadora.h_c.txt"
+
+1635355992 c:\users\gonza\desktop\calculadora\templates.txt
+
+1635355992 c:\users\gonza\desktop\calculadora\calculadora.txt
+
+1635477679 c:\users\gonza\desktop\calculadora\calculadora.h_c.txt
+
+1631550903 c:\users\gonza\desktop\calculadora\complejos.h
+	<iostream>
+
+1635798142 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\calculadora\main.cpp
+	"calculadora.h"
+	"complejos.h"
+
+1635798315 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\calculadora\calculadora.h
+	"complejos.h"
+	<iostream>
+	<limits>
+	<iomanip>
+	<string>
+	"calculadora.h_c.txt"
+
+1631536502 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\calculadora\complejos.h
+	<iostream>
+
+1635798302 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_6_templates\calculadora\calculadora.h_c.txt
+

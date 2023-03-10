@@ -1,0 +1,7 @@
+#ifndef DECLARACIONES_FUNCIONES_H_INCLUDED
+#define DECLARACIONES_FUNCIONES_H_INCLUDED
+
+float calculo(float n1, float n2, float *);
+
+
+#endif // DECLARACIONES_FUNCIONES_H_INCLUDED

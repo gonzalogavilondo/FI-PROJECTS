@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631290923 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej6\main.cpp
+	"CCadena.h"
+
+1631543343 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej6\ccadena.cpp
+	"CCadena.h"
+
+1631543174 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej6\ccadena.h
+	<iostream>
+	<string.h>
+

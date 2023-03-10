@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Estruc_control">
+		<Project filename="Ej1_ifelse/Ej1_ifelse.cbp" />
+		<Project filename="Ej2_ifelse_if/Ej2_ifelse_if.cbp" />
+		<Project filename="Ej3_if_cascada/Ej3_if_cascada.cbp" />
+		<Project filename="Ej4_switch/Ej4_switch.cbp" />
+		<Project filename="Ej5_bucles/Ej5_bucles.cbp" />
+		<Project filename="Ej6_bucle_anidado/Ej6_bucle_anidado.cbp" />
+		<Project filename="Ej7_ifelse_switch/Ej7_ifelse_switch.cbp" />
+		<Project filename="Ej8_break/Ej8_break.cbp" />
+		<Project filename="Ej9_continue/Ej9_continue.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

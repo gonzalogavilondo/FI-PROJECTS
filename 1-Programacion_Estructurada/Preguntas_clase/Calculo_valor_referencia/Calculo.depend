@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553864399 source:c:\users\yo\desktop\calculo\main.c
+	<stdio.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1553864177 source:c:\users\yo\desktop\calculo\funciones.c
+	<stdio.h>
+
+1553864092 c:\users\yo\desktop\calculo\declaraciones_funciones.h
+
+1553873254 source:f:\programacion_estructurada\preguntas_clase\calculo_valor_referencia\funciones.c
+	<stdio.h>
+
+1553864399 source:f:\programacion_estructurada\preguntas_clase\calculo_valor_referencia\main.c
+	<stdio.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1553873254 f:\programacion_estructurada\preguntas_clase\calculo_valor_referencia\declaraciones_funciones.h
+

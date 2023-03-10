@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="EJ3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/EJ3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/EJ3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/CBanco.h" />
+		<Unit filename="include/CCliente.h" />
+		<Unit filename="include/CCuenta.h" />
+		<Unit filename="include/CCuentaAhorro.h" />
+		<Unit filename="include/CCuentaCorriente.h" />
+		<Unit filename="include/CFecha.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/CBanco.cpp" />
+		<Unit filename="src/CCliente.cpp" />
+		<Unit filename="src/CCuenta.cpp" />
+		<Unit filename="src/CCuentaAhorro.cpp" />
+		<Unit filename="src/CCuentaCorriente.cpp" />
+		<Unit filename="src/CFecha.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

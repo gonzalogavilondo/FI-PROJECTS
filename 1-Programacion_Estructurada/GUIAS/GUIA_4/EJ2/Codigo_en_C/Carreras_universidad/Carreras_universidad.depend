@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553211734 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej2.0\codificacion_en_c\carreras_universidad\main.c
+	<header.h>
+
+1553211724 c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej2.0\codificacion_en_c\carreras_universidad\\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553212079 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_4\ej2.0\codificacion_en_c\carreras_universidad\source.c
+	<header.h>
+

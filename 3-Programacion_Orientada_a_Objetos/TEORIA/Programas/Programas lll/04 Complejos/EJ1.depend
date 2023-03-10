@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1631125302 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\ej1\complejos.cpp
+	"complejos.h"
+
+1631027809 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\ej1\complejos.h
+	<iostream>
+
+1630937740 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\ej1\main.cpp
+	"complejos.h"
+
+1631137756 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej1\complejos.cpp
+	"complejos.h"
+
+1631207432 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej1\complejos.h
+	<iostream>
+	<math.h>
+
+1631133220 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_3\ej1\main.cpp
+	"complejos.h"
+
+1631137756 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas lll\04 complejos\complejos.cpp
+	"complejos.h"
+
+1631207432 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas lll\04 complejos\complejos.h
+	<iostream>
+	<math.h>
+
+1631133220 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\teoria\programas\programas lll\04 complejos\main.cpp
+	"complejos.h"
+

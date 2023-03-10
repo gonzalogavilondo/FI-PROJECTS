@@ -1,0 +1,34 @@
+Proceso carreras_universidad
+	Definir matricula,semestre,promedio Como Real;
+	Escribir 'Escriba la matricula';
+	Leer matricula;
+	Escribir 'Escriba el semestre en el que se inscribio: ';
+	Leer semestre;
+	Escribir 'Escriba su promedio: ';
+	Leer promedio;
+	Si ((semestre>6) Y (promedio>8.8)) Entonces
+		Escribir 'Aceptado.';
+		Escribir 'Puede estudiar ingenieria.';
+		Escribir 'La matricula del alumno es: ',matricula;
+	SiNo
+		Si ((semestre>=6) Y (promedio>8.5)) Entonces
+			Escribir 'Aceptado.';
+			Escribir 'Puede estudiar medicina';
+			Escribir 'La matricula del alumno es: ',matricula;
+		SiNo
+			Si ((semestre>5) Y (promedio>=8.3)) Entonces
+				Escribir 'Aceptado.';
+				Escribir 'Puede estudiar licenciatura';
+				Escribir 'La matricula del alumno es: ',matricula;
+			SiNo
+				Si ((semestre>=3) Y (promedio>=7.8)) Entonces
+					Escribir 'Aceptado.';
+					Escribir 'Puede estudiar tecnico';
+					Escribir 'La matricula del alumno es: ',matricula;
+				SiNo
+					Escribir "No puede inscribirse a ninguna carrera de esta universidad.";
+				FinSi
+			FinSi
+		FinSi
+	FinSi
+FinProceso

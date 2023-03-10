@@ -1,0 +1,7 @@
+b) Indique de un grupo de 30 personas cuántas
+ son mayores de 18 años.
+
+Entrada: 30 personas
+         Edad
+
+Salida: Cuantas son mayores a 18 años (iteracion + Condicional)

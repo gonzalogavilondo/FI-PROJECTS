@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1622487227 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej2\funciones.c
+	"declaraciones.h"
+
+1622487238 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej2\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622487271 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej2\main.c
+	"declaraciones.h"
+
+1621603629 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej2_3\funciones.c
+	"declaraciones.h"
+
+1621603302 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej2_3\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1621603302 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_5\ej2_3\main.c
+	"declaraciones.h"
+

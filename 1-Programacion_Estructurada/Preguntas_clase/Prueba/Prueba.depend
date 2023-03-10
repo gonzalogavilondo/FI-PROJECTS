@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556130603 source:g:\facultad\programacion_estructurada\preguntas_clase\prueba\main.c
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+

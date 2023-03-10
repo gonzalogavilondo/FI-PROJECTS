@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633092674 source:c:\users\gonza\desktop\gavilondo_40666672\ej1\main.cpp
+	"polinomio.h"
+
+1633094110 c:\users\gonza\desktop\gavilondo_40666672\ej1\polinomio.h
+	<iostream>
+	<vector>
+
+1633094644 source:c:\users\gonza\desktop\gavilondo_40666672\ej1\polinomio.cpp
+	<iostream>
+	<cmath>
+	"polinomio.h"
+

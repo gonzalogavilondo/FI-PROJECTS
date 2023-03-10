@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525916653 source:c:\users\juansito\desktop\string_to_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1525916653 source:e:\programacion_estructurada\cosa suelta\string_to_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1525916653 source:i:\programacion_estructurada\cosa suelta\string_to_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1525916654 source:d:\facultad\programacion_estructurada\funciones\string_to_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

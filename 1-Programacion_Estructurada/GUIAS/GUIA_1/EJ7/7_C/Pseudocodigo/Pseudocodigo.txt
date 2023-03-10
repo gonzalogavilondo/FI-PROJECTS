@@ -1,0 +1,18 @@
+Proceso raices_reales
+
+	Definir a, b, c, discriminante como reales;
+	Escribir "Digite el valor de a: ";
+	Leer a;
+	Escribir "Digite el valor de b: ";
+	Leer b;
+	Escribir "Digite el valor de c: ";
+	Leer c;
+	discriminante <- ((b^2)-(4*a*c));
+	Si discriminante >= 0 Entonces
+		Escribir "Las raices son reales";
+	SiNo
+		Escribir "No tiene raices reales";
+	FinSi
+
+FinProceso
+

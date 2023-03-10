@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1525536637 source:d:\carlitos\ej2\main.c
+	"header_ops.h"
+
+1525534219 d:\carlitos\ej2\header_ops.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<math.h>
+
+1525538217 source:d:\carlitos\ej2\source_ops.c
+	"header_ops.h"
+
+1526643619 source:c:\users\yo\desktop\ej2\main.c
+	"header_ops.h"
+
+1526643560 c:\users\yo\desktop\ej2\header_ops.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<math.h>
+
+1526643547 source:c:\users\yo\desktop\ej2\source_ops.c
+	"header_ops.h"
+
+1526643619 source:f:\programacion_estructurada\parciales\parcial_1_recu\ej2\main.c
+	"header_ops.h"
+
+1526644019 f:\programacion_estructurada\parciales\parcial_1_recu\ej2\header_ops.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<math.h>
+
+1526856591 source:i:\programacion_estructurada\parciales\parcial_1_recu\ej2\main.c
+	"header_ops.h"
+
+1526644019 i:\programacion_estructurada\parciales\parcial_1_recu\ej2\header_ops.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<math.h>
+
+1526644085 source:i:\programacion_estructurada\parciales\parcial_1_recu\ej2\source_ops.c
+	"header_ops.h"
+
+1526856592 source:d:\facultad\programacion_estructurada\parciales\parcial_1_recu\ej2\main.c
+	"header_ops.h"
+
+1526644020 d:\facultad\programacion_estructurada\parciales\parcial_1_recu\ej2\header_ops.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<math.h>
+
+1526856830 source:d:\facultad\programacion_estructurada\parciales\parcial_1_recu\ej2\source_ops.c
+	"header_ops.h"
+
+1526856592 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1_recu\ej2\main.c
+	"header_ops.h"
+
+1526644020 c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1_recu\ej2\header_ops.h
+	<stdio.h>
+	<locale.h>
+	<stdint.h>
+	<math.h>
+
+1526856830 source:c:\users\gonza\desktop\programacion_estructurada\parciales\parcial_1_recu\ej2\source_ops.c
+	"header_ops.h"
+

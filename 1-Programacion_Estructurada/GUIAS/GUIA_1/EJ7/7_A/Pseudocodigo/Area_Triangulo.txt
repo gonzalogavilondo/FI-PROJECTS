@@ -1,0 +1,11 @@
+Proceso area_triangulo
+
+	Definir area, altura, base como reales;
+	Escribir "Digite el valor de la base del triangulo: ";
+	Leer base;
+	altura <- (base^2);
+	area <- (base*altura)/2;
+	Escribir "El area del triangulo rectangulo es: ", area;
+
+FinProceso
+

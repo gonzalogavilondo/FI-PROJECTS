@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1633100902 source:c:\users\gonza\desktop\gavilondo_40666672\ej2\main.cpp
+	"cRadioReloj.h"
+
+1633102592 c:\users\gonza\desktop\gavilondo_40666672\ej2\cradioreloj.h
+	<iostream>
+	<string.h>
+
+1633103746 source:c:\users\gonza\desktop\gavilondo_40666672\ej2\cradioreloj.cpp
+	"cRadioReloj.h"
+
+1633104196 source:c:\users\gonza\downloads\gavilondo_40666672\ej2\cradioreloj.cpp
+	"cRadioReloj.h"
+
+1633104861 c:\users\gonza\downloads\gavilondo_40666672\ej2\cradioreloj.h
+	<iostream>
+	<string.h>
+
+1633100902 source:c:\users\gonza\downloads\gavilondo_40666672\ej2\main.cpp
+	"cRadioReloj.h"
+
+1633104196 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\gavilondo_40666672\ej2\cradioreloj.cpp
+	"cRadioReloj.h"
+
+1633104861 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\gavilondo_40666672\ej2\cradioreloj.h
+	<iostream>
+	<string.h>
+
+1633100902 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\parciales\1er_parcial\gavilondo_40666672\ej2\main.cpp
+	"cRadioReloj.h"
+

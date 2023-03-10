@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1618897393 source:c:\users\juan miguel\desktop\claaa\ej_4\source_cajero.c
+	<stdio.h>
+	<stdlib.h>
+	"header_cajero.h"
+	"header_listas_est.h"
+
+1619128598 source:c:\users\juan miguel\desktop\claaa\ej_4\source_listas_est.c
+	<stdio.h>
+	<stdlib.h>
+	"header_listas_est.h"
+
+1618934498 c:\users\juan miguel\desktop\claaa\ej_4\header_listas_est.h
+	<stdbool.h>
+
+1618897198 c:\users\juan miguel\desktop\claaa\ej_4\header_cajero.h
+
+1619128136 source:c:\users\juan miguel\desktop\claaa\ej_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header_listas_est.h"
+
+1619129207 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header_listas_est.h"
+
+1618920098 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej_4\header_listas_est.h
+	<stdbool.h>
+
+1619205161 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej4\source_listas_est.c
+	"header_listas_est.h"
+
+1619205161 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej4\header_listas_est.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1619205144 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header_listas_est.h"
+

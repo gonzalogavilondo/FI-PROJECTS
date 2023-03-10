@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620334873 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej8\main.c
+	"pilas.h"
+
+1620083152 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej8\pilas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620083140 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_4\ej8\pilas.c
+	"pilas.h"
+

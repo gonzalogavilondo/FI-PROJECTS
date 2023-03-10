@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1433426893 source:c:\users\roberto\documents\programacion estructurada\clases\7 archivos\programas\ej2_put_get\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1465390352 source:c:\users\roberto\documents\programacion estructurada\8 archivos\programas\ej2_put_get\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1559846627 source:c:\users\gonza\desktop\programacion_estructurada\teoria\unidad 8\programas_archivos\ej2_put_get\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

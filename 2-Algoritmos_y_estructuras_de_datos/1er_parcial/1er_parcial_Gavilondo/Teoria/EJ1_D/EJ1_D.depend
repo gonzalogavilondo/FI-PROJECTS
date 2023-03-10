@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620689901 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\teoria\ej1_d\main.c
+	"pilas.h"
+
+1620689885 c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\teoria\ej1_d\pilas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1620689885 source:c:\users\gonza\desktop\facultad\3_anio\ayed\1er_parcial\teoria\ej1_d\pilas.c
+	"pilas.h"
+

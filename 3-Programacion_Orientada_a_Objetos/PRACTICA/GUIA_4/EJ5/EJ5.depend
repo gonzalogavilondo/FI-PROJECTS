@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\main.cpp
+	<iostream>
+
+1632516449 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1632516449 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\include\fecha.h
+	<iostream>
+
+1632516513 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\src\empresa.cpp
+	"Empresa.h"
+
+1632517548 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\include\empresa.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+
+1632517426 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\include\empleado.h
+	"Empresa.h"
+
+1632517446 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\include\permanente.h
+	"Empleado.h"
+
+1632517483 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\ej5\include\temporario.h
+	"Empleado.h"
+
+1632782638 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\main.cpp
+	"Empresa.h"
+
+1632849786 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\empresa.cpp
+	"Empresa.h"
+
+1632695896 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\empresa.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+	"Temporario.h"
+	"Permanente.h"
+	"Gerente.h"
+
+1632516449 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\fecha.h
+	<iostream>
+
+1632516449 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1632681986 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\gerente.cpp
+	"Gerente.h"
+
+1632519078 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\gerente.h
+	"Permanente.h"
+
+1632781556 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\permanente.h
+	"Empleado.h"
+
+1632687476 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\empleado.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+
+1632779632 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\temporario.h
+	"Empleado.h"
+
+1632687490 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\empleado.cpp
+	"Empleado.h"
+
+1632945185 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\permanente.cpp
+	"Permanente.h"
+
+1632780092 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\temporario.cpp
+	"Temporario.h"
+
+1632768238 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\main.cpp
+	"Empresa.h"
+
+1632681496 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\empresa.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+	"Temporario.h"
+	"Permanente.h"
+	"Gerente.h"
+
+1632502048 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\fecha.h
+	<iostream>
+
+1632765232 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\temporario.h
+	"Empleado.h"
+
+1632673076 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\empleado.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+
+1632767156 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\permanente.h
+	"Empleado.h"
+
+1632504678 e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\include\gerente.h
+	"Permanente.h"
+
+1632673090 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\empleado.cpp
+	"Empleado.h"
+
+1632835386 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\empresa.cpp
+	"Empresa.h"
+
+1632502048 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1632667586 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\gerente.cpp
+	"Gerente.h"
+
+1632930784 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\permanente.cpp
+	"Permanente.h"
+
+1632765692 source:e:\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej5\src\temporario.cpp
+	"Temporario.h"
+

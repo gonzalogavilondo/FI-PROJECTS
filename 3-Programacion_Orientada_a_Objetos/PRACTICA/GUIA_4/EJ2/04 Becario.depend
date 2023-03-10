@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1633043190 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\becario.cpp
+	"becario.h"
+
+1633039806 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\becario.h
+	"empleado.h"
+	"estudiante.h"
+
+1633084967 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\empleado.h
+	"persona.h"
+
+1633039962 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\persona.h
+	<iostream>
+
+1633084590 c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\estudiante.h
+	"persona.h"
+
+1633085000 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\empleado.cpp
+	"empleado.h"
+
+1633084590 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\estudiante.cpp
+	"estudiante.h"
+
+1633104066 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\main.cpp
+	"estudiante.h"
+	"empleado.h"
+	"becario.h"
+	"fstream"
+
+1633040037 source:c:\users\gonza\desktop\facultad\3_anio\2do_cuatrimestre\poo\practica\guia_4\ej2\persona.cpp
+	"persona.h"
+	<ctime>
+

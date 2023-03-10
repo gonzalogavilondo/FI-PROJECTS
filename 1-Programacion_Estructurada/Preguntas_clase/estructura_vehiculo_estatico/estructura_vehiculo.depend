@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1558550406 source:g:\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558550397 g:\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo\declaraciones_funciones.h
+
+1558550397 source:g:\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558565124 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558565051 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo\declaraciones_funciones.h
+
+1558563779 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558563779 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558656321 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\declaraciones_funciones.h
+
+1558656567 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558563779 source:c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+
+1558656321 c:\users\gonza\desktop\facultad\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\declaraciones_funciones.h
+
+1558656603 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558656321 c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\declaraciones_funciones.h
+
+1558563779 source:c:\users\gonza\desktop\facultad\2_año\programacion_estructurada\preguntas_clase\estructura_vehiculo_estatico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+

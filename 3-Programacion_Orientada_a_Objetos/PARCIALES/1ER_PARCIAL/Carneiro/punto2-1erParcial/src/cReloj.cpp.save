@@ -1,0 +1,80 @@
+#include "cReloj.h"
+#inclu
+
+/*************CTIME***********************************/
+cTime::cTime(unsigned int horaIn, unsigned int minutoIn, unsigned int segundoIn)
+{
+    hora = horaIn;
+    minuto = minutoIn;
+    segundo = segundoIn;
+}
+ostream& operator<< (ostream &co, const cTime &ct)
+{
+    co << ct.hora << " : " << ct.minuto << " : " << ct.segundo;
+
+    return co;
+}
+/*************CRELOJ*******************************/
+cReloj::cReloj(cTime timeIn)
+{
+    time = timeIn;
+}
+cReloj::cReloj(unsigned int hr, unsigned int min, unsigned int seg)
+{
+
+    time.SetHora(hr);
+    time.SetMinuto(min);
+    time.SetSegundo(seg);
+
+    marca = new char[MAX_MARCA];
+}
+cReloj::cReloj(const cReloj &c)
+{
+    time = c.time,
+    marca = c.marca;
+}
+cReloj::~cReloj()
+{
+    delete [] marca;
+}
+void cReloj::setTiempo(int hr, int min, int seg)
+{
+    time.SetHora(hr);
+    time.SetMinuto(min);
+    time.SetSegundo(seg);
+}
+/***********CRADIO*******************************/
+cRadio::cRadio(float frec, TipoDeBanda ban, bool pren)
+{
+    frecuencia = frec;
+    banda = ban;
+    prendido = pren;
+}
+cRadio::cRadio(const cRadio &cr)
+{
+    frecuencia = cr.frecuencia;
+    banda = cr.banda,
+    prendido = cr.prendido;
+}
+void cRadio::setBanda(TipoDeBanda tipoBandaIn)
+{
+    banda = tipoBandaIn;
+}
+/********CRADIORELOJ*****************************************/
+cRadioReloj::cRadioReloj(cTime timeIn, cTime alarmaIn, TipoAlarma tipoAlarmaIn,
+            bool prendidoAlarmaIn, float frecuenciaIn, TipoDeBanda tipoBandaIn, bool prendidoRelojIn)
+: cRadio(frecuenciaIn, tipoBandaIn, prendidoRelojIn),
+  cReloj(timeIn)
+{
+    alarma = alarmaIn;
+    tipo = tipoAlarmaIn;
+    prendido = prendidoAlarmaIn;
+}
+bool cRadioReloj::verificarAlarma()
+{
+    if(prendido)
+        return true;
+    else
+        return false;
+}
+/*****************************/

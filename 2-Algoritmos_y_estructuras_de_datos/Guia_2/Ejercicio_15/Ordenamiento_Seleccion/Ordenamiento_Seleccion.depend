@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1617475418 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_10\ordenamiento_seleccion\main.c
+	"declaraciones.h"
+
+1617473266 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_10\ordenamiento_seleccion\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1617474621 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_10\ordenamiento_seleccion\funciones.c
+	"declaraciones.h"
+
+1617474621 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_nr\ordenamiento_seleccion\funciones.c
+	"declaraciones.h"
+
+1620352126 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_nr\ordenamiento_seleccion\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620352126 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\ordenamientos_nr\ordenamiento_seleccion\main.c
+	"declaraciones.h"
+
+1620352154 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_15\ordenamiento_seleccion\funciones.c
+	"declaraciones.h"
+
+1620402705 c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_15\ordenamiento_seleccion\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620402710 source:c:\users\gonza\desktop\facultad\3_anio\ayed\guia_2\ejercicio_15\ordenamiento_seleccion\main.c
+	"declaraciones.h"
+

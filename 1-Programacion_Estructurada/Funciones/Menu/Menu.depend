@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1357009862 source:c:\users\gonza\desktop\menu\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357009904 c:\users\gonza\desktop\menu\declaraciones_menu.h
+
+1357009874 source:c:\users\gonza\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357009911 source:c:\users\gonza\desktop\menu\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357009874 source:d:\facultad\programacion_estructurada\funciones\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_menu.h"
+
+1357009904 d:\facultad\programacion_estructurada\funciones\menu\declaraciones_menu.h
+
+1357009939 source:d:\facultad\programacion_estructurada\funciones\menu\menu.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1357011293 source:d:\facultad\programacion_estructurada\funciones\menu\opcion_elegida.c
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

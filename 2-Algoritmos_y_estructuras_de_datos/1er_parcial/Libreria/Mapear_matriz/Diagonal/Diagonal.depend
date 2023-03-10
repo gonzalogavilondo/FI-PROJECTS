@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1620350492 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mapear_matriz\diagonal\funciones.c
+	"declaraciones.h"
+
+1620350664 c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mapear_matriz\diagonal\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620350492 source:c:\users\gonza\desktop\facultad\3_anio\ayed\parcial\mapear_matriz\diagonal\main.c
+	"declaraciones.h"
+
+1620350492 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\mapear_matriz\diagonal\funciones.c
+	"declaraciones.h"
+
+1620351628 c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\mapear_matriz\diagonal\declaraciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620351633 source:c:\users\gonza\desktop\facultad\3_anio\ayed\libreria_1er_parcial\mapear_matriz\diagonal\main.c
+	"declaraciones.h"
+

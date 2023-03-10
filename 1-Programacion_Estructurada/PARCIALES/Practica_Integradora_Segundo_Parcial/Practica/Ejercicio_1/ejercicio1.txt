@@ -1,0 +1,6 @@
+5
+17 Texto de longitud
+5 Corto
+2 No 
+15 Corto mas largo
+3 Si!

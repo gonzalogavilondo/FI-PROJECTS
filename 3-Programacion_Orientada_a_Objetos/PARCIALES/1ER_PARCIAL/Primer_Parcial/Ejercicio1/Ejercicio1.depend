@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1633094097 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio1\ctermino.cpp
+	"CTermino.h"
+
+1633094631 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio1\ctermino.h
+	<iostream>
+	<iomanip>
+
+1238536800 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio1\main.cpp
+	<iostream>
+	"polinomio.h"
+
+1633092378 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio1\polinomio.h
+	"CPolinomio.h"
+	"CTermino.h"
+
+1633094407 c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio1\cpolinomio.h
+	"CTermino.h"
+	<vector>
+
+1633094194 source:c:\users\lenovo\esteban\##proyectos_de_codeblocks##\prog_orientada_objetos 2021\primer_parcial\ejercicio1\polinomio.cpp
+	<iostream>
+	<cmath>
+	"polinomio.h"
+

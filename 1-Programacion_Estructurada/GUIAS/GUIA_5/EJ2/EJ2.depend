@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1524775376 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej2\main.c
+	"header_menu.h"
+
+1524774609 c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej2\header_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+
+1524773707 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej2\source_menu.c
+	"header_menu.h"
+
+1524775460 source:d:\facultad\programacion_estructurada\guias\guia_5\ej2\main.c
+	"header_menu.h"
+
+1524774610 d:\facultad\programacion_estructurada\guias\guia_5\ej2\header_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+
+1524773708 source:d:\facultad\programacion_estructurada\guias\guia_5\ej2\source_menu.c
+	"header_menu.h"
+
+1524775460 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej2\main.c
+	"header_menu.h"
+
+1524774610 c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej2\header_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+
+1524773708 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej2\source_menu.c
+	"header_menu.h"
+

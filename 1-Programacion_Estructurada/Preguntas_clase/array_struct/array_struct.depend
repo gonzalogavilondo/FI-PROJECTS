@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1560523964 source:g:\facultad\programacion_estructurada\preguntas_clase\array_struct\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1560523132 g:\facultad\programacion_estructurada\preguntas_clase\array_struct\declaraciones.h
+	<stdint.h>
+
+1560524097 source:g:\facultad\programacion_estructurada\preguntas_clase\array_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1560613858 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\array_struct\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1560613455 c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\array_struct\declaraciones.h
+	<stdint.h>
+
+1560613455 source:c:\users\gonza\desktop\programacion_estructurada\preguntas_clase\array_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1559427884 source:d:\facultad\programacion_estructurada\preguntas_clase\array_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1559427884 d:\facultad\programacion_estructurada\preguntas_clase\array_struct\declaraciones.h
+	<stdint.h>
+
+1559428777 source:d:\facultad\programacion_estructurada\preguntas_clase\array_struct\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1559676209 source:c:\users\gonza\desktop\array_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+
+1559674205 c:\users\gonza\desktop\array_struct\declaraciones.h
+	<stdint.h>
+
+1559676712 source:c:\users\gonza\desktop\array_struct\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaraciones.h"
+

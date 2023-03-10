@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1529665051 source:c:\users\gonza\desktop\programacion estructurada\cosas_rancias\fichero_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529665051 source:f:\programacion estructurada\cosas_rancias\fichero_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

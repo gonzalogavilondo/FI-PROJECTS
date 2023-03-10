@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561044260 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"declaraciones.h"
+
+1561043602 c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_4\declaraciones.h
+
+1561043515 source:c:\users\gonza\desktop\programacion_estructurada\parciales\practica integradora segundo parcial\practica\ejercicio_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones.h"
+

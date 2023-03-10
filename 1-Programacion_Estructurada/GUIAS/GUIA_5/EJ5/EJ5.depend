@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1524788006 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej5\main.c
+	"header_ops.h"
+
+1524782811 c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej5\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1524787578 source:c:\users\juansito\desktop\cosas codeblocks\guias\guia 5\ej5\source_ops.c
+	"header_ops.h"
+
+1524788006 source:c:\users\juansito\desktop\programacion_estructurada\practica_resuelta\guia_5\ej5\main.c
+	"header_ops.h"
+
+1524782811 c:\users\juansito\desktop\programacion_estructurada\practica_resuelta\guia_5\ej5\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1525986729 source:c:\users\juansito\desktop\programacion_estructurada\practica_resuelta\guia_5\ej5\source_ops.c
+	"header_ops.h"
+
+1556052900 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej5\main.c
+	"header_ops.h"
+
+1556731400 c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej5\header_ops.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1556731400 source:c:\users\gonza\desktop\programacion_estructurada\guias\guia_5\ej5\source_ops.c
+	"header_ops.h"
+
