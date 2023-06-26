@@ -184,3 +184,40 @@
 	<stdio.h>
 	<stdlib.h>
 
+1559138030 source:f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+
+1558026520 f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones_reales.h
+
+1558023974 f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_funciones.h
+
+1558026444 source:f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\funciones_reales.c
+	"declaraciones_funciones_reales.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558174138 source:f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\main.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558026444 f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\declaraciones_menu.h
+
+1558022180 source:f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\menu.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1558080896 source:f:\fi\1-programacion_estructurada\preguntas_clase\operaciones_matrices_menu_dinamico\opcion_elegida.c
+	"declaraciones_funciones_reales.h"
+	"declaraciones_funciones.h"
+	"declaraciones_menu.h"
+	<stdio.h>
+	<stdlib.h>
+

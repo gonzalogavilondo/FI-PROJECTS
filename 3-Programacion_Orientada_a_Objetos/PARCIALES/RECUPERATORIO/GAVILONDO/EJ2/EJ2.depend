@@ -249,3 +249,53 @@
 1638897586 source:g:\facultad\3_anio\2do_cuatrimestre\poo\parciales\recuperatorio\gavilondo\ej2\src\manejadorfiguras.cpp
 	"ManejadorFiguras.h"
 
+1638896125 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\main.cpp
+	"ManejadorFiguras.h"
+
+1638896921 f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\include\manejadorfiguras.h
+	<iostream>
+	<vector>
+	<fstream>
+	"CFigura.h"
+	"CCirculo.h"
+	"CRectangulo.h"
+	"CTriangulo.h"
+	"CColor.h"
+
+1638895288 f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\include\cfigura.h
+	<iostream>
+	<math.h>
+	"CColor.h"
+
+1638292636 f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\include\ccolor.h
+	<ostream>
+	<cstdint>
+
+1638894451 f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\include\ccirculo.h
+	"CFigura.h"
+
+1638894522 f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\include\crectangulo.h
+	"CFigura.h"
+
+1638894539 f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\include\ctriangulo.h
+	"CFigura.h"
+
+1638896261 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\src\ccirculo.cpp
+	"CCirculo.h"
+
+1638292712 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\src\ccolor.cpp
+	"CColor.h"
+	<iostream>
+
+1638896282 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\src\cfigura.cpp
+	"CFigura.h"
+
+1638894496 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\src\crectangulo.cpp
+	"CRectangulo.h"
+
+1638894568 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\src\ctriangulo.cpp
+	"CTriangulo.h"
+
+1638897586 source:f:\fi\3-programacion_orientada_a_objetos\parciales\recuperatorio\gavilondo\ej2\src\manejadorfiguras.cpp
+	"ManejadorFiguras.h"
+

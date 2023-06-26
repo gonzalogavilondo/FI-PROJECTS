@@ -1,14 +1,2 @@
 CCuentaAhorro:
 
-Nombre = Gonzalo Gavilondo
-Dni = 40666672
-Telefono = 2236830702
-
-Numero de cuenta = 0
-Saldo = $316228
-Porcentaje de interes = 35%
-Cantidad de transacciones = 0
-Importe por transaccion = 100
-Cantidad de transacciones gratuitas = 0
-Cantidad de extracciones realizadas en el mes = 0
-

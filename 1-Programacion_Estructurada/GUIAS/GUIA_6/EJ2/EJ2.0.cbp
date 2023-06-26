@@ -46,8 +46,6 @@
 			<code_completion>
 				<search_path add="C:\Users\Yo\Desktop\Backup\EJ6\" />
 			</code_completion>
-			<envvars />
-			<debugger />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

@@ -59,3 +59,18 @@
 	<locale.h>
 	"declaraciones_funciones.h"
 
+1616610388 source:f:\fi\1-programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"declaraciones_funciones.h"
+
+1558686564 f:\fi\1-programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\declaraciones_funciones.h
+
+1616610674 source:f:\fi\1-programacion_estructurada\preguntas_clase\estructura_vehiculo_punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"declaraciones_funciones.h"
+

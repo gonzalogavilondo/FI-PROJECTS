@@ -121,3 +121,118 @@
 1637108063 source:d:\users\juan\desktop\claaa\banco_final\src\reloj.cpp
 	"Reloj.h"
 
+1637690569 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<iomanip>
+	"Interfaz.h"
+
+1637689890 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\interfaz.h
+	<iostream>
+	<sstream>
+	<string>
+	<conio.h>
+	"Banco.h"
+	"Backup.h"
+	"Menu.h"
+	"Fecha.h"
+	"Reloj.h"
+
+1637683599 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\banco.h
+	<vector>
+	<map>
+	<algorithm>
+	<numeric>
+	<time.h>
+	<fstream>
+	"Cliente.h"
+	"CuentaBancaria.h"
+	"CuentaCorriente.h"
+	"CajaDeAhorro.h"
+	"CuentaUniversitaria.h"
+
+1637096846 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\cliente.h
+	<vector>
+	"Fecha.h"
+	"Persona.h"
+
+1634265359 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\fecha.h
+	<iostream>
+
+1637096846 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\persona.h
+	"Fecha.h"
+
+1637096691 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\cuentabancaria.h
+	<iostream>
+	<vector>
+	<string>
+	"Fecha.h"
+
+1637096713 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\cuentacorriente.h
+	"CuentaBancaria.h"
+	<cmath>
+
+1637096713 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\cajadeahorro.h
+	"CuentaBancaria.h"
+
+1637096713 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\cuentauniversitaria.h
+	"CuentaBancaria.h"
+	"Reloj.h"
+
+1636748360 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\reloj.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<sstream>
+	<string>
+
+1637432936 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\backup.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1637688460 f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\include\menu.h
+	<vector>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	"Banco.h"
+	<conio.h>
+	<stdio.h>
+
+1637689325 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\backup.cpp
+	"Backup.h"
+
+1637689942 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\banco.cpp
+	"Banco.h"
+
+1637096756 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\cajadeahorro.cpp
+	"CajaDeAhorro.h"
+
+1637096866 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\cliente.cpp
+	"Cliente.h"
+
+1637096768 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\cuentacorriente.cpp
+	"CuentaCorriente.h"
+
+1637096781 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\cuentauniversitaria.cpp
+	"CuentaUniversitaria.h"
+
+1634350473 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<string>
+	<string.h>
+
+1637689384 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\menu.cpp
+	"Menu.h"
+
+1637689765 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\persona.cpp
+	"Persona.h"
+
+1637108063 source:f:\fi\3-programacion_orientada_a_objetos\practica\banco_final\src\reloj.cpp
+	"Reloj.h"
+

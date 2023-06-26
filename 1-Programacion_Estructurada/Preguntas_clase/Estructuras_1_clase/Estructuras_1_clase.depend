@@ -13,3 +13,17 @@
 
 1557945826 f:\facultad\programacion_estructurada\preguntas_clase\estructuras_1_clase\declaraciones_funciones.h
 
+1557931426 source:f:\fi\1-programacion_estructurada\preguntas_clase\estructuras_1_clase\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
+1682339924 f:\fi\1-programacion_estructurada\preguntas_clase\estructuras_1_clase\declaraciones_funciones.h
+
+1557931102 source:f:\fi\1-programacion_estructurada\preguntas_clase\estructuras_1_clase\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"declaraciones_funciones.h"
+
